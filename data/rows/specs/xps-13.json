@@ -1,0 +1,4219 @@
+{
+  "line": "xps-13",
+  "devices": [
+    {
+      "id": "xps-13-l321x",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (L321X, 2012)",
+      "variant": null,
+      "generation": "L321X",
+      "modelNumbers": [
+        "L321X",
+        "P29G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-l322x",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (L322X, late 2012)",
+      "variant": null,
+      "generation": "L322X",
+      "modelNumbers": [
+        "L322X",
+        "P29G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9333",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9333, late 2013)",
+      "variant": null,
+      "generation": "9333",
+      "modelNumbers": [
+        "9333",
+        "P29G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9343",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9343, 2015)",
+      "variant": null,
+      "generation": "9343",
+      "modelNumbers": [
+        "9343",
+        "P54G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9350",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9350, late 2015)",
+      "variant": null,
+      "generation": "9350",
+      "modelNumbers": [
+        "9350",
+        "P54G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9360",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9360, 2016)",
+      "variant": null,
+      "generation": "9360",
+      "modelNumbers": [
+        "9360",
+        "P54G"
+      ],
+      "googleName": null,
+      "note": "7th-gen launch Oct 2016; 8th-gen CPUs added 2017 in the same chassis and battery"
+    },
+    {
+      "id": "xps-13-9370",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9370, 2018)",
+      "variant": null,
+      "generation": "9370",
+      "modelNumbers": [
+        "9370",
+        "P82G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9380",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9380, 2019)",
+      "variant": null,
+      "generation": "9380",
+      "modelNumbers": [
+        "9380",
+        "P82G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-7390",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (7390, late 2019)",
+      "variant": null,
+      "generation": "7390",
+      "modelNumbers": [
+        "7390",
+        "P82G"
+      ],
+      "googleName": null,
+      "note": "clamshell only; the 7390 2-in-1 is a different machine and is excluded"
+    },
+    {
+      "id": "xps-13-9300",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9300, 2020)",
+      "variant": null,
+      "generation": "9300",
+      "modelNumbers": [
+        "9300",
+        "P117G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9310",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9310, late 2020)",
+      "variant": null,
+      "generation": "9310",
+      "modelNumbers": [
+        "9310",
+        "P117G"
+      ],
+      "googleName": null,
+      "note": "clamshell only; the 9310 2-in-1 is excluded"
+    },
+    {
+      "id": "xps-13-9315",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9315, 2022)",
+      "variant": null,
+      "generation": "9315",
+      "modelNumbers": [
+        "9315",
+        "P153G"
+      ],
+      "googleName": null,
+      "note": "clamshell only; the 9315 2-in-1 is excluded"
+    },
+    {
+      "id": "xps-13-plus-9320",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 Plus (9320, 2022)",
+      "variant": null,
+      "generation": "9320",
+      "modelNumbers": [
+        "9320",
+        "P151G"
+      ],
+      "googleName": null,
+      "note": "12th-gen launch 2022; 13th-gen CPUs added 2023 in the same chassis and battery"
+    },
+    {
+      "id": "xps-13-9340",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9340, 2024)",
+      "variant": null,
+      "generation": "9340",
+      "modelNumbers": [
+        "9340",
+        "P151G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9345",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9345, 2024, Snapdragon)",
+      "variant": null,
+      "generation": "9345",
+      "modelNumbers": [
+        "9345",
+        "P189G"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "xps-13-9350-2024",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (9350, 2024, Lunar Lake)",
+      "variant": null,
+      "generation": "9350 (2024)",
+      "modelNumbers": [
+        "9350",
+        "P151G"
+      ],
+      "googleName": null,
+      "note": "reuses the 9350 model number of the 2015 XPS 13; regulatory type P151G003"
+    },
+    {
+      "id": "xps-13-dx13260",
+      "line": "xps-13",
+      "category": "laptop",
+      "name": "Dell XPS 13 (DX13260, 2026)",
+      "variant": null,
+      "generation": "DX13260",
+      "modelNumbers": [
+        "DX13260",
+        "P212G"
+      ],
+      "googleName": null,
+      "note": "XPS brand returned at CES 2026 after the 2025 rename; new chassis but the same 13-inch clamshell XPS line"
+    }
+  ],
+  "rows": [
+    {
+      "device": "xps-13-l321x",
+      "field": "model_number",
+      "value": "L321X",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x_owner's%20manual_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Computer model: L321x/L322x",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "model_number",
+      "value": "P29G",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x_owner's%20manual_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory model: P29G Regulatory type: P29G001/P29G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "capacity_wh",
+      "value": 47,
+      "url": "https://engadget.com/2012/01/10/dells-xps-13-ultrabook-announced",
+      "archiveUrl": null,
+      "quote": "Intel HD 3000 graphics; a 47Wh battery rated for up to eight hours",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "capacity_wh",
+      "value": 47,
+      "url": "https://techcrunch.com/2012/01/06/dell-xps-13-999-ultrabook",
+      "archiveUrl": null,
+      "quote": "Dell claims the 47WHr battery is good for up to 8 hours",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "release_date",
+      "value": "2012-01-10",
+      "kind": "announced",
+      "note": "CES 2012 article date; availability \"at the end of February\"",
+      "url": "https://engadget.com/2012/01/10/dells-xps-13-ultrabook-announced",
+      "archiveUrl": null,
+      "quote": "arrives in February for $999 By Dana Wollman Jan. 10, 2012",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "release_date",
+      "value": "2012-01-06",
+      "kind": "announced",
+      "url": "https://techcrunch.com/2012/01/06/dell-xps-13-999-ultrabook",
+      "archiveUrl": null,
+      "quote": "Matt Burns 6:44 AM PST · January 6, 2012 Hello beautiful. Dell just announced its first ultrabook, the XPS 13",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "launch_price_usd",
+      "value": 999,
+      "note": "base config",
+      "url": "https://techcrunch.com/2012/01/06/dell-xps-13-999-ultrabook",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 Ultrabook Hits With A Trio Of CPU Options, 13.3-inch Screen And A $999 Starting MSRP",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "launch_price_usd",
+      "value": 999,
+      "note": "base config",
+      "url": "https://www.laptopmag.com/reviews/laptops/dell-xps-13-2012",
+      "archiveUrl": null,
+      "quote": "Starting at $999, this 3-pound machine is one of the smallest of its ilk",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "resolution_px",
+      "value": "1366x768",
+      "url": "https://engadget.com/2012/01/10/dells-xps-13-ultrabook-announced",
+      "archiveUrl": null,
+      "quote": "Other specs include a 300-nit, 1366 x 768, Gorilla Glass display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "url": "https://engadget.com/2012/01/10/dells-xps-13-ultrabook-announced",
+      "archiveUrl": null,
+      "quote": "Other specs include a 300-nit, 1366 x 768, Gorilla Glass display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "claimed_runtime_h",
+      "value": 8,
+      "kind": "daily_use",
+      "note": "workload not stated",
+      "url": "https://engadget.com/2012/01/10/dells-xps-13-ultrabook-announced",
+      "archiveUrl": null,
+      "quote": "a 47Wh battery rated for up to eight hours",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "model_number",
+      "value": "L322X",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Computer model: XPS L322X",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "model_number",
+      "value": "P29G",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory model: P29G | Type: P29G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "capacity_wh",
+      "value": 47,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 6-cell 'smart lithium' - 47 Whr battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "voltage_v",
+      "value": 7.4,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight 0.29 kg (0.63 lb) Voltage 7.4 V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.82 mm (13.30 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "resolution_px",
+      "value": "1366x768",
+      "note": "HD panel option",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Maximum resolution • 1366 x 768 HD • 1920 x 1080 FHD",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel option",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Maximum resolution • 1366 x 768 HD • 1920 x 1080 FHD",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.82 mm (13.30 in) Refresh rate 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "width_mm",
+      "value": 316,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 316 mm (12.44 in) Depth 205 mm (8.07 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "height_mm",
+      "value": 205,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 316 mm (12.44 in) Depth 205 mm (8.07 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "depth_mm",
+      "value": 18,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 6 mm front, 18 mm back",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Front 6 mm (0.24 in) Back 18 mm (0.71 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "weight_g",
+      "value": 1320,
+      "note": "starting weight",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight with 6-cell battery (starting at) 1.32 kg (2.91 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "soc",
+      "value": "Intel Core i5 (3rd generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • Intel Core i5 (3rd generation) • Intel Core i7 (3rd generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "soc",
+      "value": "Intel Core i7 (3rd generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-l321x-mlk_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • Intel Core i5 (3rd generation) • Intel Core i7 (3rd generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "release_date",
+      "value": "2012-11-17",
+      "kind": "released",
+      "note": "article says Dell \"quietly refreshed its original Ultrabook, the XPS 13, with the latest processors\"; L322X not named",
+      "url": "https://www.umpcportal.com/2012/11/dell-xps-13-ultrabook-finally-available-with-latest-intel-processors/",
+      "archiveUrl": null,
+      "quote": "Posted on 17 November 2012",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "launch_price_usd",
+      "value": 999,
+      "note": "base config, i5-3317U, 4GB, 128GB",
+      "url": "https://www.umpcportal.com/2012/11/dell-xps-13-ultrabook-finally-available-with-latest-intel-processors/",
+      "archiveUrl": null,
+      "quote": "You can now find the Dell XPS 13 Starting at $999 on Dell’s site",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "launch_price_usd",
+      "value": 999,
+      "url": "https://www.laptopmag.com/reviews/laptops/dell-xps-13-2013",
+      "archiveUrl": null,
+      "quote": "This Ultrabook (starting at $999, $1,599 as configured)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "model_number",
+      "value": "9333",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Computer model: XPS 9333",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "model_number",
+      "value": "P29G",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory model: P29G | Type: P29G003",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 6-cell 'smart lithium' - 55 Whr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "voltage_v",
+      "value": 7.4,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight 0.68 lb (310 gm) Voltage 7.4 V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 13.30 inches (337.82 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 13.3 inch WLED Resolution 1920 x 1080 full HD",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "panel",
+      "value": "WLED",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 13.3 inch WLED Resolution 1920 x 1080 full HD",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 13.30 inches (337.82 mm) Refresh rate 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "width_mm",
+      "value": 316,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 12.44 inches (316 mm) Depth 8.07 inches (205 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "height_mm",
+      "value": 205,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 12.44 inches (316 mm) Depth 8.07 inches (205 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "depth_mm",
+      "value": 18,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 6 mm front, 18 mm back",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Front 0.24 inches (6 mm) Back 0.71 inches (18 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "weight_g",
+      "value": 1330,
+      "note": "minimum weight",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (minimum) 2.94 lb (1.33 kg)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "soc",
+      "value": "Intel Core i3 (4th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • Intel Core i3 (4th generation) • Intel Core i5 (4th generation) • Intel Core i7 (4th generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "soc",
+      "value": "Intel Core i5 (4th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • Intel Core i3 (4th generation) • Intel Core i5 (4th generation) • Intel Core i7 (4th generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "soc",
+      "value": "Intel Core i7 (4th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9333_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • Intel Core i3 (4th generation) • Intel Core i5 (4th generation) • Intel Core i7 (4th generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "release_date",
+      "value": "2013-10-02",
+      "kind": "announced",
+      "note": "Dell press release quoted in Engadget article dated 2013-10-02; on sale November 2013",
+      "url": "https://www.engadget.com/2013-10-02-dell-xps-13-15-refreshed.html",
+      "archiveUrl": null,
+      "quote": "The Venue 11 Pro, XPS 11 and the updated XPS 13 with touch will be available in November",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "launch_price_usd",
+      "value": 999.99,
+      "url": "https://www.engadget.com/2013-10-02-dell-xps-13-15-refreshed.html",
+      "archiveUrl": null,
+      "quote": "XPS 11: $999.99 New XPS 13: $999.99",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "daily_use",
+      "note": "workload not stated",
+      "url": "https://www.engadget.com/2013-10-02-dell-xps-13-15-refreshed.html",
+      "archiveUrl": null,
+      "quote": "with battery life rated at up to 10 hours",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "model_number",
+      "value": "9343",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Computer model: XPS 9343",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "model_number",
+      "value": "P54G",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory model: P54G | Type: P54G001",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell 52 WHr smart lithium ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.ifixit.com/api/2.0/guides/36157",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 features a four-cell, 7.4 V, 52 Wh battery with",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.ultrabookreview.com/6151-dell-xps-13-2015-9343-review/",
+      "archiveUrl": null,
+      "quote": "Dell went for a 52 Wh battery on this laptop",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "voltage_v",
+      "value": 8.8,
+      "note": "Dell spec sheet value; iFixit teardown says 7.4 V",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (maximum) 0.25 kg (0.55 lb) Voltage 8.8 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "voltage_v",
+      "value": 7.4,
+      "url": "https://www.ifixit.com/api/2.0/guides/36157",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 features a four-cell, 7.4 V, 52 Wh battery with",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "claimed_runtime_h",
+      "value": 11,
+      "kind": "daily_use",
+      "note": "Dell claim as quoted by iFixit; workload not stated",
+      "url": "https://www.ifixit.com/api/2.0/guides/36157",
+      "archiveUrl": null,
+      "quote": "52 Wh battery with \\\"up to 11 hours of run time.\\\"",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "claimed_runtime_h",
+      "value": 15,
+      "kind": "daily_use",
+      "note": "Dell ad claim for FHD config as reported; workload not stated",
+      "url": "https://www.ultrabookreview.com/6151-dell-xps-13-2015-9343-review/",
+      "archiveUrl": null,
+      "quote": "their ads mention up to 15 hours of life on a single charge for the configuration",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.05 mm (13.3 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "resolution_px",
+      "value": "3200x1800",
+      "note": "QHD+ touch panel option",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "QHD+ 3200 x 1800 FHD 1920 x 1080",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD anti-glare panel option",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "QHD+ 3200 x 1800 FHD 1920 x 1080",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.05 mm (13.3 in) Refresh rate 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "width_mm",
+      "value": 304,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 9 mm to 15 mm (0.35 in to 0.60 in) Width 304 mm (11.98 in) Depth 200 mm (7.88 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "height_mm",
+      "value": 200,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 9 mm to 15 mm (0.35 in to 0.60 in) Width 304 mm (11.98 in) Depth 200 mm (7.88 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "depth_mm",
+      "value": 15,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 9-15 mm wedge",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 9 mm to 15 mm (0.35 in to 0.60 in) Width 304 mm (11.98 in) Depth 200 mm (7.88 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "weight_g",
+      "value": 1270,
+      "note": "touch (QHD+), maximum",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Touch screen 1.27 kg (2.8 lb) Non-touch screen 1.18 kg (2.6 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "weight_g",
+      "value": 1180,
+      "note": "non-touch (FHD), maximum",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Touch screen 1.27 kg (2.8 lb) Non-touch screen 1.18 kg (2.6 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "soc",
+      "value": "Intel Core i3 (5th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 5th Generation Intel Core i3 • 5th Generation Intel Core i5 • 5th Generation Intel Core i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "soc",
+      "value": "Intel Core i5 (5th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 5th Generation Intel Core i3 • 5th Generation Intel Core i5 • 5th Generation Intel Core i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "soc",
+      "value": "Intel Core i7 (5th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9343-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 5th Generation Intel Core i3 • 5th Generation Intel Core i5 • 5th Generation Intel Core i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "launch_price_usd",
+      "value": 799.99,
+      "note": "base config; article dated March 2015, not launch day",
+      "url": "https://www.windowscentral.com/72-hours-new-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "Buy the Dell XPS 13, starting at $799.99",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "model_number",
+      "value": "9350",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Computer model: XPS 9350",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "model_number",
+      "value": "P54G",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory model: P54G | Type: P54G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "capacity_wh",
+      "value": 56,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell 56 WHr smart lithium ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "capacity_wh",
+      "value": 56,
+      "url": "https://www.ultrabookreview.com/10427-dell-xps-9350-review/",
+      "archiveUrl": null,
+      "quote": "mic/earphone combo Battery 56 Wh Operating system Windows 10",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "voltage_v",
+      "value": 8.8,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (maximum) 0.25 kg (0.55 lb) Voltage 8.8 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "claimed_runtime_h",
+      "value": 18,
+      "kind": "daily_use",
+      "note": "Dell claim as reported; workload not stated",
+      "url": "https://www.ultrabookreview.com/10427-dell-xps-9350-review/",
+      "archiveUrl": null,
+      "quote": "Dell embellishes just a tiny bit saying there is 18 hour battery life",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.05 mm (13.30 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "resolution_px",
+      "value": "3200x1800",
+      "note": "QHD+ touch panel option",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "QHD+ 3200 x 1800 FHD 1920 x 1080",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel options (touch and anti-glare non-touch)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "QHD+ 3200 x 1800 FHD 1920 x 1080",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.05 mm (13.30 in) Refresh rate 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "width_mm",
+      "value": 304,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 9 mm to 15 mm (0.35 in to 0.59 in) Width 304 mm (11.97 in) Depth 200 mm (7.87 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "height_mm",
+      "value": 200,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 9 mm to 15 mm (0.35 in to 0.59 in) Width 304 mm (11.97 in) Depth 200 mm (7.87 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "depth_mm",
+      "value": 15,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 9-15 mm wedge",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 9 mm to 15 mm (0.35 in to 0.59 in) Width 304 mm (11.97 in) Depth 200 mm (7.87 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "weight_g",
+      "value": 1290,
+      "note": "touch, maximum",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Touch screen 1.29 kg (2.84 lb) Non-touch screen 1.23 kg (2.71 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "weight_g",
+      "value": 1230,
+      "note": "non-touch, maximum",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Touch screen 1.29 kg (2.84 lb) Non-touch screen 1.23 kg (2.71 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "soc",
+      "value": "Intel Core i3 (6th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 6th Generation Intel Core i3 • 6th Generation Intel Core i5 • 6th Generation Intel Core i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "soc",
+      "value": "Intel Core i5 (6th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 6th Generation Intel Core i3 • 6th Generation Intel Core i5 • 6th Generation Intel Core i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "soc",
+      "value": "Intel Core i7 (6th generation)",
+      "url": "https://dl.dell.com/manuals/all-products/esuprt_laptop/esuprt_xps_laptop/xps-13-9350-laptop_reference%20guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 6th Generation Intel Core i3 • 6th Generation Intel Core i5 • 6th Generation Intel Core i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "model_number",
+      "value": "9360",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Computer Model: XPS 9360",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "model_number",
+      "value": "P54G",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P54G Regulatory Type: P54G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "capacity_wh",
+      "value": 60,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell \"smart\" lithium ion (60 WHr)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "capacity_wh",
+      "value": 60,
+      "url": "https://www.windowscentral.com/dell-confirms-new-xps-13-notebooks-will-have-intel-kaby-lake-cpus-and-22-hours-battery-life",
+      "archiveUrl": null,
+      "quote": "New larger 60WHr battery delivering longer battery life, up to 22 hours on FHD and up to 13 hours on QHD+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "voltage_v",
+      "value": 7.6,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (maximum) 0.25 kg (0.55 lb) Voltage 7.60 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "claimed_runtime_h",
+      "value": 22,
+      "kind": "daily_use",
+      "note": "FHD; workload not stated",
+      "url": "https://www.windowscentral.com/dell-confirms-new-xps-13-notebooks-will-have-intel-kaby-lake-cpus-and-22-hours-battery-life",
+      "archiveUrl": null,
+      "quote": "New larger 60WHr battery delivering longer battery life, up to 22 hours on FHD and up to 13 hours on QHD+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "claimed_runtime_h",
+      "value": 13,
+      "kind": "daily_use",
+      "note": "QHD+; workload not stated",
+      "url": "https://www.windowscentral.com/dell-confirms-new-xps-13-notebooks-will-have-intel-kaby-lake-cpus-and-22-hours-battery-life",
+      "archiveUrl": null,
+      "quote": "New larger 60WHr battery delivering longer battery life, up to 22 hours on FHD and up to 13 hours on QHD+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "release_date",
+      "value": "2016-10-04",
+      "kind": "released",
+      "note": "article last updated 15 September 2016",
+      "url": "https://www.windowscentral.com/dell-confirms-new-xps-13-notebooks-will-have-intel-kaby-lake-cpus-and-22-hours-battery-life",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 will go on sale on October 4 with prices starting at $799",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "launch_price_usd",
+      "value": 799,
+      "note": "base config",
+      "url": "https://www.windowscentral.com/dell-confirms-new-xps-13-notebooks-will-have-intel-kaby-lake-cpus-and-22-hours-battery-life",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 will go on sale on October 4 with prices starting at $799",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "display_in",
+      "value": 13.27,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.05 mm (13.27 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "resolution_px",
+      "value": "3200x1800",
+      "note": "QHD+ touch panel option",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Resolution (maximum) • QHD+: 3200 x 1800 • FHD: 1920 x 1080",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel options (touch and anti-glare)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Resolution (maximum) • QHD+: 3200 x 1800 • FHD: 1920 x 1080",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.05 mm (13.27 in) Refresh rate 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "width_mm",
+      "value": 304.16,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 8.95 mm to 15.35 mm (0.35 in to 0.60 in) Width 304.16 mm (11.97 in) Depth 200.25 mm (7.88 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "height_mm",
+      "value": 200.25,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 8.95 mm to 15.35 mm (0.35 in to 0.60 in) Width 304.16 mm (11.97 in) Depth 200.25 mm (7.88 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "depth_mm",
+      "value": 15.35,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 8.95-15.35 mm wedge",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 8.95 mm to 15.35 mm (0.35 in to 0.60 in) Width 304.16 mm (11.97 in) Depth 200.25 mm (7.88 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "weight_g",
+      "value": 1320,
+      "note": "touchscreen",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight • Touchscreen: 1.32 kg (2.91 lb) • Non-touchscreen: 1.22 kg (2.69 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "weight_g",
+      "value": 1220,
+      "note": "non-touchscreen",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight • Touchscreen: 1.32 kg (2.91 lb) • Non-touchscreen: 1.22 kg (2.69 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "soc",
+      "value": "Intel Core i3/i5/i7 (7th generation)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 7th generation Intel Core i3/i5/i7 • 8th generation Intel Core i5/i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "soc",
+      "value": "Intel Core i5/i7 (8th generation)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9360-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor • 7th generation Intel Core i3/i5/i7 • 8th generation Intel Core i5/i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "model_number",
+      "value": "9370",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 9370 Setup and Specifications Regulatory Model: P82G",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "model_number",
+      "value": "P82G",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P82G Regulatory Type: P82G001",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 52 WHr \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.windowscentral.com/dell-announces-xps-13-9370",
+      "archiveUrl": null,
+      "quote": "Optional Windows Hello compliant fingerprint reader in power button Battery 52WHr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "voltage_v",
+      "value": 7.6,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (maximum) 0.22 kg (0.49 lb) Voltage 7.60 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "release_date",
+      "value": "2018-01-04",
+      "kind": "released",
+      "url": "https://www.windowscentral.com/dell-announces-xps-13-9370",
+      "archiveUrl": null,
+      "quote": "Starting price $999.99 Availability January 4, 2018",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "launch_price_usd",
+      "value": 999.99,
+      "note": "base config",
+      "url": "https://www.windowscentral.com/dell-announces-xps-13-9370",
+      "archiveUrl": null,
+      "quote": "Starting price $999.99 Availability January 4, 2018",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal (excluding bezel) 337.82 mm (13.30 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel options (touch and non-touch)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Resolution (maximum) 1920 x 1080 3840 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "resolution_px",
+      "value": "3840x2160",
+      "note": "UHD touch panel option",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Resolution (maximum) 1920 x 1080 3840 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 HZ 60 HZ",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "url": "https://www.windowscentral.com/dell-announces-xps-13-9370",
+      "archiveUrl": null,
+      "quote": "this is the next-generation that can now go to 400nits of brightness (up from 350)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "width_mm",
+      "value": 301.76,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 7.80 mm to 11.63 mm (0.30 in to 0.46 in) Width 301.76 mm (11.88 in) Depth 199.24 mm (7.84 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "height_mm",
+      "value": 199.24,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 7.80 mm to 11.63 mm (0.30 in to 0.46 in) Width 301.76 mm (11.88 in) Depth 199.24 mm (7.84 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "depth_mm",
+      "value": 11.63,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 7.8-11.63 mm wedge",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Height 7.80 mm to 11.63 mm (0.30 in to 0.46 in) Width 301.76 mm (11.88 in) Depth 199.24 mm (7.84 in)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "weight_g",
+      "value": 1270,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Depth 199.24 mm (7.84 in) Weight 1.27 kg (2.8 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "weight_g",
+      "value": 1210,
+      "note": "non-touch starting weight",
+      "url": "https://www.windowscentral.com/dell-announces-xps-13-9370",
+      "archiveUrl": null,
+      "quote": "Starting weight: 2.67 lbs (1.21 kg) for non-touch",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "soc",
+      "value": "Intel Core i5/i7 (8th generation)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9370-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor 8th Generation Intel Core i5/i7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "model_number",
+      "value": "9380",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 9380 Setup and Specifications Regulatory Model: P82G",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "model_number",
+      "value": "P82G",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P82G Regulatory Type: P82G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell “smart” lithium-ion (52 WHr)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "voltage_v",
+      "value": 7.6,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell “smart” lithium-ion (52 WHr) Voltage 7.60 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.82 mm (13.30 in.) 337.82 mm (13.30 in.) 337.82 mm (13.30 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel options (touch and non-touch)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Native resolution 1920 x 1080 1920 x 1080 3840 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "resolution_px",
+      "value": "3840x2160",
+      "note": "UHD touch panel option",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Native resolution 1920 x 1080 1920 x 1080 3840 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "panel",
+      "value": "WVA",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Panel technology Wide Viewing Angle (WVA) Wide Viewing Angle (WVA) Wide Viewing Angle (WVA)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "all three panel options",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 400 nits 400 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 Hz 60 Hz 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "width_mm",
+      "value": 301.76,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 301.76 mm (11.88 in.) Depth 199.24 mm (7.84 in.) Weight 1.27 kg (2.81 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "height_mm",
+      "value": 199.24,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 301.76 mm (11.88 in.) Depth 199.24 mm (7.84 in.) Weight 1.27 kg (2.81 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "depth_mm",
+      "value": 11.63,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 7.8 mm front, 11.63 mm rear",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Front 7.80 mm (0.31 in.) Rear 11.63 mm (0.46 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "weight_g",
+      "value": 1270,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 301.76 mm (11.88 in.) Depth 199.24 mm (7.84 in.) Weight 1.27 kg (2.81 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "soc",
+      "value": "Intel Core i3-8145U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core i3 (8145U)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "soc",
+      "value": "Intel Core i5-8265U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core i5 (8265U)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "soc",
+      "value": "Intel Core i7-8565U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Core i7 (8565U)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "soc",
+      "value": "Intel Core i5-8365U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "8th Generation Intel Core i5 (8365U)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "soc",
+      "value": "Intel Core i7-8665U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9380-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "8th Generation Intel Core i7 (8665U)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "model_number",
+      "value": "7390",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 7390 Setup and Specifications Regulatory Model: P82G",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "model_number",
+      "value": "P82G",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P82G Regulatory Type: P82G003",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell \"smart\" lithium-ion (52 WHr)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "voltage_v",
+      "value": 7.6,
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Type 4-cell \"smart\" lithium-ion (52 WHr) Voltage 7.60 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "display_in",
+      "value": 13.3,
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 337.82 mm (13.30 in.) 337.82 mm (13.30 in.) 337.82 mm (13.30 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel options",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Native resolution 1920 x 1080 1920 x 1080 3840 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "resolution_px",
+      "value": "3840x2160",
+      "note": "UHD panel option",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Native resolution 1920 x 1080 1920 x 1080 3840 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "panel",
+      "value": "WVA",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Panel technology Wide Viewing Angle (WVA) Wide Viewing Angle (WVA) Wide Viewing Angle (WVA)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "all three panel options",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 400 nits 400 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 Hz 60 Hz 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "width_mm",
+      "value": 301.76,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 301.76 mm (11.88 in.) Depth 199.24 mm (7.84 in.) Weight (maximum) 1.29 kg (2.84 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "height_mm",
+      "value": 199.24,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 301.76 mm (11.88 in.) Depth 199.24 mm (7.84 in.) Weight (maximum) 1.29 kg (2.84 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "depth_mm",
+      "value": 11.63,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 7.8 mm front, 11.63 mm rear",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Front 7.80 mm (0.31 in.) Rear 11.63 mm (0.46 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "weight_g",
+      "value": 1290,
+      "note": "maximum",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (maximum) 1.29 kg (2.84 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "soc",
+      "value": "Intel Core i3-10110U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "10th Generation Intel Core i3-10110U",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "soc",
+      "value": "Intel Core i5-10210U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "10th Generation Intel Core i5-10210U",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "soc",
+      "value": "Intel Core i7-10510U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "10th Generation Intel Core i7-10510U",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "soc",
+      "value": "Intel Core i7-10710U",
+      "url": "https://dl.dell.com/topicspdf/xps-13-7390-laptop_setup-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "10th Generation Intel Core i7-10710U",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "model_number",
+      "value": "9300",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 9300 Setup and Specifications Regulatory Model: P117G",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "model_number",
+      "value": "P117G",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P117G Regulatory Type: P117G001",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 4-cell 52 Whr \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "Type-C to Type-A converter included Audio 2x 2.5W (4W peak) stereo Battery 52WHr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "voltage_v",
+      "value": 7.6,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Battery voltage 7.60 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "release_date",
+      "value": "2020-01-07",
+      "kind": "released",
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 will be available on January 7, 2020 starting at $1,000",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "launch_price_usd",
+      "value": 1000,
+      "note": "base config",
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 will be available on January 7, 2020 starting at $1,000",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "launch_price_usd",
+      "value": 1000,
+      "url": "https://www.windowscentral.com/new-dell-xps-13-9300-now-available",
+      "archiveUrl": null,
+      "quote": "The Dell XPS 13 starts at $1,000",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "claimed_runtime_h",
+      "value": 19,
+      "kind": "daily_use",
+      "note": "workload not stated",
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "Dell stated that the new XPS 13 gets up to 19 hours of battery life",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "display_in",
+      "value": 13.4,
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "Display 13.4-inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "UHD+ panel option",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel native resolution 3840 x 2400 1920 x 1200 1920 x 1200",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ panel options (touch and non-touch)",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel native resolution 3840 x 2400 1920 x 1200 1920 x 1200",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "panel",
+      "value": "WLED",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel technology WLED WLED WLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "all three panel options",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 Hz 60 Hz 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "width_mm",
+      "value": 295.65,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.65 mm (11.64 in.) Depth 198.68 mm (7.82 in.) Weight (maximum) 1.307 kg (2.88 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "height_mm",
+      "value": 198.68,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.65 mm (11.64 in.) Depth 198.68 mm (7.82 in.) Weight (maximum) 1.307 kg (2.88 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "depth_mm",
+      "value": 9.58,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; 6.75 mm front, 9.58 mm rear",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Front height 6.75 mm (0.27 in.) Rear height 9.58 mm (0.38 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "depth_mm",
+      "value": 14.8,
+      "note": "conflicts with Dell spec PDF front/rear heights",
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "Dimensions Height: 14.8mm (0.58\") x Width: 295.7mm (11.64\") x Depth: 198.7mm (7.82\")",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "weight_g",
+      "value": 1307,
+      "note": "maximum",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Weight (maximum) 1.307 kg (2.88 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "weight_g",
+      "value": 1200,
+      "note": "non-touch",
+      "url": "https://www.windowscentral.com/dell-announces-redesigned-dell-xps-13",
+      "archiveUrl": null,
+      "quote": "Weight 1.2kg (2.64lbs.) for non-touch",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "soc",
+      "value": "Intel Core i3-1005G1",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor type 10th Generation Intel Core i3-1005G1 10th Generation Intel Core i5-1035G1 10th Generation Intel Core i7-1065G7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "soc",
+      "value": "Intel Core i5-1035G1",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor type 10th Generation Intel Core i3-1005G1 10th Generation Intel Core i5-1035G1 10th Generation Intel Core i7-1065G7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "soc",
+      "value": "Intel Core i7-1065G7",
+      "url": "https://dl.dell.com/topicspdf/xps-13-9300-laptop_reference-guide_en-us.pdf",
+      "archiveUrl": null,
+      "quote": "Processor type 10th Generation Intel Core i3-1005G1 10th Generation Intel Core i5-1035G1 10th Generation Intel Core i7-1065G7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "model_number",
+      "value": "9310",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 9310 Setup and Specifications",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "model_number",
+      "value": "P117G",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P117G Regulatory Type: P117G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 4-cell 52 WHr \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.ultrabookreview.com/41838-dell-xps-13-9310/",
+      "archiveUrl": null,
+      "quote": "similar batteries: 52 Wh on the clamshell and 51 Wh on the 2-in-1",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "voltage_v",
+      "value": 7.6,
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 4-cell 52 WHr \"smart\" lithium-ion Battery voltage 7.60 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "UHD+ touch panel option",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "3840 x 2400 1920 x 1200 1920 x 1200 Luminance (typical) 500 nits 500 nits 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ panel options (touch and non-touch)",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "3840 x 2400 1920 x 1200 1920 x 1200 Luminance (typical) 500 nits 500 nits 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "panel",
+      "value": "WVA",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel technology Wide-Viewing Angle (WVA) Wide-Viewing Angle (WVA) Wide-Viewing Angle (WVA)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "all three panel options in this document",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 Hz 60 Hz 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "width_mm",
+      "value": 295.7,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height: 14.80 mm (0.58 in.) Width 295.70 mm (11.64 in.) Depth 198.70 mm (7.82 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "height_mm",
+      "value": 198.7,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height: 14.80 mm (0.58 in.) Width 295.70 mm (11.64 in.) Depth 198.70 mm (7.82 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "depth_mm",
+      "value": 14.8,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height: 14.80 mm (0.58 in.) Width 295.70 mm (11.64 in.) Depth 198.70 mm (7.82 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "weight_g",
+      "value": 1200,
+      "note": "non-touch starting",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Starting weight ● Non-touch: 1.20 kg (2.64 lb) ● Touch: 1.27 kg (2.80 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "weight_g",
+      "value": 1270,
+      "note": "touch starting",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Starting weight ● Non-touch: 1.20 kg (2.64 lb) ● Touch: 1.27 kg (2.80 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "soc",
+      "value": "Intel Core i3-1115G4",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "11th Generation Intel Core i3-1115G4 processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "soc",
+      "value": "Intel Core i5-1135G7",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "11th Generation Intel Core i5-1135G7 processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "soc",
+      "value": "Intel Core i7-1165G7",
+      "url": "https://dl.dell.com/content/manual17005717-xps-13-9310-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "11th Generation Intel Core i7-1165G7 processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "model_number",
+      "value": "9315",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 9315 / XPS 9315 Setup and Specifications",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "model_number",
+      "value": "P153G",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P153G Regulatory Type: P153G001",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "capacity_wh",
+      "value": 51,
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 51 Wh \"smart\" lithium-ion, ExpressCharge",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "capacity_wh",
+      "value": 51,
+      "url": "https://www.ultrabookreview.com/58529-dell-xps-13-9315-review/",
+      "archiveUrl": null,
+      "quote": "Battery 51 Wh, 45W charger",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "voltage_v",
+      "value": 11.55,
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery voltage 11.55 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "UHD+ option as listed by Dell (document lists it; not offered at US launch)",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 3840 x 2400 1920 x 1200 1920 x 1200 Luminance (typical) 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ panel options",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 3840 x 2400 1920 x 1200 1920 x 1200 Luminance (typical) 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "panel",
+      "value": "WVA",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel technology Wide Viewing Angle (WVA) Wide Viewing Angle (WVA) Wide Viewing Angle (WVA)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 Hz (maximum) 60 Hz (maximum) 60 Hz (maximum)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "width_mm",
+      "value": 295.4,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height 13.99 mm (0.55 in.) Width 295.40 mm (11.63 in.) Depth 199.40 mm (7.85 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "height_mm",
+      "value": 199.4,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height 13.99 mm (0.55 in.) Width 295.40 mm (11.63 in.) Depth 199.40 mm (7.85 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "depth_mm",
+      "value": 13.99,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height 13.99 mm (0.55 in.) Width 295.40 mm (11.63 in.) Depth 199.40 mm (7.85 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "weight_g",
+      "value": 1170,
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "configuration ordered and manufacturing variability. 1.17 kg (2.59 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "soc",
+      "value": "Intel Core i5-1230U",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Processor type 12th Generation Intel Core i5-1230U 12th Generation Intel Core i7-1250U",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "soc",
+      "value": "Intel Core i7-1250U",
+      "url": "https://dl.dell.com/content/manual28288318-xps-13-9315-xps-9315-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Processor type 12th Generation Intel Core i5-1230U 12th Generation Intel Core i7-1250U",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "model_number",
+      "value": "9320",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Specifications of XPS 13 Plus 9320",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "model_number",
+      "value": "P151G",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P151G Regulatory Type: P151G001",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://www.windowscentral.com/dell-xps-13-plus-finally-now-available-starting-1249",
+      "archiveUrl": null,
+      "quote": "Audio Quad speakers Battery 55Whr battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "voltage_v",
+      "value": 11.55,
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion Battery voltage 11.55 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "note": "base config",
+      "url": "https://www.windowscentral.com/dell-xps-13-plus-finally-now-available-starting-1249",
+      "archiveUrl": null,
+      "quote": "Starting price is $1,299 (USD)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "UHD+ touch panel option",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "3840 x 2400 1920 x 1200 1920 x 1200 3456 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ panel options (touch and non-touch)",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "3840 x 2400 1920 x 1200 1920 x 1200 3456 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "resolution_px",
+      "value": "3456x2160",
+      "note": "3.5K OLED panel option",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "3840 x 2400 1920 x 1200 1920 x 1200 3456 x 2160",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "panel",
+      "value": "WVA",
+      "note": "UHD+ and FHD+ options",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel technology Wide Viewing Angle (WVA) Wide Viewing Angle",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "panel",
+      "value": "OLED",
+      "note": "3.5K option",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "3.5K Organic Light Emitting Diode (OLED), Eyesafe low blue light display technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "UHD+/FHD+ panels",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "OLED panel",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "refresh_hz",
+      "value": 60,
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 60 Hz 60 Hz 60 Hz 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "width_mm",
+      "value": 295.3,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height 15.28 mm (0.60 in.) Width 295.30 mm (11.63 in.) Depth 199.04 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "height_mm",
+      "value": 199.04,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height 15.28 mm (0.60 in.) Width 295.30 mm (11.63 in.) Depth 199.04 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "depth_mm",
+      "value": 15.28,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Height 15.28 mm (0.60 in.) Width 295.30 mm (11.63 in.) Depth 199.04 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "weight_g",
+      "value": 1230,
+      "note": "FHD+ or 4K+",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.23 kg (2.71 lb) for computers shipped with an FHD+ or 4K+ display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "weight_g",
+      "value": 1260,
+      "note": "OLED",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.26 kg (2.77 lb) for computers shipped with an OLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "weight_g",
+      "value": 1240,
+      "url": "https://www.windowscentral.com/dell-xps-13-plus-finally-now-available-starting-1249",
+      "archiveUrl": null,
+      "quote": "Weight 1.24kg (2.73 lbs.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "soc",
+      "value": "Intel Core i5-1240P",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "i5-1240P",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "soc",
+      "value": "Intel Core i7-1260P",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "i7-1260P",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "soc",
+      "value": "Intel Core i5-1250P",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "i5-1250P",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "soc",
+      "value": "Intel Core i7-1270P",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "i7-1270P",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "soc",
+      "value": "Intel Core i7-1280P",
+      "url": "https://dl.dell.com/content/manual4700340-xps-13-plus-9320-xps-9320-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "i7-1280P",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "model_number",
+      "value": "9340",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 9340 Owner",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "model_number",
+      "value": "P151G",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P151G Regulatory Type: P151G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://www.ultrabookreview.com/66830-dell-xps-13-9340/",
+      "archiveUrl": null,
+      "quote": "the battery is 55 Wh and this XPS 13 comes with a 60W USB-C charger",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "voltage_v",
+      "value": 11.55,
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion Battery voltage 11.55 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "resolution_px",
+      "value": "2560x1600",
+      "note": "QHD+ touch panel option",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 2560 x 1600 1920 x 1200 2880 x 1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ non-touch panel option",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 2560 x 1600 1920 x 1200 2880 x 1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED touch panel option",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 2560 x 1600 1920 x 1200 2880 x 1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "panel",
+      "value": "OLED",
+      "note": "2.8K option",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "2.8K, OLED, Eyesafe low blue light display technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "QHD+/FHD+ panels",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "OLED panel",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "QHD+/FHD+; OLED is 60 Hz",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 120 Hz (maximum) 120 Hz (maximum) 60 Hz (maximum)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "width_mm",
+      "value": 295.3,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.3 mm (11.63 in.) Depth 199.1 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "height_mm",
+      "value": 199.1,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.3 mm (11.63 in.) Depth 199.1 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "depth_mm",
+      "value": 15.3,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; FHD+/QHD+",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 15.3 mm (0.60 in.) with FHD+ and QHD+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "depth_mm",
+      "value": 14.8,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; OLED",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Height ● 14.8 mm (0.58 in.) with OLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "weight_g",
+      "value": 1190,
+      "note": "OLED, minimum",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.19 kg (2.6 lbs) with OLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "weight_g",
+      "value": 1220,
+      "note": "FHD+/QHD+, minimum",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.22 kg (2.7 lbs) with FHD+ and QHD+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "soc",
+      "value": "Intel Core Ultra 5 125H",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Type Intel Core Ultra 5 125H Intel Core Ultra 7 155H Intel Core Ultra 7 165H",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "soc",
+      "value": "Intel Core Ultra 7 155H",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Type Intel Core Ultra 5 125H Intel Core Ultra 7 155H Intel Core Ultra 7 165H",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "soc",
+      "value": "Intel Core Ultra 7 165H",
+      "url": "https://dl.dell.com/content/manual19710215-xps-13-9340-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Type Intel Core Ultra 5 125H Intel Core Ultra 7 155H Intel Core Ultra 7 165H",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "model_number",
+      "value": "9345",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Specifications of XPS 13 9345",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "model_number",
+      "value": "P189G",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P189G Regulatory Type: P189G001",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://www.tomshardware.com/laptops/ultrabooks-ultraportables/dell-xps-13-9345-review",
+      "archiveUrl": null,
+      "quote": "Camera 1080p webcam + IR Battery 55 WHr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://www.windowscentral.com/hardware/laptops/dell-xps-13-snapdragon-x-announced",
+      "archiveUrl": null,
+      "quote": "Battery : 55Wh, 60W USB-C adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "voltage_v",
+      "value": 11.55,
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion Battery voltage 11.55 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "release_date",
+      "value": "2024-05-20",
+      "kind": "announced",
+      "note": "preorders opened on announcement",
+      "url": "https://www.windowscentral.com/hardware/laptops/dell-xps-13-snapdragon-x-announced",
+      "archiveUrl": null,
+      "quote": "Published 20 May 2024",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "note": "base config",
+      "url": "https://www.windowscentral.com/hardware/laptops/dell-xps-13-snapdragon-x-announced",
+      "archiveUrl": null,
+      "quote": "is now available for preorder starting at $1,299 at Dell",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "url": "https://www.dell.com/en-us/blog/dell-introduces-comprehensive-portfolio-of-copilot-ai-pcs/",
+      "archiveUrl": null,
+      "quote": "XPS 13 and Inspiron 14 Plus are now available to preorder starting at $1,299 and $1,099, respectively.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "claimed_runtime_h",
+      "value": 27,
+      "kind": "video",
+      "note": "Netflix streaming, FHD+, 150 nits",
+      "url": "https://www.dell.com/en-us/blog/dell-introduces-comprehensive-portfolio-of-copilot-ai-pcs/",
+      "archiveUrl": null,
+      "quote": "Multi-day battery life, up to 27 hours* based on XPS 13 tested with Snapdragon X1 Elite X1E-80-100, FHD+ display, 16GB, 512GB SSD. Testing conducted by Dell labs in May 2024 with display brightness set to 150 nits (40%) and wireless enabled. Based on streaming Netflix 1080p content",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "resolution_px",
+      "value": "2560x1600",
+      "note": "QHD+ touch panel option",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 2560 x 1600 1920 x 1200 2880 x 1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ non-touch panel option",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 2560 x 1600 1920 x 1200 2880 x 1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "3K OLED touch panel option (Dell calls it 3K)",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 2560 x 1600 1920 x 1200 2880 x 1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "panel",
+      "value": "OLED",
+      "note": "OLED option",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "3K, OLED, Eyesafe low blue light display technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "QHD+/FHD+ panels",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "OLED panel",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "QHD+/FHD+; OLED is 60 Hz",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 120 Hz (maximum) 120 Hz (maximum) 60 Hz (maximum)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "width_mm",
+      "value": 295.3,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.30 mm (11.63 in.) Depth 199.06 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "height_mm",
+      "value": 199.06,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.30 mm (11.63 in.) Depth 199.06 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "depth_mm",
+      "value": 15.25,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; OLED",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Height ● 15.25 mm (0.60 in.) with OLED display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "depth_mm",
+      "value": 15.95,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; QHD+/FHD+",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 15.95 mm (0.63 in.) with QHD+ or FHD+ display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "weight_g",
+      "value": 1230,
+      "note": "OLED, starting",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.23 kg (2.67 lb) with OLED display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "weight_g",
+      "value": 1240,
+      "note": "QHD+ or FHD+, starting",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.24 kg (2.73 lb) with QHD+ display ● 1.24 kg (2.72 lb) with FHD+ display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "soc",
+      "value": "Qualcomm Snapdragon X Elite X1E-80-100",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Processor type Qualcomm Snapdragon X Elite X1E-80-100",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "soc",
+      "value": "Qualcomm Snapdragon X Plus X1P-64-100",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Qualcomm Snapdragon X Plus X1P-64-100",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "soc",
+      "value": "Qualcomm Snapdragon X Plus X1P-42-100",
+      "url": "https://dl.dell.com/content/manual2941985-xps-13-9345-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Qualcomm Snapdragon X Plus X1P-42-100",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "model_number",
+      "value": "9350",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Specifications of XPS 13 9350",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "model_number",
+      "value": "P151G",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P151G Regulatory Type: P151G003",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://www.tomshardware.com/laptops/dell-xps-13-9350-review",
+      "archiveUrl": null,
+      "quote": "Camera 1080p, IR Battery 55 WHr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://liliputing.com/dell-launches-xps-13-laptop-with-intel-lunar-lake-for-1400-and-up/",
+      "archiveUrl": null,
+      "quote": "dual microphones, and a 55 Wh battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "voltage_v",
+      "value": 11.55,
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell, 55 Wh \"smart\" lithium-ion Battery voltage 11.55 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "release_date",
+      "value": "2024-09-03",
+      "kind": "announced",
+      "note": "pre-orders opened on announcement",
+      "url": "https://liliputing.com/dell-launches-xps-13-laptop-with-intel-lunar-lake-for-1400-and-up/",
+      "archiveUrl": null,
+      "quote": "by Brad Linder 09/03/2024",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "launch_price_usd",
+      "value": 1400,
+      "note": "base config, Core Ultra 5 226V",
+      "url": "https://liliputing.com/dell-launches-xps-13-laptop-with-intel-lunar-lake-for-1400-and-up/",
+      "archiveUrl": null,
+      "quote": "The new Dell XPS 13 (9350) is available for pre-order today for $1400 and up",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "claimed_runtime_h",
+      "value": 30,
+      "kind": "video",
+      "note": "local HD video playback, Core Ultra 7 256V, 16GB",
+      "url": "https://liliputing.com/dell-launches-xps-13-laptop-with-intel-lunar-lake-for-1400-and-up/",
+      "archiveUrl": null,
+      "quote": "The company promises up to 30 hours of battery life for local HD video playback for a model with an Intel Core Ultra 7 256V processor and 16GB of",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "display_in",
+      "value": 13.37,
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Diagonal 339.60 mm (13.37 in.) 339.60 mm (13.37 in.) 339.60 mm (13.37 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "FHD+ non-touch panel option",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 1920x1200 2560x1600 2880x1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "resolution_px",
+      "value": "2560x1600",
+      "note": "QHD+ touch panel option",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 1920x1200 2560x1600 2880x1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "OLED touch panel option",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "resolution 1920x1200 2560x1600 2880x1800",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "panel",
+      "value": "OLED",
+      "note": "OLED option",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "OLED, Eyesafe, low blue light Touch options No Yes Yes",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "FHD+/QHD+ panels",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "OLED panel",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Luminance (typical) 500 nits 500 nits 400 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "FHD+/QHD+; OLED is 60 Hz",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate 120 Hz (maximum) 120 Hz (maximum) 60 Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "width_mm",
+      "value": 295.3,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.30 mm (11.63 in.) Depth 199.10 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "height_mm",
+      "value": 199.1,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Width 295.30 mm (11.63 in.) Depth 199.10 mm (7.84 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "depth_mm",
+      "value": 15.3,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; FHD+/QHD+",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Height ● 15.30 mm (0.60 in.): For computers shipped with FHD+ or QHD+ display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "depth_mm",
+      "value": 14.8,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm; OLED (Dell prints 0.50 in.)",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 14.80 mm (0.50 in.): For computers shipped with OLED display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "weight_g",
+      "value": 1190,
+      "note": "FHD+/QHD+",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.19 kg (2.62 lb): For computers shipped with FHD+ or QHD+ display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "weight_g",
+      "value": 1180,
+      "note": "OLED",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "● 1.18 kg (2.59 lb): For computers shipped with OLED display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "soc",
+      "value": "Intel Core Ultra 5 226V",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core Ultra 5 226V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "soc",
+      "value": "Intel Core Ultra 7 256V",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core Ultra 7 256V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "soc",
+      "value": "Intel Core Ultra 7 258V",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core Ultra7 258V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "soc",
+      "value": "Intel Core Ultra 7 268V",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core Ultra7 268V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "soc",
+      "value": "Intel Core Ultra 9 288V",
+      "url": "https://dl.dell.com/content/manual12798330-xps-13-9350-owner-s-manual.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core Ultra9 288V",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "model_number",
+      "value": "DX13260",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "XPS 13 DX13260 Setup and Specifications",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "model_number",
+      "value": "P212G",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Regulatory Model: P212G Regulatory Type: P212G001/P212G002",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery type 3-cell lithium-ion polymer, 52 Wh, ExpressCharge",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.tomshardware.com/laptops/dell-xps-13-2026-review",
+      "archiveUrl": null,
+      "quote": "Camera 1080p, IR Battery 52 Whr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.tomshardware.com/laptops/dell-xps-13-targets-macbook-neo-with-intels-wildcat-lake-usd699-starting-price-usd599-for-students",
+      "archiveUrl": null,
+      "quote": "Battery 52 WHr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "voltage_v",
+      "value": 11.7,
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Battery voltage 11.70 VDC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "release_date",
+      "value": "2026-05-31",
+      "kind": "released",
+      "note": "blog says the Core Series 3 model \"is now available\"; Core Ultra models later in summer 2026",
+      "url": "https://www.dell.com/en-us/blog/the-new-xps-13-a-commitment-delivered/",
+      "archiveUrl": null,
+      "quote": "By Dell Technologies | May 31, 2026",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "release_date",
+      "value": "2026-05-31",
+      "kind": "announced",
+      "url": "https://www.tomshardware.com/laptops/dell-xps-13-targets-macbook-neo-with-intels-wildcat-lake-usd699-starting-price-usd599-for-students",
+      "archiveUrl": null,
+      "quote": "Published 31 May 2026",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "launch_price_usd",
+      "value": 699,
+      "note": "base config Core 5 320, 8GB; $599 for eligible students",
+      "url": "https://www.dell.com/en-us/blog/the-new-xps-13-a-commitment-delivered/",
+      "archiveUrl": null,
+      "quote": "for everyone else, the XPS 13 starts at $699",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "launch_price_usd",
+      "value": 699,
+      "url": "https://www.tomshardware.com/laptops/dell-xps-13-targets-macbook-neo-with-intels-wildcat-lake-usd699-starting-price-usd599-for-students",
+      "archiveUrl": null,
+      "quote": "The initial $699 starting configuration will include a Core 5 320, 8GB of RAM, and a 512GB SSD storage",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "claimed_runtime_h",
+      "value": 17,
+      "kind": "video",
+      "note": "Netflix streaming, Core 5 320, 2.5K LCD, 150 nits (footnote 6)",
+      "url": "https://www.dell.com/en-us/blog/the-new-xps-13-a-commitment-delivered/",
+      "archiveUrl": null,
+      "quote": "The result is up to 17 hours of streaming battery life",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "display_in",
+      "value": 13.4,
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display type 34cm (13.4\"), Touch, Eyesafe, Low blue light",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "resolution_px",
+      "value": "2560x1600",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel native resolution 2560 x 1600",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "panel",
+      "value": "WLED",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel technology White Light Emitting Diode (WLED)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Display-panel native resolution 2560 x 1600 Luminance (typical) 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "refresh_hz",
+      "value": 120,
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Refresh rate VRR 30 to 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "width_mm",
+      "value": 296.9,
+      "note": "Dell \"Width\"",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Width 296.90 mm (11.69 in.) Depth 200.70 mm (7.90 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "height_mm",
+      "value": 200.7,
+      "note": "Dell \"Depth\" (front-to-back), stored as height_mm",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Width 296.90 mm (11.69 in.) Depth 200.70 mm (7.90 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "depth_mm",
+      "value": 12.75,
+      "note": "Dell \"Height\" (thickness), stored as depth_mm",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Front height 12.75 mm (0.50 in.) Rear height 12.75 mm (0.50 in.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "weight_g",
+      "value": 1000,
+      "note": "minimum weight",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "1 kg (2.2 lb)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "soc",
+      "value": "Intel Core 5 320",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Type Intel Core 5 320 Intel Core Ultra 5 325 Intel Core Ultra 7 355",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "soc",
+      "value": "Intel Core Ultra 5 325",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Type Intel Core 5 320 Intel Core Ultra 5 325 Intel Core Ultra 7 355",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "soc",
+      "value": "Intel Core Ultra 7 355",
+      "url": "https://dl.dell.com/content/manual6845425-xps-13-dx13260-setup-and-specifications.pdf",
+      "archiveUrl": null,
+      "quote": "Type Intel Core 5 320 Intel Core Ultra 5 325 Intel Core Ultra 7 355",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "soc",
+      "value": "Intel Core i5-2467M",
+      "url": "https://www.laptopmag.com/reviews/laptops/dell-xps-13-2012",
+      "archiveUrl": null,
+      "quote": "For $1,299, you get a Core i5-2467M processor and a 256GB SSD, and $1,499 will get you a Core i7-2637M CPU",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "soc",
+      "value": "Intel Core i7-2637M",
+      "url": "https://www.laptopmag.com/reviews/laptops/dell-xps-13-2012",
+      "archiveUrl": null,
+      "quote": "For $1,299, you get a Core i5-2467M processor and a 256GB SSD, and $1,499 will get you a Core i7-2637M CPU",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "release_date",
+      "value": "2015-01-07",
+      "kind": "announced",
+      "note": "CES 2015 coverage",
+      "url": "https://notebooks.com/2015/01/07/dell-xps-13-beautiful-powerful-notebook-starting-799/",
+      "archiveUrl": null,
+      "quote": "Dell XPS 13: A Beautiful, Powerful Notebook Starting at $799 Josh Smith January 7, 2015",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "launch_price_usd",
+      "value": 799,
+      "note": "base config",
+      "url": "https://notebooks.com/2015/01/07/dell-xps-13-beautiful-powerful-notebook-starting-799/",
+      "archiveUrl": null,
+      "quote": "delivering a 13-inch screen in a body about the size of an 11-inch MacBook Air with a starting price of just $799",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.mobiletechreview.com/notebooks/Dell-XPS-13-2015.htm",
+      "archiveUrl": null,
+      "quote": "Dell bucks the trend by fitting a surprisingly capacious 52 WHr, 4 cell Lithium battery in the tiny XPS 13 chassis",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "capacity_wh",
+      "value": 56,
+      "url": "https://www.mobiletechreview.com/notebooks/Dell-XPS-13-2015.htm",
+      "archiveUrl": null,
+      "quote": "(56 WHr for the late 2015 XPS 13)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "capacity_wh",
+      "value": 56,
+      "url": "https://hothardware.com/reviews/late-2015-dell-xps-13-review-step-into-speedshift",
+      "archiveUrl": null,
+      "quote": "Battery 4-cell Lithium Ion (56 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "release_date",
+      "value": "2015-10-08",
+      "kind": "released",
+      "note": "same article: \"The XPS 13 is available now.\"",
+      "url": "https://www.ibtimes.com/dell-xps-12-xps-13-xps-15-hands-ultra-thin-bezel-laptops-get-windows-10-intel-skylake-2133627",
+      "archiveUrl": null,
+      "quote": "Published 10/08/15 AT 4:09 PM EDT",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "launch_price_usd",
+      "value": 799,
+      "note": "base config",
+      "url": "https://www.ibtimes.com/dell-xps-12-xps-13-xps-15-hands-ultra-thin-bezel-laptops-get-windows-10-intel-skylake-2133627",
+      "archiveUrl": null,
+      "quote": "The XPS 13 is competitively priced, starting at $799 and moving up to $2,399",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "launch_price_usd",
+      "value": 799,
+      "url": "https://hothardware.com/reviews/late-2015-dell-xps-13-review-step-into-speedshift?page=8",
+      "archiveUrl": null,
+      "quote": "At $1399 as tested (starting at $799)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "claimed_runtime_h",
+      "value": 18,
+      "kind": "daily_use",
+      "note": "1080p; workload not stated",
+      "url": "https://www.ibtimes.com/dell-xps-12-xps-13-xps-15-hands-ultra-thin-bezel-laptops-get-windows-10-intel-skylake-2133627",
+      "archiveUrl": null,
+      "quote": "Dell is claiming up to 18 hours battery life on the 1080p model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.tomshardware.com/news/dell-xps-13-price-specs-release-date,38309.html",
+      "archiveUrl": null,
+      "quote": "Display 13.3-inch FHD non-touch, FHD or 4K touch Battery 52 Whr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "release_date",
+      "value": "2019-01-08",
+      "kind": "released",
+      "note": "article published 8 January 2019",
+      "url": "https://www.tomshardware.com/news/dell-xps-13-price-specs-release-date,38309.html",
+      "archiveUrl": null,
+      "quote": "The laptop will start at $899.99 when it releases today",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "launch_price_usd",
+      "value": 899.99,
+      "url": "https://www.tomshardware.com/news/dell-xps-13-price-specs-release-date,38309.html",
+      "archiveUrl": null,
+      "quote": "The laptop will start at $899.99 when it releases today",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "claimed_runtime_h",
+      "value": 21,
+      "kind": "daily_use",
+      "note": "FHD; workload not stated",
+      "url": "https://www.tomshardware.com/news/dell-xps-13-price-specs-release-date,38309.html",
+      "archiveUrl": null,
+      "quote": "suggesting that the 52 Whr battery will last it for 21 hours on a charge with an FHD display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.tomshardware.com/news/dell-xps-13-comet-lake-price-specs-release-date,40203.html",
+      "archiveUrl": null,
+      "quote": "Battery 52Whr, non-replaceable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://www.windowscentral.com/new-dell-xps-13-7390-now-sale-starting-900",
+      "archiveUrl": null,
+      "quote": "Audio 2x 2W stereo speakers Battery 52Whr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "release_date",
+      "value": "2019-08-27",
+      "kind": "released",
+      "note": "article published 21 August 2019",
+      "url": "https://www.tomshardware.com/news/dell-xps-13-comet-lake-price-specs-release-date,40203.html",
+      "archiveUrl": null,
+      "quote": "It will start at $899.99 on August 27th, with hexacore Core i7 models coming in October",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "release_date",
+      "value": "2019-08-21",
+      "kind": "announced",
+      "url": "https://www.tomshardware.com/news/dell-xps-13-comet-lake-price-specs-release-date,40203.html",
+      "archiveUrl": null,
+      "quote": "Published 21 August 2019",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "launch_price_usd",
+      "value": 899.99,
+      "note": "announced base price",
+      "url": "https://www.tomshardware.com/news/dell-xps-13-comet-lake-price-specs-release-date,40203.html",
+      "archiveUrl": null,
+      "quote": "It will start at $899.99 on August 27th",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "launch_price_usd",
+      "value": 999,
+      "note": "on-sale price reported 5 Sep 2019; conflicts with $899.99 announced",
+      "url": "https://www.windowscentral.com/new-dell-xps-13-7390-now-sale-starting-900",
+      "archiveUrl": null,
+      "quote": "Dell's new XPS 13 (7390), which was revealed last week, is now on sale starting at $999",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "weight_g",
+      "value": 1160,
+      "note": "lower bound of range",
+      "url": "https://www.windowscentral.com/new-dell-xps-13-7390-now-sale-starting-900",
+      "archiveUrl": null,
+      "quote": "Weight 1.16 kg (2.6 lbs)-1.23 kg (2.7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "release_date",
+      "value": "2020-09-30",
+      "kind": "released",
+      "url": "https://www.pcworld.com/article/393551/the-dell-xps-13-and-xps-13-2-in-1-move-up-to-11th-gen-tiger-lake-cpus.html",
+      "archiveUrl": null,
+      "quote": "Announced Monday, Dell said both models will go on sale September 30",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "launch_price_usd",
+      "value": 999,
+      "url": "https://www.pcworld.com/article/393551/the-dell-xps-13-and-xps-13-2-in-1-move-up-to-11th-gen-tiger-lake-cpus.html",
+      "archiveUrl": null,
+      "quote": "The XPS 13 9310 will start at $999",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "release_date",
+      "value": "2022-06-09",
+      "kind": "released",
+      "url": "https://www.xda-developers.com/dell-xps-13-2022/",
+      "archiveUrl": null,
+      "quote": "Dell announced the Dell XPS 13 (2022) on June 9th and it became available for purchase right away",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "launch_price_usd",
+      "value": 999,
+      "url": "https://www.windowscentral.com/hardware/laptops/dell-announces-all-new-redesigned-xps-13-and-xps-13-2-in-1-premium-laptop-and-folio-pcs-for-2022",
+      "archiveUrl": null,
+      "quote": "The new XPS 13 is available and starts at $999",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "launch_price_usd",
+      "value": 999,
+      "url": "https://www.xda-developers.com/dell-xps-13-2022/",
+      "archiveUrl": null,
+      "quote": "Weight Starts at 1.17kg (2.59 lb) Starting price $999",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "capacity_wh",
+      "value": 51,
+      "url": "https://www.windowscentral.com/hardware/laptops/dell-announces-all-new-redesigned-xps-13-and-xps-13-2-in-1-premium-laptop-and-folio-pcs-for-2022",
+      "archiveUrl": null,
+      "quote": "Dell kept the battery nearly the same size (51WHr vs. 52)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "capacity_wh",
+      "value": 51,
+      "url": "https://www.xda-developers.com/dell-xps-13-2022/",
+      "archiveUrl": null,
+      "quote": "Battery 51Whr battery 45W charger",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "release_date",
+      "value": "2022-04-28",
+      "kind": "released",
+      "note": "article: \"Dell's brand-new XPS 13 Plus is now available for purchase\"; date is the article date",
+      "url": "https://www.windowscentral.com/dell-xps-13-plus-finally-now-available-starting-1249",
+      "archiveUrl": null,
+      "quote": "Last updated 28 April 2022",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "release_date",
+      "value": "2024-01-04",
+      "kind": "announced",
+      "url": "https://techaeris.com/2024/01/04/ces-2024-dell-xps-line-for-2024-announced-ahead-of-ces/",
+      "archiveUrl": null,
+      "quote": "January 4, 2024 [CES 2024] Dell XPS line for 2024 announced ahead of CES",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "url": "https://techaeris.com/2024/01/04/ces-2024-dell-xps-line-for-2024-announced-ahead-of-ces/",
+      "archiveUrl": null,
+      "quote": "XPS 13, starting at $1,299 (US) and $1,749 (CA), will be available soon",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "capacity_wh",
+      "value": 55,
+      "url": "https://www.xda-developers.com/dell-xps-2024/",
+      "archiveUrl": null,
+      "quote": "Battery Dell XPS 13 (2024): 55Whr battery",
+      "retrieved": "2026-10-03"
+    }
+  ],
+  "rejections": [
+    {
+      "device": "xps-13-l321x",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9343",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9350",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9360",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9380",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-7390",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9300",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9345",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-9350-2024",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "charging_w",
+      "note": "Dell spec sheets state only the power adapter rating (45/60/65 W), not the charge rate; per ROWS.md adapter-only is skipped"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "process_nm",
+      "note": "Dell spec sheets and the launch articles used do not state the CPU process node; not inferred from Intel/Qualcomm marketing"
+    },
+    {
+      "device": "xps-13-dx13260",
+      "field": "capacity_mah",
+      "note": "Dell spec sheets give Wh and V only; no first-party mAh found (aftermarket listings not used)"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "voltage_v",
+      "note": "L321X owner's manual is a service manual without battery ratings; the L321X-specific spec sheet PDF was not found on dl.dell.com (only the L322X one); Notebookcheck 2012 review blocked (Wayback refused connections this session)"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "weight_g",
+      "note": "no fetched source states the L321X weight; Laptop Mag gives \"3-pound\" only loosely; Notebookcheck via Wayback unavailable this session"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "height_mm",
+      "note": "Laptop Mag gives inches only (12.4 x 8.1 x 0.24-0.71); not converted"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "display_in",
+      "note": "only the 13.3-inch marketing name in headlines; Dell L321X spec PDF not found"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "capacity_wh",
+      "note": "second source wanted: Notebookcheck L322X review via Wayback failed (connection refused / 429); Laptop Mag 2013 and HotHardware reviews do not state Wh (HotHardware: \"Li-Ion (6-cell)\")"
+    },
+    {
+      "device": "xps-13-l322x",
+      "field": "claimed_runtime_h",
+      "note": "no Dell runtime claim found for the L322X refresh in fetched pages"
+    },
+    {
+      "device": "xps-13-9333",
+      "field": "capacity_wh",
+      "note": "second source wanted: Notebookcheck 9333 review via Wayback failed; Engadget/press text gives runtime only"
+    },
+    {
+      "device": "xps-13-9370",
+      "field": "claimed_runtime_h",
+      "note": "Windows Central gives only the reviewer's estimate (\"around the eight-hour mark ... close to 11 or 12 hours\"), not a Dell claim"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "claimed_runtime_h",
+      "note": "PCWorld and Dell spec PDF give no runtime claim; Dell press release not fetched"
+    },
+    {
+      "device": "xps-13-9315",
+      "field": "claimed_runtime_h",
+      "note": "no Dell runtime claim in the fetched launch articles"
+    },
+    {
+      "device": "xps-13-plus-9320",
+      "field": "claimed_runtime_h",
+      "note": "no Dell runtime claim in the fetched launch article"
+    },
+    {
+      "device": "xps-13-9340",
+      "field": "claimed_runtime_h",
+      "note": "Dell investor press release (investors.delltechnologies.com) timed out; secondary pages give review results, not Dell claims"
+    },
+    {
+      "device": "xps-13-9310",
+      "field": "panel",
+      "note": "3.5K OLED option (added 2021) is not in the Dell setup-and-specs PDF fetched; only WVA panels recorded"
+    },
+    {
+      "device": "xps-13-l321x",
+      "field": "release_date",
+      "note": "only announcement dates (CES 2012); on-sale date stated loosely as \"end of February\" by Engadget"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "_doc": "Capacity and spec source rank, lowest number wins. Matched against the row's original url (not archiveUrl) in order; first match wins. 'source' matches bulk rows by their source tag. Aftermarket part listings rank last and never supply a voltage. iFixit listings of genuine OEM batteries (path ends in -genuine) carry the maker's battery model number and rank with aggregators.",
+  "rules": [
+    {
+      "rank": 1,
+      "tier": "transport",
+      "source": [
+        "apis",
+        "google-un"
+      ]
+    },
+    {
+      "rank": 2,
+      "tier": "manufacturer",
+      "host": [
+        "apple.com",
+        "support.apple.com",
+        "images.apple.com",
+        "psref.lenovo.com",
+        "dell.com",
+        "samsung.com",
+        "news.samsung.com",
+        "images.samsung.com",
+        "store.google.com",
+        "support.google.com",
+        "blog.google",
+        "eprel.ec.europa.eu",
+        "lenovo.com",
+        "news.lenovo.com"
+      ]
+    },
+    {
+      "rank": 3,
+      "tier": "teardown",
+      "host": [
+        "ifixit.com"
+      ],
+      "pathNot": "^/products/"
+    },
+    {
+      "rank": 4,
+      "tier": "aggregator",
+      "host": [
+        "gsmarena.com",
+        "notebookcheck.net",
+        "en.wikipedia.org"
+      ]
+    },
+    {
+      "rank": 5,
+      "tier": "press",
+      "host": []
+    },
+    {
+      "rank": 4,
+      "tier": "oem-part",
+      "host": [
+        "ifixit.com"
+      ],
+      "path": "^/products/.*-genuine"
+    },
+    {
+      "rank": 9,
+      "tier": "aftermarket",
+      "host": [
+        "ifixit.com"
+      ],
+      "path": "^/products/"
+    }
+  ],
+  "default": {
+    "rank": 5,
+    "tier": "press"
+  }
+}

@@ -28,7 +28,12 @@ for (const line of lines) {
     else {
       const [, modelNumber, description, perProduct, cells, weightKg, wh] = m
       rows.push({
-        modelNumber, description, field: 'capacity_wh', value: +wh, unit: 'Wh',
+        // Wh Rating is per battery; a two-battery product (a foldable) holds both.
+        modelNumber, description, field: 'capacity_wh', value: +(+wh * +perProduct).toFixed(3), whPerBattery: +wh, unit: 'Wh',
+        // "(after activation)" rows carry the >20 Wh rating a battery unlocks once
+        // the phone is activated; the plain row for the same number is the
+        // shipping rating, held at 19.79 Wh to stay under the 20 Wh air-freight line.
+        activation: /after activation/i.test(description) ? 'after' : null,
         batteriesPerProduct: +perProduct, cells: +cells, batteryWeightKg: +weightKg,
         source: 'apis', url: URL, quote: buf, retrieved: r.fetched.slice(0, 10),
       })

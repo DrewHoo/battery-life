@@ -1,0 +1,16 @@
+{
+  "_doc": "Evidence-backed patches and exclusions applied to rows before the pick. Match by device (or modelNumber for bulk rows) + field + source/url substring. Every entry cites the receipt that justifies it.",
+  "exclude": [
+    {
+      "modelNumber": "A1553",
+      "field": "capacity_wh",
+      "source": "apis",
+      "reason": "APIS gives the 38 mm first-gen Apple Watch the 42 mm value (0.93 Wh, identical to A1554). The battery label reads 0.78 Wh, and GSMArena agrees.",
+      "receipt": {
+        "url": "https://www.ifixit.com/Teardown/Apple+Watch+Teardown/40655",
+        "quote": "This wee 3.8 V, 0.78 Wh lithium-ion battery is the power behind the 38 mm Apple Watch."
+      }
+    }
+  ],
+  "patch": []
+}

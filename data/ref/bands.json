@@ -1,0 +1,6 @@
+{
+  "_doc": "Plausibility bands for capacity_wh by category. A candidate outside its band is never displayed and shows up in the coverage report.",
+  "capacity_wh": { "watch": [0.1, 2.5], "phone": [3, 25], "tablet": [15, 60], "laptop": [25, 100] },
+  "agreement": 0.03,
+  "claimRatio": [0.4, 1.6]
+}

@@ -1,0 +1,4536 @@
+{
+  "line": "galaxy-s",
+  "devices": [
+    {
+      "id": "galaxy-s-s",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S",
+      "variant": null,
+      "generation": "S",
+      "modelNumbers": [
+        "GT-I9000"
+      ],
+      "googleName": null,
+      "note": "US carrier variants (Captivate, Vibrant, Fascinate, Epic 4G) shipped as separate models; the T-Mobile Galaxy S 4G (SGH-T959V) has a different 1650 mAh battery (iFixit teardown 4977) and is not covered here."
+    },
+    {
+      "id": "galaxy-s-s2",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S II",
+      "variant": null,
+      "generation": "S II",
+      "modelNumbers": [
+        "GT-I9100",
+        "GT-I9100G"
+      ],
+      "googleName": null,
+      "note": "GT-I9100G uses a TI OMAP 4430 instead of Exynos 4210 (no sourced soc row). US variants with bigger 4.52-inch screens and different batteries (Sprint Epic 4G Touch SPH-D710, T-Mobile SGH-T989) are separate models not covered here."
+    },
+    {
+      "id": "galaxy-s-s3",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S III",
+      "variant": null,
+      "generation": "S III",
+      "modelNumbers": [
+        "GT-I9300",
+        "SHV-E210S",
+        "SGH-I747"
+      ],
+      "googleName": null,
+      "note": "International GT-I9300 uses Exynos 4412; US carrier models (e.g. AT&T SGH-I747) use Snapdragon S4 Plus MSM8960 with the same 2100 mAh battery per GSMArena."
+    },
+    {
+      "id": "galaxy-s-s4",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S4",
+      "variant": null,
+      "generation": "S4",
+      "modelNumbers": [
+        "GT-I9500",
+        "GT-I9505",
+        "GT-I9507",
+        "SGH-I337",
+        "SGH-I337M",
+        "SGH-M919",
+        "SHV-E300S"
+      ],
+      "googleName": null,
+      "note": "GT-I9500 uses Exynos 5410; GT-I9505 and US carrier models use Snapdragon 600. Same 2600 mAh removable battery."
+    },
+    {
+      "id": "galaxy-s-s5",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S5",
+      "variant": null,
+      "generation": "S5",
+      "modelNumbers": [
+        "SM-G900F",
+        "SM-G900FD",
+        "SM-G900FQ",
+        "SM-G900H",
+        "SM-G900I",
+        "SM-G900M",
+        "SM-G900A",
+        "SM-G900T",
+        "SM-G900P",
+        "SM-G900V",
+        "SM-G900W8",
+        "SM-G900K",
+        "SM-G900L",
+        "SM-G900S",
+        "SM-G9008W"
+      ],
+      "googleName": null,
+      "note": "Most models use Snapdragon 801; SM-G900H uses Exynos 5422. Same 2800 mAh removable battery."
+    },
+    {
+      "id": "galaxy-s-s6",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S6",
+      "variant": null,
+      "generation": "S6",
+      "modelNumbers": [
+        "SM-G920F",
+        "SM-G920FD",
+        "SM-G920I",
+        "SM-G920A",
+        "SM-G920T",
+        "SM-G920S",
+        "SM-G920K",
+        "SM-G920L",
+        "SM-G9200",
+        "SM-G9208",
+        "SM-G9209",
+        "SM-G920R7"
+      ],
+      "googleName": null,
+      "note": "All regions use Exynos 7420."
+    },
+    {
+      "id": "galaxy-s-s6-edge",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S6 edge",
+      "variant": "edge",
+      "generation": "S6",
+      "modelNumbers": [
+        "SM-G925F",
+        "SM-G925FQ",
+        "SM-G925I",
+        "SM-G925A",
+        "SM-G925T",
+        "SM-G925S",
+        "SM-G925K",
+        "SM-G925L",
+        "SM-G9250"
+      ],
+      "googleName": null,
+      "note": "All regions use Exynos 7420."
+    },
+    {
+      "id": "galaxy-s-s6-edge-plus",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S6 edge+",
+      "variant": "edge+",
+      "generation": "S6",
+      "modelNumbers": [
+        "SM-G928F",
+        "SM-G928G",
+        "SM-G928I",
+        "SM-G928C",
+        "SM-G928A",
+        "SM-G928T",
+        "SM-G928W8",
+        "SM-G9280",
+        "SM-G928S",
+        "SM-G928K",
+        "SM-G928L"
+      ],
+      "googleName": null,
+      "note": "All regions use Exynos 7420."
+    },
+    {
+      "id": "galaxy-s-s7",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S7",
+      "variant": null,
+      "generation": "S7",
+      "modelNumbers": [
+        "SM-G930F",
+        "SM-G930FD",
+        "SM-G930W8",
+        "SM-G930S",
+        "SM-G930K",
+        "SM-G930L",
+        "SM-G9300",
+        "SM-G930A",
+        "SM-G930P",
+        "SM-G930V",
+        "SM-G930T",
+        "SM-G930R4",
+        "SM-G930U"
+      ],
+      "googleName": null,
+      "note": "Global/Canada/Korea models use Exynos 8890; US and China models use Snapdragon 820. Same 3000 mAh battery."
+    },
+    {
+      "id": "galaxy-s-s7-edge",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S7 edge",
+      "variant": "edge",
+      "generation": "S7",
+      "modelNumbers": [
+        "SM-G935F",
+        "SM-G935FD",
+        "SM-G935W8",
+        "SM-G9350",
+        "SM-G935S",
+        "SM-G935K",
+        "SM-G935L",
+        "SM-G935A",
+        "SM-G935P",
+        "SM-G935V",
+        "SM-G935T",
+        "SM-G935R4",
+        "SM-G935U"
+      ],
+      "googleName": null,
+      "note": "Global/Canada/Korea models use Exynos 8890; US and China (SM-G9350) models use Snapdragon 820. Same 3600 mAh battery."
+    },
+    {
+      "id": "galaxy-s-s8",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S8",
+      "variant": null,
+      "generation": "S8",
+      "modelNumbers": [
+        "SM-G950F",
+        "SM-G950FD",
+        "SM-G950U",
+        "SM-G950U1",
+        "SM-G950W",
+        "SM-G950A",
+        "SM-G950P",
+        "SM-G950T",
+        "SM-G950V",
+        "SM-G950S",
+        "SM-G950K",
+        "SM-G950L",
+        "SM-G950N",
+        "SM-G9500"
+      ],
+      "googleName": null,
+      "note": "Europe/global models use Exynos 8895; US and China models use Snapdragon 835. Same 3000 mAh battery."
+    },
+    {
+      "id": "galaxy-s-s8-plus",
+      "line": "galaxy-s",
+      "category": "phone",
+      "name": "Galaxy S8+",
+      "variant": "+",
+      "generation": "S8",
+      "modelNumbers": [
+        "SM-G955F",
+        "SM-G955FD",
+        "SM-G955U",
+        "SM-G955U1",
+        "SM-G955W",
+        "SM-G955A",
+        "SM-G955P",
+        "SM-G955T",
+        "SM-G955V",
+        "SM-G955R4",
+        "SM-G955S",
+        "SM-G955K",
+        "SM-G955L",
+        "SM-G955N",
+        "SM-G9550"
+      ],
+      "googleName": null,
+      "note": "Europe/global models use Exynos 8895; US and China models use Snapdragon 835. Same 3500 mAh battery."
+    }
+  ],
+  "rows": [
+    {
+      "device": "galaxy-s-s",
+      "field": "model_number",
+      "value": "GT-I9000",
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9000",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "height_mm",
+      "value": 122.4,
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 122.4 x 64.2 x 9.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "width_mm",
+      "value": 64.2,
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 122.4 x 64.2 x 9.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "depth_mm",
+      "value": 9.9,
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 122.4 x 64.2 x 9.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "weight_g",
+      "value": 119,
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Weight 119 g (4.20 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "display_in",
+      "value": 4,
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Size 4.0 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "resolution_px",
+      "value": "800x480",
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Resolution 480 x 800 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "soc",
+      "value": "Hummingbird",
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Chipset Hummingbird",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "capacity_mah",
+      "value": 1500,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_i9000_galaxy_s-3115.php",
+      "archiveUrl": null,
+      "quote": "Removable Li-Ion 1500 mAh battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "capacity_mah",
+      "value": 1500,
+      "kind": "rated",
+      "note": "user teardown reading the battery label",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S+Teardown/7122",
+      "archiveUrl": null,
+      "quote": "The battery! It shows 1500mAh, decent.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "release_date",
+      "value": "2010-06-04",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s",
+      "archiveUrl": null,
+      "quote": "On June 4, 2010, the Galaxy S was released to the world.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "soc",
+      "value": "Exynos 3110",
+      "url": "https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s",
+      "archiveUrl": null,
+      "quote": "Its list of features included Samsung’s original Exynos 3110 processor and an outstanding Super AMOLED display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "model_number",
+      "value": "GT-I9100",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9100, GT-I9100G, GT-I9100T",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "model_number",
+      "value": "GT-I9100G",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9100, GT-I9100G, GT-I9100T",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "model_number",
+      "value": "GT-I9100T",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9100, GT-I9100G, GT-I9100T",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "height_mm",
+      "value": 125.3,
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 125.3 x 66.1 x 8.5 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "width_mm",
+      "value": 66.1,
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 125.3 x 66.1 x 8.5 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "depth_mm",
+      "value": 8.5,
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 125.3 x 66.1 x 8.5 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "weight_g",
+      "value": 116,
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Weight 116 g (4.09 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "display_in",
+      "value": 4.3,
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Size 4.3 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "resolution_px",
+      "value": "800x480",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Resolution 480 x 800 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "panel",
+      "value": "Super AMOLED Plus",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED Plus",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "soc",
+      "value": "Exynos 4210 Dual",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 4210 Dual",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "capacity_mah",
+      "value": 1650,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_i9100_galaxy_s_ii-3621.php",
+      "archiveUrl": null,
+      "quote": "Removable Li-Ion 1650 mAh battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "capacity_mah",
+      "value": 1650,
+      "kind": "typical",
+      "url": "https://news.samsung.com/global/galaxy-s-ii-teardown-splitting-8-9-mm-of-the-latest-samsung-technologies",
+      "archiveUrl": null,
+      "quote": "The Galaxy S II provides a 1650mAh high-capacity battery, 10% more than the former 1500mAh one.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "display_in",
+      "value": 4.3,
+      "url": "https://news.samsung.com/global/galaxy-s-ii-teardown-splitting-8-9-mm-of-the-latest-samsung-technologies",
+      "archiveUrl": null,
+      "quote": "a sharp 4.3” Super AMOLED Plus display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "depth_mm",
+      "value": 8.49,
+      "url": "https://news.samsung.com/global/galaxy-s-ii-the-next-generation-smartphone-2",
+      "archiveUrl": null,
+      "quote": "The Samsung GALAXY SII rides the leading edge with an ultra-slim 8.49mm form factor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "release_date",
+      "value": "2011-04-28",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/samsung-galaxy-s-ii-reaches-3-million-in-global-sales",
+      "archiveUrl": null,
+      "quote": "the GALAXY S II was first launched in Korea on April 28th, 2011",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "model_number",
+      "value": "GT-I9300",
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9300, GT-I9300I, SHV-E210S, SHW-M440S",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "model_number",
+      "value": "SHV-E210S",
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9300, GT-I9300I, SHV-E210S, SHW-M440S",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "height_mm",
+      "value": 136.6,
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 136.6 x 70.6 x 8.6 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "width_mm",
+      "value": 70.6,
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 136.6 x 70.6 x 8.6 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "depth_mm",
+      "value": 8.6,
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 136.6 x 70.6 x 8.6 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "weight_g",
+      "value": 133,
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Weight 133 g (4.69 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "display_in",
+      "value": 4.8,
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Size 4.8 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "resolution_px",
+      "value": "1280x720",
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Resolution 720 x 1280 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "soc",
+      "value": "Exynos 4412 Quad",
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 4412 Quad (32 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "process_nm",
+      "value": 32,
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 4412 Quad (32 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "capacity_mah",
+      "value": 2100,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_i9300_galaxy_s_iii-4238.php",
+      "archiveUrl": null,
+      "quote": "Removable Li-Ion 2100 mAh battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "model_number",
+      "value": "SGH-I747",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s_iii_i747-4803.php",
+      "archiveUrl": null,
+      "quote": "Models SGH-I747",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "soc",
+      "value": "Snapdragon S4 Plus MSM8960",
+      "note": "US carrier models (AT&T SGH-I747)",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s_iii_i747-4803.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm MSM8960 Snapdragon S4 Plus",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "capacity_mah",
+      "value": 2100,
+      "kind": "typical",
+      "note": "AT&T SGH-I747",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s_iii_i747-4803.php",
+      "archiveUrl": null,
+      "quote": "Removable Li-Ion 2100 mAh battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "weight_g",
+      "value": 134,
+      "note": "AT&T SGH-I747",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s_iii_i747-4803.php",
+      "archiveUrl": null,
+      "quote": "Weight 134 g (4.73 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "capacity_mah",
+      "value": 2100,
+      "kind": "typical",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S+III+Teardown/9391",
+      "archiveUrl": null,
+      "quote": "The 3.8 V, 2100 mAh battery incorporates the antenna for the Near Field Communications (NFC) module",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "voltage_v",
+      "value": 3.8,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S+III+Teardown/9391",
+      "archiveUrl": null,
+      "quote": "The 3.8 V, 2100 mAh battery incorporates the antenna for the Near Field Communications (NFC) module",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "capacity_wh",
+      "value": 7.98,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S+III+Teardown/9391",
+      "archiveUrl": null,
+      "quote": "this is the same amount of charge that a 3.8V, 7.98 Wh battery holds.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "release_date",
+      "value": "2012-05-03",
+      "kind": "announced",
+      "url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+      "archiveUrl": null,
+      "quote": "Samsung Introduces the GALAXY S III, the Smartphone Designed for Humans and Inspired by Nature on May 3, 2012",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "display_in",
+      "value": 4.8,
+      "url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-iii-the-smartphone-designed-for-humans-and-inspired-by-nature",
+      "archiveUrl": null,
+      "quote": "the device’s 4.8 inch HD Super AMOLED display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "release_date",
+      "value": "2012-05-29",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/samsung-galaxy-s-iii-brings-a-whole-new-experience-to-every-corner-of-the-world",
+      "archiveUrl": null,
+      "quote": "Finally Samsung GALAXY S III will be available in Europe, Middle East, and North Africa from May 29th 2012.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "release_date",
+      "value": "2012-06-21",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/global/samsung-galaxy-s-iii-available-in-us-markets-starting-today",
+      "archiveUrl": null,
+      "quote": "Samsung GALAXY S III available in US markets starting today on June 21, 2012",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "GT-I9500",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9500, SGH-I337M, SGH-M919, GT-I9507V, SHV-E330L, SPH-L720T, SHV-E300S, SHV-E300L, SHV-E300K, GT-I9507, SGH-M919N",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "SGH-I337M",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9500, SGH-I337M, SGH-M919, GT-I9507V, SHV-E330L, SPH-L720T, SHV-E300S, SHV-E300L, SHV-E300K, GT-I9507, SGH-M919N",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "SGH-M919",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9500, SGH-I337M, SGH-M919, GT-I9507V, SHV-E330L, SPH-L720T, SHV-E300S, SHV-E300L, SHV-E300K, GT-I9507, SGH-M919N",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "GT-I9507",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9500, SGH-I337M, SGH-M919, GT-I9507V, SHV-E330L, SPH-L720T, SHV-E300S, SHV-E300L, SHV-E300K, GT-I9507, SGH-M919N",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "SHV-E300S",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9500, SGH-I337M, SGH-M919, GT-I9507V, SHV-E330L, SPH-L720T, SHV-E300S, SHV-E300L, SHV-E300K, GT-I9507, SGH-M919N",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "height_mm",
+      "value": 136.6,
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 136.6 x 69.8 x 7.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "width_mm",
+      "value": 69.8,
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 136.6 x 69.8 x 7.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "depth_mm",
+      "value": 7.9,
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 136.6 x 69.8 x 7.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "weight_g",
+      "value": 130,
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Weight 130 g (4.59 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "display_in",
+      "value": 5,
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Size 5.0 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1080 x 1920 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "soc",
+      "value": "Exynos 5410 Octa",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 5410 Octa (28 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "process_nm",
+      "value": 28,
+      "note": "Exynos 5410 (GT-I9500)",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 5410 Octa (28 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "capacity_mah",
+      "value": 2600,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_i9500_galaxy_s4-5125.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 2600 mAh, removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "GT-I9505",
+      "url": "https://www.gsmarena.com/samsung_i9505_galaxy_s4-5371.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9505, GT-I9515, SGH-I337, SC-04E, GT-I9515L",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "model_number",
+      "value": "SGH-I337",
+      "url": "https://www.gsmarena.com/samsung_i9505_galaxy_s4-5371.php",
+      "archiveUrl": null,
+      "quote": "Models GT-I9505, GT-I9515, SGH-I337, SC-04E, GT-I9515L",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "soc",
+      "value": "Snapdragon 600 APQ8064T",
+      "note": "GT-I9505",
+      "url": "https://www.gsmarena.com/samsung_i9505_galaxy_s4-5371.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm APQ8064T Snapdragon 600",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "capacity_mah",
+      "value": 2600,
+      "kind": "typical",
+      "note": "GT-I9505",
+      "url": "https://www.gsmarena.com/samsung_i9505_galaxy_s4-5371.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 2600 mAh, removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "capacity_wh",
+      "value": 9.88,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S4+Teardown/13947",
+      "archiveUrl": null,
+      "quote": "The lithium-ion battery is rated at 3.8 V and 2600 mAh (9.88 Wh).",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "voltage_v",
+      "value": 3.8,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S4+Teardown/13947",
+      "archiveUrl": null,
+      "quote": "The lithium-ion battery is rated at 3.8 V and 2600 mAh (9.88 Wh).",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "capacity_mah",
+      "value": 2600,
+      "kind": "rated",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S4+Teardown/13947",
+      "archiveUrl": null,
+      "quote": "The lithium-ion battery is rated at 3.8 V and 2600 mAh (9.88 Wh).",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "weight_g",
+      "value": 130,
+      "url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-4-a-life-companion-for-a-richer-simpler-and-fuller-llife",
+      "archiveUrl": null,
+      "quote": "all housed in a light ( 130g ) and slim ( 7.9mm ) shape",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "depth_mm",
+      "value": 7.9,
+      "url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-4-a-life-companion-for-a-richer-simpler-and-fuller-llife",
+      "archiveUrl": null,
+      "quote": "all housed in a light ( 130g ) and slim ( 7.9mm ) shape",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "display_in",
+      "value": 5,
+      "url": "https://news.samsung.com/global/samsung-introduces-the-galaxy-s-4-a-life-companion-for-a-richer-simpler-and-fuller-llife",
+      "archiveUrl": null,
+      "quote": "Its 5” large screen has 441ppi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "weight_g",
+      "value": 190,
+      "note": "conflicts with 130 g in the launch release and GSMArena; likely a typo on this page",
+      "url": "https://news.samsung.com/global/from-zero-to-infinity-the-five-year-journey-of-the-samsung-galaxy-s",
+      "archiveUrl": null,
+      "quote": "Samsung managed to make the Galaxy S4 even thinner and lighter (7.9mm, 190g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "release_date",
+      "value": "2013-04-27",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/samsung-galaxy-s4-hits-10-million-milestone-in-first-month",
+      "archiveUrl": null,
+      "quote": "Launched globally on April 27 in 60 countries",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900FD",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900FQ",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900H",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900I",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900M",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900P",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900V",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900W8",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G900S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "model_number",
+      "value": "SM-G9008W",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G900F, SM-G900I, SM-G900M, SM-G900T, SM-G900W8, SM-G900H, SM-G900FD, SM-G900P, SM-G900A, SC-04F, SM-G9008W, SM-G900L, SM-G900FQ, SM-G900K, SM-G900S, SCL23, SM-G900D, SM-G900MD, SM-G900V, SM-G900T3, SM-G900T1, SM-G9008V, SM-G9006W",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "height_mm",
+      "value": 142,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142 x 72.5 x 8.1 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "width_mm",
+      "value": 72.5,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142 x 72.5 x 8.1 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "depth_mm",
+      "value": 8.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142 x 72.5 x 8.1 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "weight_g",
+      "value": 145,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Weight 145 g (5.11 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Size 5.1 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1080 x 1920 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "soc",
+      "value": "Snapdragon 801 MSM8974AC",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "process_nm",
+      "value": 28,
+      "note": "Snapdragon 801 models",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm MSM8974AC Snapdragon 801 (28 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "capacity_mah",
+      "value": 2800,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5-6033.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 2800 mAh, removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "soc",
+      "value": "Exynos 5422 Octa",
+      "note": "SM-G900H",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s5_(octa_core)-6237.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 5422 Octa",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "capacity_wh",
+      "value": 10.78,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S5+Teardown/24016",
+      "archiveUrl": null,
+      "quote": "This is a 3.85 V, 10.78 Wh battery. Samsung touted a better battery-saving mode, but failed to specify the life of this guy in its advertising —listing the battery spec as 2800 mAh.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "voltage_v",
+      "value": 3.85,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S5+Teardown/24016",
+      "archiveUrl": null,
+      "quote": "This is a 3.85 V, 10.78 Wh battery. Samsung touted a better battery-saving mode, but failed to specify the life of this guy in its advertising —listing the battery spec as 2800 mAh.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "capacity_mah",
+      "value": 2800,
+      "kind": "typical",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S5+Teardown/24016",
+      "archiveUrl": null,
+      "quote": "This is a 3.85 V, 10.78 Wh battery. Samsung touted a better battery-saving mode, but failed to specify the life of this guy in its advertising —listing the battery spec as 2800 mAh.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "release_date",
+      "value": "2014-04-11",
+      "kind": "released",
+      "note": "commercial launch in 125 markets; this release is dated April 11, 2014",
+      "url": "https://news.samsung.com/global/samsung-brings-galaxy-s5-and-new-gear-devices-to-global-market/1000",
+      "archiveUrl": null,
+      "quote": "Available exclusively on the Galaxy S5 and other Galaxy devices starting April 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920FD",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920I",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G9200",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G9208",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G9209",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "model_number",
+      "value": "SM-G920R7",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9200, SM-G9208, SM-G9208/SS, SM-G9209, SM-G920A, SM-G920F, SM-G920FD, SM-G920I, SM-G920S, SM-G920T, SM-G920K, SC-05G, SM-G920L, SM-G920, SM-G920R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "height_mm",
+      "value": 143.4,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 143.4 x 70.5 x 6.8 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "width_mm",
+      "value": 70.5,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 143.4 x 70.5 x 6.8 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "depth_mm",
+      "value": 6.8,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 143.4 x 70.5 x 6.8 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "weight_g",
+      "value": 138,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Weight 138 g (4.87 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Size 5.1 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2560 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "soc",
+      "value": "Exynos 7420 Octa",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 7420 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 7420 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "capacity_mah",
+      "value": 2550,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 2550 mAh, non-removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "release_date",
+      "value": "2015-03-01",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6-6849.php",
+      "archiveUrl": null,
+      "quote": "Announced 2015, March 01. Released 2015, April",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "capacity_wh",
+      "value": 9.82,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Teardown/39174",
+      "archiveUrl": null,
+      "quote": "The Galaxy sports a 3.85 V, 9.82 Wh battery, which Samsung claims will provide up to 23 hours of 3G talk time, 12 hours of Wi-Fi internet use",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "voltage_v",
+      "value": 3.85,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Teardown/39174",
+      "archiveUrl": null,
+      "quote": "The Galaxy sports a 3.85 V, 9.82 Wh battery, which Samsung claims will provide up to 23 hours of 3G talk time, 12 hours of Wi-Fi internet use",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "claimed_runtime_h",
+      "value": 12,
+      "kind": "internet_wifi",
+      "note": "Samsung claim as relayed by iFixit; no Samsung page with the Wi-Fi figure was reachable",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Teardown/39174",
+      "archiveUrl": null,
+      "quote": "The Galaxy sports a 3.85 V, 9.82 Wh battery, which Samsung claims will provide up to 23 hours of 3G talk time, 12 hours of Wi-Fi internet use",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "capacity_mah",
+      "value": 2550,
+      "kind": "typical",
+      "note": "spec table, first column is Galaxy S6",
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "Battery 2,550mAh 2,600mAh",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "weight_g",
+      "value": 138,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The thin (6.8 mm/7.0mm edge) and lightweight (138g /132g edge) Galaxy S6 and Galaxy S6 edge integrate the most advanced, cutting-edge, Samsung core technology available today. The world’s first 14nm mobile processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "depth_mm",
+      "value": 6.8,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The thin (6.8 mm/7.0mm edge) and lightweight (138g /132g edge) Galaxy S6 and Galaxy S6 edge integrate the most advanced, cutting-edge, Samsung core technology available today. The world’s first 14nm mobile processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The thin (6.8 mm/7.0mm edge) and lightweight (138g /132g edge) Galaxy S6 and Galaxy S6 edge integrate the most advanced, cutting-edge, Samsung core technology available today. The world’s first 14nm mobile processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "the 5.1-inch Quad HD Super AMOLED screen offers users the highest pixel density of 577ppi. Enhanced outdoor visibility with a brighter display (600cd/mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "brightness_nits",
+      "value": 600,
+      "kind": "peak_outdoor",
+      "note": "Samsung wrote \"600cd/mm\"; assumed cd/m²",
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "the 5.1-inch Quad HD Super AMOLED screen offers users the highest pixel density of 577ppi. Enhanced outdoor visibility with a brighter display (600cd/mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "height_mm",
+      "value": 143.4,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "Dimension 143.4 x 70.5 x 6.8mm, 138g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "width_mm",
+      "value": 70.5,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "Dimension 143.4 x 70.5 x 6.8mm, 138g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "release_date",
+      "value": "2015-04-10",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The Galaxy S6 and Galaxy S6 edge will be available globally starting from April 10, 2015",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "release_date",
+      "value": "2015-04-10",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/us/samsung-galaxy-s-6-and-galaxy-s-6-edge-u-s-pre-orders-begin-march-27-available-nationwide-april-10/",
+      "archiveUrl": null,
+      "quote": "today announced the Galaxy S6 and Galaxy S6 edge will be available in the U.S. beginning April 10",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "height_mm",
+      "value": 143.4,
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 143.4 x 70.5 x 6.8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "width_mm",
+      "value": 70.5,
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 143.4 x 70.5 x 6.8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "depth_mm",
+      "value": 6.8,
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 143.4 x 70.5 x 6.8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "weight_g",
+      "value": 138,
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Weight (g) 138",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Resolution (Main Display) 2560 x 1440 (Quad HD)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Technology (Main Display) Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "capacity_mah",
+      "value": 2550,
+      "kind": "typical",
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Standard Battery Capacity (mAh) 2550",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "claimed_runtime_h",
+      "value": 13,
+      "kind": "video",
+      "url": "https://www.samsung.com/sa_en/business/smartphones/galaxy-s/galaxy-s6-g920f-sm-g920fzkaksa/",
+      "archiveUrl": null,
+      "quote": "Video Playback Time (Hours) Up to 13",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925FQ",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925I",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G925L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "model_number",
+      "value": "SM-G9250",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G9250, SM-G925A, SM-G925F, SM-G925FQ, SM-G925I, SM-G925K, SM-G925L, SM-G925S, SM-G925T, SC-04G, 404SC, SM-G925D, SM-G925J",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "height_mm",
+      "value": 142.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.1 x 70.1 x 7 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "width_mm",
+      "value": 70.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.1 x 70.1 x 7 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "depth_mm",
+      "value": 7,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.1 x 70.1 x 7 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "weight_g",
+      "value": 132,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Weight 132 g (4.66 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Size 5.1 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2560 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "soc",
+      "value": "Exynos 7420 Octa",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 7420 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 7420 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "capacity_mah",
+      "value": 2600,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 2600 mAh, non-removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "release_date",
+      "value": "2015-03-01",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge-7079.php",
+      "archiveUrl": null,
+      "quote": "Announced 2015, March 01. Released 2015, April",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "capacity_wh",
+      "value": 10.01,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Edge+Teardown/39158",
+      "archiveUrl": null,
+      "quote": "Free of its clingy mucilage, we get a better look at the 3.85 V, 10.01 Wh battery.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "voltage_v",
+      "value": 3.85,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Edge+Teardown/39158",
+      "archiveUrl": null,
+      "quote": "Free of its clingy mucilage, we get a better look at the 3.85 V, 10.01 Wh battery.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "capacity_mah",
+      "value": 2600,
+      "kind": "typical",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Edge+Teardown/39158",
+      "archiveUrl": null,
+      "quote": "Samsung has stepped down from the 2800 mAh battery found in the Galaxy S5 , and returned to a 2600 mAh battery like the S4 .",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "capacity_wh",
+      "value": 10.01,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S6+Teardown/39174",
+      "archiveUrl": null,
+      "quote": "The 9.82 Wh battery in the S6 and 10.01 Wh battery in the S6 Edge",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "capacity_mah",
+      "value": 2600,
+      "kind": "typical",
+      "note": "spec table, second column is Galaxy S6 edge",
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "Battery 2,550mAh 2,600mAh",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "weight_g",
+      "value": 132,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The thin (6.8 mm/7.0mm edge) and lightweight (138g /132g edge) Galaxy S6 and Galaxy S6 edge integrate the most advanced, cutting-edge, Samsung core technology available today. The world’s first 14nm mobile processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "depth_mm",
+      "value": 7,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The thin (6.8 mm/7.0mm edge) and lightweight (138g /132g edge) Galaxy S6 and Galaxy S6 edge integrate the most advanced, cutting-edge, Samsung core technology available today. The world’s first 14nm mobile processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The thin (6.8 mm/7.0mm edge) and lightweight (138g /132g edge) Galaxy S6 and Galaxy S6 edge integrate the most advanced, cutting-edge, Samsung core technology available today. The world’s first 14nm mobile processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "brightness_nits",
+      "value": 600,
+      "kind": "peak_outdoor",
+      "note": "sentence covers S6 and S6 edge; Samsung wrote \"600cd/mm\"",
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "the 5.1-inch Quad HD Super AMOLED screen offers users the highest pixel density of 577ppi. Enhanced outdoor visibility with a brighter display (600cd/mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "height_mm",
+      "value": 142.1,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "142.1 x 70.1 x 7.0mm, 132g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "width_mm",
+      "value": 70.1,
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "142.1 x 70.1 x 7.0mm, 132g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "release_date",
+      "value": "2015-04-10",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/beautifully-crafted-from-metal-and-glass-samsung-galaxy-s6-and-galaxy-s6-edge-define-whats-next-in-mobility",
+      "archiveUrl": null,
+      "quote": "The Galaxy S6 and Galaxy S6 edge will be available globally starting from April 10, 2015",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "release_date",
+      "value": "2015-04-10",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/us/samsung-galaxy-s-6-and-galaxy-s-6-edge-u-s-pre-orders-begin-march-27-available-nationwide-april-10/",
+      "archiveUrl": null,
+      "quote": "today announced the Galaxy S6 and Galaxy S6 edge will be available in the U.S. beginning April 10",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928G",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928I",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928C",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928W8",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G9280",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "model_number",
+      "value": "SM-G928L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G928A, SM-G928F, SM-G928A, SM-G928T, G928I, SM-G928G, SM-G928C, SM-G928I, SCV31, SM-G9280, SM-G928L, SM-G928S, SM-G928K, SM-G928W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "height_mm",
+      "value": 154.4,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 154.4 x 75.8 x 6.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "width_mm",
+      "value": 75.8,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 154.4 x 75.8 x 6.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "depth_mm",
+      "value": 6.9,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 154.4 x 75.8 x 6.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "weight_g",
+      "value": 153,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Weight 153 g (5.40 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "display_in",
+      "value": 5.7,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Size 5.7 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2560 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "soc",
+      "value": "Exynos 7420 Octa",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 7420 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 7420 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3000 mAh, non-removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s6_edge+-7467.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "height_mm",
+      "value": 154.4,
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Dimension 154.4 x 75.8 x 6.9 mm, 153 g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "width_mm",
+      "value": 75.8,
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Dimension 154.4 x 75.8 x 6.9 mm, 153 g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "depth_mm",
+      "value": 6.9,
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Dimension 154.4 x 75.8 x 6.9 mm, 153 g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "weight_g",
+      "value": 153,
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Dimension 154.4 x 75.8 x 6.9 mm, 153 g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Octa core (2.1 GHz Quad + 1.5 GHz Quad), 64 bit, 14 nm processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "display_in",
+      "value": 5.7,
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Display 5.7 (14.39 cm) Quad HD Super AMOLED, 2560 x 1440, Dual edge screen",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Display 5.7 (14.39 cm) Quad HD Super AMOLED, 2560 x 1440, Dual edge screen",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://news.samsung.com/in/samsung-launches-galaxy-s6-edge-in-india",
+      "archiveUrl": null,
+      "quote": "Battery 3,000 mAh, Fast Charging both on wired and wireless",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://news.samsung.com/global/galaxy-s6-edge-and-galaxy-note5-even-faster-wired-and-wireless-charging",
+      "archiveUrl": null,
+      "quote": "Each device houses a 3,000mAh battery, more than ten percent larger compared to the Galaxy S6 (2,550mAh) and the Galaxy S6 edge (2,600mAh).",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "release_date",
+      "value": "2015-08-13",
+      "kind": "announced",
+      "url": "https://news.samsung.com/us/samsung-remains-ahead-of-the-curve-with-bold-big-screen-smartphones/",
+      "archiveUrl": null,
+      "quote": "NEW YORK, August 13, 2015 – Samsung Electronics Co., Ltd., announced today the global launch of the Samsung Galaxy S6 edge+ and Galaxy Note5.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "release_date",
+      "value": "2015-08-21",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/samsung-releases-galaxy-s6-edge-to-the-world",
+      "archiveUrl": null,
+      "quote": "Samsung Releases Galaxy S6 edge+ to the World on August 21, 2015",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930FD",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930W8",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G9300",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930F, SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930FD, SM-G930W8, SM-G930S, SM-G930L, SM-G930K, SM-G9300",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "height_mm",
+      "value": 142.4,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "width_mm",
+      "value": 69.6,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "depth_mm",
+      "value": 7.9,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "weight_g",
+      "value": 152,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Weight 152 g (5.36 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Size 5.1 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2560 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "soc",
+      "value": "Exynos 8890 Octa",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 8890 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 8890 Octa (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3000 mAh, non-removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired, QC2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "release_date",
+      "value": "2016-02-21",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Announced 2016, February 21. Released 2016, March 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "release_date",
+      "value": "2016-03-11",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7-7821.php",
+      "archiveUrl": null,
+      "quote": "Announced 2016, February 21. Released 2016, March 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930P",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930V",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930R4",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "model_number",
+      "value": "SM-G930U",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G930A, SM-G930P, SM-G930V, SM-G930T, SM-G930R, SM-G930F, SM-G930U, SM-G930R4, SM-G930T1, SM-G930VL, SM-G930AZ, SM-G930R6, SM-G930R7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "soc",
+      "value": "Snapdragon 820 MSM8996",
+      "note": "US models",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_(usa)-7960.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S7+Teardown/56686",
+      "archiveUrl": null,
+      "quote": "It seems they took the hint and made up for it by including this 3000 mAh battery in the S7.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "release_date",
+      "value": "2016-02-21",
+      "kind": "announced",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "NEW YORK – February 21, 2016 – Samsung Electronics Co., Ltd today announced the newest additions to the Galaxy family of products—Samsung Galaxy S7 and Galaxy S7 edge.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "release_date",
+      "value": "2016-03-11",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "AT&T, Sprint, T-Mobile, U.S. Cellular and Verizon Wireless will carry the Samsung Galaxy S7 and Galaxy S7 edge in stores beginning March 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "The phones will have boosted battery capacity of 3,000 mAh for the Galaxy S7 and 3,600 mAh for the Galaxy S7 edge.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "height_mm",
+      "value": 142.4,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9mm, 152g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "width_mm",
+      "value": 69.6,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9mm, 152g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "depth_mm",
+      "value": 7.9,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9mm, 152g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "weight_g",
+      "value": 152,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "Dimensions 142.4 x 69.6 x 7.9mm, 152g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "Display 5.1” Quad HD Super AMOLED 2560x1440 (577ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "Display 5.1” Quad HD Super AMOLED 2560x1440 (577ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "height_mm",
+      "value": 142.4,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 142.4 x 69.6 x 7.9",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "width_mm",
+      "value": 69.6,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 142.4 x 69.6 x 7.9",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "depth_mm",
+      "value": 7.9,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 142.4 x 69.6 x 7.9",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "weight_g",
+      "value": 152,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Weight (g) 152",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "display_in",
+      "value": 5.1,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Size (Main Display) 5.1\" (129.2mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Resolution (Main Display) 2560 x 1440 (Quad HD)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Technology (Main Display) Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Standard Battery Capacity (mAh) 3000",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "claimed_runtime_h",
+      "value": 15,
+      "kind": "internet_wifi",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Internet Usage Time(Wi-Fi) (Hours) Up to 15",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "claimed_runtime_h",
+      "value": 15,
+      "kind": "video",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s7-g930f-sm-g930fzdamid/",
+      "archiveUrl": null,
+      "quote": "Video Playback Time (Hours) Up to 15",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935FD",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935W8",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G9350",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935R4",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935F, SM-G935FD, SM-G935W8, SM-G9350, SM-G935S, SC-02H, SM-G935K, SM-G935L, SM-G935R4, SCV33, SM-G935X, SM-G935VC, SM-G935D",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "height_mm",
+      "value": 150.9,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 150.9 x 72.6 x 7.7 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "width_mm",
+      "value": 72.6,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 150.9 x 72.6 x 7.7 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "depth_mm",
+      "value": 7.7,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 150.9 x 72.6 x 7.7 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "weight_g",
+      "value": 157,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Weight 157 g (5.54 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "display_in",
+      "value": 5.5,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Size 5.5 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2560 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "soc",
+      "value": "Snapdragon 820 MSM8996",
+      "note": "SM-G9350",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm MSM8996 Snapdragon 820 (14 nm) - G9350",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "soc",
+      "value": "Exynos 8890 Octa",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Exynos 8890 Octa (14 nm) - G935FD, G935F, G935W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Exynos 8890 Octa (14 nm) - G935FD, G935F, G935W8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "capacity_mah",
+      "value": 3600,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3600 mAh, non-removable",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired, QC2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "release_date",
+      "value": "2016-02-21",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Announced 2016, February 21. Released 2016, March 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "release_date",
+      "value": "2016-03-11",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge-7945.php",
+      "archiveUrl": null,
+      "quote": "Announced 2016, February 21. Released 2016, March 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935P",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935V",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "model_number",
+      "value": "SM-G935U",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G935A, SM-G935P, SM-G935V, SM-G935T, SM-G935R, SM-G935U, SM-G935L, SAMSUNG-SM-G935A",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "soc",
+      "value": "Snapdragon 820 MSM8996",
+      "note": "US models",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s7_edge_(usa)-7961.php",
+      "archiveUrl": null,
+      "quote": "Chipset Qualcomm MSM8996 Snapdragon 820 (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "capacity_wh",
+      "value": 13.86,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S7+Edge+Teardown/56845",
+      "archiveUrl": null,
+      "quote": "We extract the whopping 3.85 V, 13.86 Wh, 3,600 mAh burner of a battery.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "voltage_v",
+      "value": 3.85,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S7+Edge+Teardown/56845",
+      "archiveUrl": null,
+      "quote": "We extract the whopping 3.85 V, 13.86 Wh, 3,600 mAh burner of a battery.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "capacity_mah",
+      "value": 3600,
+      "kind": "typical",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S7+Edge+Teardown/56845",
+      "archiveUrl": null,
+      "quote": "We extract the whopping 3.85 V, 13.86 Wh, 3,600 mAh burner of a battery.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "release_date",
+      "value": "2016-02-21",
+      "kind": "announced",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "NEW YORK – February 21, 2016 – Samsung Electronics Co., Ltd today announced the newest additions to the Galaxy family of products—Samsung Galaxy S7 and Galaxy S7 edge.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "release_date",
+      "value": "2016-03-11",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "AT&T, Sprint, T-Mobile, U.S. Cellular and Verizon Wireless will carry the Samsung Galaxy S7 and Galaxy S7 edge in stores beginning March 11",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "capacity_mah",
+      "value": 3600,
+      "kind": "typical",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "The phones will have boosted battery capacity of 3,000 mAh for the Galaxy S7 and 3,600 mAh for the Galaxy S7 edge.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "height_mm",
+      "value": 150.9,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "150.9 x 72.6 x 7.7mm, 157g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "width_mm",
+      "value": 72.6,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "150.9 x 72.6 x 7.7mm, 157g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "depth_mm",
+      "value": 7.7,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "150.9 x 72.6 x 7.7mm, 157g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "weight_g",
+      "value": 157,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "150.9 x 72.6 x 7.7mm, 157g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "display_in",
+      "value": 5.5,
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "5.5” Quad HD Super AMOLED 2560x1440 (534ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://news.samsung.com/us/samsung-introduces-galaxy-s7-galaxy-s7-edge-center-new-mobile-world/",
+      "archiveUrl": null,
+      "quote": "5.5” Quad HD Super AMOLED 2560x1440 (534ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "height_mm",
+      "value": 150.9,
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 150.9 x 72.6 x 7.7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "width_mm",
+      "value": 72.6,
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 150.9 x 72.6 x 7.7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "depth_mm",
+      "value": 7.7,
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 150.9 x 72.6 x 7.7",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "weight_g",
+      "value": 157,
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Weight (g) 157",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "display_in",
+      "value": 5.5,
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Size (Main Display) 5.5\" (139.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Resolution (Main Display) 2560 x 1440 (Quad HD)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "panel",
+      "value": "dual edge Super AMOLED",
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Technology (Main Display) dual edge Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "capacity_mah",
+      "value": 3600,
+      "kind": "typical",
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Standard Battery Capacity (mAh) 3600",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "claimed_runtime_h",
+      "value": 16,
+      "kind": "internet_wifi",
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Internet Usage Time(Wi-Fi) (Hours) Up to 16",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "claimed_runtime_h",
+      "value": 18,
+      "kind": "video",
+      "url": "https://www.samsung.com/levant/business/smartphones/galaxy-s/galaxy-s7-edge-g935f-sm-g935fzdamid/",
+      "archiveUrl": null,
+      "quote": "Video Playback Time (Hours) Up to 18",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950FD",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950U",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950U1",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950W",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950P",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950V",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G950N",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "model_number",
+      "value": "SM-G9500",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G950FD, SM-G950W, SM-G950S, SM-G950K, SM-G950L, SM-G9500, SM-G950A, SM-G950P, SM-G950T, SM-G950U, SM-G950V, SM-G950F, SM-G950U1, SM-G950N, SC-02J, SCV36, SM-G950, G950F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "height_mm",
+      "value": 148.9,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 148.9 x 68.1 x 8 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "width_mm",
+      "value": 68.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 148.9 x 68.1 x 8 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "depth_mm",
+      "value": 8,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 148.9 x 68.1 x 8 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "weight_g",
+      "value": 155,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Weight 155 g (5.47 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "display_in",
+      "value": 5.8,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Size 5.8 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "resolution_px",
+      "value": "2960x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2960 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED, HDR10",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "soc",
+      "value": "Exynos 8895",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 8895 (10 nm) - EMEA",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "soc",
+      "value": "Snapdragon 835 MSM8998",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Qualcomm MSM8998 Snapdragon 835 (10 nm) - USA & China",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "process_nm",
+      "value": 10,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 8895 (10 nm) - EMEA",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3000 mAh, non-removable (11.55 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "capacity_wh",
+      "value": 11.55,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3000 mAh, non-removable (11.55 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired, QC2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "release_date",
+      "value": "2017-03-29",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Announced 2017, March 29. Released 2017, April 24",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "release_date",
+      "value": "2017-04-24",
+      "kind": "released",
+      "note": "conflicts with Samsung newsroom April 21",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8-8161.php",
+      "archiveUrl": null,
+      "quote": "Announced 2017, March 29. Released 2017, April 24",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "capacity_wh",
+      "value": 11.55,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S8+Teardown/87136",
+      "archiveUrl": null,
+      "quote": "The Samsung-branded battery clocks in at 11.55 Wh",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "release_date",
+      "value": "2017-03-29",
+      "kind": "announced",
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "New York, NY – March 29, 2017 – Samsung Electronics America Inc. , introduces the Galaxy S8 and Galaxy S8+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "release_date",
+      "value": "2017-04-21",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/discover-new-possibilities-with-the-samsung-galaxy-s8-a-smartphone-without-limits",
+      "archiveUrl": null,
+      "quote": "The Galaxy S8 and S8+ will be available starting on April 21",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "release_date",
+      "value": "2017-04-21",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/us/samsung-galaxy-s8-s8plus-gear-vr-with-controller-now-available",
+      "archiveUrl": null,
+      "quote": "April 21, 2017 – Samsung Electronics America, Inc. announced today that the award-winning Samsung Galaxy S8 and S8+ , as well as the new Gear VR with Controller , are now available for purchase",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "launch_price_usd",
+      "value": 724.99,
+      "note": "US unlocked (SM-G950U1), 64GB, pre-orders from May 9, 2017; carrier pricing at the April launch was set by carriers",
+      "url": "https://news.samsung.com/us/galaxy-s8-galaxy-s8-unlocked-samsung-pre-orders-begin-u-s/",
+      "archiveUrl": null,
+      "quote": "Consumers can choose from the 5.8-inch ($724.99) or 6.2-inch models ($824.99)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "height_mm",
+      "value": 148.9,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Dimension 148.9 x 68.1 x 8.0 mm, 155g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "width_mm",
+      "value": 68.1,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Dimension 148.9 x 68.1 x 8.0 mm, 155g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "depth_mm",
+      "value": 8,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Dimension 148.9 x 68.1 x 8.0 mm, 155g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "weight_g",
+      "value": 155,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Dimension 148.9 x 68.1 x 8.0 mm, 155g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "process_nm",
+      "value": 10,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Octa core (2.3GHz Quad + 1.7GHz Quad), 64 bit, 10 nm process",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "display_in",
+      "value": 5.8,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "5.8” (146.5mm) * Quad HD+ (2960x1440), (570ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "resolution_px",
+      "value": "2960x1440",
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "5.8” (146.5mm) * Quad HD+ (2960x1440), (570ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "note": "spec table, first column is Galaxy S8",
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Battery 3,000 mAh, 3,500 mAh,",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "height_mm",
+      "value": 148.9,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 148.9 x 68.1 x 8.0",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "width_mm",
+      "value": 68.1,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 148.9 x 68.1 x 8.0",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "depth_mm",
+      "value": 8,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 148.9 x 68.1 x 8.0",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "weight_g",
+      "value": 155,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Weight (g) 155",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "display_in",
+      "value": 5.8,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Size (Main Display) 5.8\" (146.5mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "resolution_px",
+      "value": "2960x1440",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Resolution (Main Display) 2960 x 1440 (Quad HD+)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "panel",
+      "value": "dual edge Super AMOLED",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Technology (Main Display) dual edge Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "capacity_mah",
+      "value": 3000,
+      "kind": "typical",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Standard Battery Capacity (mAh) 3000",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "claimed_runtime_h",
+      "value": 14,
+      "kind": "internet_wifi",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Internet Usage Time(Wi-Fi) (Hours) Up to 14",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "claimed_runtime_h",
+      "value": 16,
+      "kind": "video",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g950f-sm-g950fzkamid/",
+      "archiveUrl": null,
+      "quote": "Video Playback Time (Hours) Up to 16",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955F",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955FD",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955U",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955U1",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955W",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955A",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955P",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955T",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955V",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955R4",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955S",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955K",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955L",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G955N",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "model_number",
+      "value": "SM-G9550",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Models SM-G955F, SM-G955FD, SM-G955W, SM-G955A, SM-G955P, SM-G955T, SM-G955V, SM-G955R4, SM-G955U, SM-G955S, SM-G955K, SM-G955L, SM-G955, SM-G955U1, SM-G955N, SM-G9550, SC-03J, G955F",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "height_mm",
+      "value": 159.5,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 159.5 x 73.4 x 8.1 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "width_mm",
+      "value": 73.4,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 159.5 x 73.4 x 8.1 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "depth_mm",
+      "value": 8.1,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Dimensions 159.5 x 73.4 x 8.1 mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "weight_g",
+      "value": 173,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Weight 173 g (6.10 oz)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "display_in",
+      "value": 6.2,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Size 6.2 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "resolution_px",
+      "value": "2960x1440",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Resolution 1440 x 2960 pixels",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "panel",
+      "value": "Super AMOLED",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Display Type Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "soc",
+      "value": "Exynos 8895",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 8895 (10 nm) - EMEA",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "soc",
+      "value": "Snapdragon 835 MSM8998",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Qualcomm MSM8998 Snapdragon 835 (10 nm) - USA & China",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "process_nm",
+      "value": 10,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Chipset Exynos 8895 (10 nm) - EMEA",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_mah",
+      "value": 3500,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3500 mAh, non-removable (13.48 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_wh",
+      "value": 13.48,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Li-Ion 3500 mAh, non-removable (13.48 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "charging_w",
+      "value": 15,
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Charging 15W wired, QC2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "release_date",
+      "value": "2017-03-29",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/samsung_galaxy_s8+-8523.php",
+      "archiveUrl": null,
+      "quote": "Announced 2017, March 29. Released 2017, April",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_wh",
+      "value": 13.48,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S8++Teardown/87086",
+      "archiveUrl": null,
+      "quote": "The S8+ features a 13.48 Wh (3500 mAh at 3.85 V) battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "voltage_v",
+      "value": 3.85,
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S8++Teardown/87086",
+      "archiveUrl": null,
+      "quote": "The S8+ features a 13.48 Wh (3500 mAh at 3.85 V) battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_mah",
+      "value": 3500,
+      "kind": "typical",
+      "url": "https://www.ifixit.com/Teardown/Samsung+Galaxy+S8++Teardown/87086",
+      "archiveUrl": null,
+      "quote": "The S8+ features a 13.48 Wh (3500 mAh at 3.85 V) battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "release_date",
+      "value": "2017-03-29",
+      "kind": "announced",
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "New York, NY – March 29, 2017 – Samsung Electronics America Inc. , introduces the Galaxy S8 and Galaxy S8+",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "release_date",
+      "value": "2017-04-21",
+      "kind": "released",
+      "url": "https://news.samsung.com/global/discover-new-possibilities-with-the-samsung-galaxy-s8-a-smartphone-without-limits",
+      "archiveUrl": null,
+      "quote": "The Galaxy S8 and S8+ will be available starting on April 21",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "release_date",
+      "value": "2017-04-21",
+      "kind": "released",
+      "note": "US",
+      "url": "https://news.samsung.com/us/samsung-galaxy-s8-s8plus-gear-vr-with-controller-now-available",
+      "archiveUrl": null,
+      "quote": "April 21, 2017 – Samsung Electronics America, Inc. announced today that the award-winning Samsung Galaxy S8 and S8+ , as well as the new Gear VR with Controller , are now available for purchase",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "launch_price_usd",
+      "value": 824.99,
+      "note": "US unlocked (SM-G955U1), 64GB, pre-orders from May 9, 2017; carrier pricing at the April launch was set by carriers",
+      "url": "https://news.samsung.com/us/galaxy-s8-galaxy-s8-unlocked-samsung-pre-orders-begin-u-s/",
+      "archiveUrl": null,
+      "quote": "Consumers can choose from the 5.8-inch ($724.99) or 6.2-inch models ($824.99)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "height_mm",
+      "value": 159.5,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "159.5 x 73.4 x 8.1 mm, 173g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "width_mm",
+      "value": 73.4,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "159.5 x 73.4 x 8.1 mm, 173g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "depth_mm",
+      "value": 8.1,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "159.5 x 73.4 x 8.1 mm, 173g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "weight_g",
+      "value": 173,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "159.5 x 73.4 x 8.1 mm, 173g",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "display_in",
+      "value": 6.2,
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "6.2” (158.1mm) * Quad HD+ (2960x1440), (529ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "resolution_px",
+      "value": "2960x1440",
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "6.2” (158.1mm) * Quad HD+ (2960x1440), (529ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_mah",
+      "value": 3500,
+      "kind": "typical",
+      "note": "spec table, second column is Galaxy S8+",
+      "url": "https://news.samsung.com/us/discover-new-possibilities-samsung-galaxy-s8-galaxy-s8-plus-unpacked-2017/",
+      "archiveUrl": null,
+      "quote": "Battery 3,000 mAh, 3,500 mAh,",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "height_mm",
+      "value": 159.5,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 159.5 x 73.4 x 8.1",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "width_mm",
+      "value": 73.4,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 159.5 x 73.4 x 8.1",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "depth_mm",
+      "value": 8.1,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Dimension (HxWxD, mm) 159.5 x 73.4 x 8.1",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "weight_g",
+      "value": 173,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Weight (g) 173",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "display_in",
+      "value": 6.2,
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Size (Main Display) 6.2\" (158.1mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "resolution_px",
+      "value": "2960x1440",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Resolution (Main Display) 2960 x 1440 (Quad HD+)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "panel",
+      "value": "dual edge Super AMOLED",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Technology (Main Display) dual edge Super AMOLED",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_mah",
+      "value": 3500,
+      "kind": "typical",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Standard Battery Capacity (mAh) 3500",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "claimed_runtime_h",
+      "value": 15,
+      "kind": "internet_wifi",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Internet Usage Time(Wi-Fi) (Hours) Up to 15",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "claimed_runtime_h",
+      "value": 18,
+      "kind": "video",
+      "url": "https://www.samsung.com/lb/business/smartphones/galaxy-s/galaxy-s8-g955f-sm-g955fzkamid/",
+      "archiveUrl": null,
+      "quote": "Video Playback Time (Hours) Up to 18",
+      "retrieved": "2026-10-03"
+    }
+  ],
+  "rejections": [
+    {
+      "device": "galaxy-s-s",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "refresh_hz",
+      "note": "no source states a refresh rate for these 60 Hz-era panels (GSMArena and Samsung pages omit it)"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "brightness_nits",
+      "note": "GSMArena spec pages and the Samsung pages fetched state no nits figure; Notebookcheck measured values need Wayback, which refused connections this session"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "launch_price_usd",
+      "note": "Samsung US newsroom releases defer pricing to carriers (\"Pricing information is available from individual wireless carriers\"); GSMArena lists current street price in EUR only"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "capacity_wh",
+      "note": "iFixit teardown 7122 (user teardown) reads only \"1500mAh\" from the label; GSMArena gives mAh only; EB575152VU 5.55 Wh appears only on reseller/eBay listings, not used"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "voltage_v",
+      "note": "no teardown or Samsung page states the EB575152VU voltage; reseller listings only"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "release_date",
+      "note": "announced: GSMArena gives month only (\"2010, March\"); no Samsung newsroom release for the CTIA 2010 announcement found"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "capacity_wh",
+      "note": "iFixit teardowns 5861/72990/73002 have no battery text; EB-F1A2GBU 6.11 Wh appears only on eBay/reseller listings; icecat page JS-rendered"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "voltage_v",
+      "note": "same as capacity_wh: no teardown or manufacturer receipt for 3.7 V"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "release_date",
+      "note": "announced (MWC Feb 2011): newsroom says only \"Announced at Mobile World Congress 2011\", no day"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "release_date",
+      "note": "announced: Samsung newsroom post is dated \"March 15, 2013\" (KST, event was March 14 in New York) and GSMArena gives month only; not recorded"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "release_date",
+      "note": "announced: newsroom post dated \"February 25, 2014\" (KST) and GSMArena month only; not recorded"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "capacity_wh",
+      "note": "iFixit \"How To Tear Down\" guide 45684 has no battery figures; no GSMArena Wh; EB-BG928ABE 11.55 Wh appears only on reseller listings"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "voltage_v",
+      "note": "no teardown or manufacturer receipt"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "capacity_wh",
+      "note": "iFixit teardown 56686 gives \"3000 mAh\" only; GSMArena gives mAh only; EB-BG930ABE 11.55 Wh appears only on reseller listings"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "voltage_v",
+      "note": "iFixit S7 teardown gives no battery voltage"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "claimed_runtime_h",
+      "note": "no Samsung page with an internet-use or video claim reachable: regional business pages exist only for S6+ models, samsung.com spec pages are JS-rendered and Wayback refused connections this session; GSMArena lists talk/music only"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "charging_w",
+      "note": "GSMArena lists no wired charging rate for this model; Samsung pages fetched give none"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "charging_w",
+      "note": "GSMArena lists no wired charging rate for this model; Samsung pages fetched give none"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "charging_w",
+      "note": "GSMArena lists no wired charging rate for this model; Samsung pages fetched give none"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "charging_w",
+      "note": "GSMArena lists no wired charging rate for this model; Samsung pages fetched give none"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "charging_w",
+      "note": "GSMArena lists no wired charging rate for this model; Samsung pages fetched give none"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "process_nm",
+      "note": "GSMArena chipset line \"Hummingbird\" has no node; newsroom names Exynos 3110 without a node"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "process_nm",
+      "note": "GSMArena chipset line \"Exynos 4210 Dual\" has no node"
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s3",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s4",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s5",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s6",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s6-edge",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s6-edge-plus",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s7",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s7-edge",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s8",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    },
+    {
+      "device": "galaxy-s-s8-plus",
+      "field": "capacity_mah",
+      "note": "rated (label/regulatory) mAh not found for any model; all Samsung/GSMArena figures are typical. Only the S4 teardown (\"rated at 3.8 V and 2600 mAh\") and the Galaxy S label reading are label-derived"
+    }
+  ]
+}

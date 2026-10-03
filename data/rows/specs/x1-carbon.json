@@ -1,0 +1,4268 @@
+{
+  "line": "x1-carbon",
+  "devices": [
+    {
+      "id": "x1-carbon-gen-1",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (1st Gen)",
+      "variant": null,
+      "generation": "1",
+      "modelNumbers": [
+        "3443",
+        "3444",
+        "3446",
+        "3448",
+        "3460",
+        "3462",
+        "3463"
+      ],
+      "googleName": null,
+      "note": "Includes the 2013 X1 Carbon Touch models (same battery)"
+    },
+    {
+      "id": "x1-carbon-gen-2",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (2nd Gen)",
+      "variant": null,
+      "generation": "2",
+      "modelNumbers": [
+        "20A7",
+        "20A8"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-3",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (3rd Gen)",
+      "variant": null,
+      "generation": "3",
+      "modelNumbers": [
+        "20BS",
+        "20BT"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-4",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (4th Gen)",
+      "variant": null,
+      "generation": "4",
+      "modelNumbers": [
+        "20FB",
+        "20FC"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-5",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (5th Gen)",
+      "variant": null,
+      "generation": "5",
+      "modelNumbers": [
+        "20HQ",
+        "20HR",
+        "20K3",
+        "20K4"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-6",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (6th Gen)",
+      "variant": null,
+      "generation": "6",
+      "modelNumbers": [
+        "20KG",
+        "20KH"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-7",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon (7th Gen)",
+      "variant": null,
+      "generation": "7",
+      "modelNumbers": [
+        "20QD",
+        "20QE",
+        "20R1",
+        "20R2"
+      ],
+      "googleName": null,
+      "note": "Includes the Aug 2019 10th-gen Intel (Comet Lake) refresh; same 51Wh battery"
+    },
+    {
+      "id": "x1-carbon-gen-8",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 8",
+      "variant": null,
+      "generation": "8",
+      "modelNumbers": [
+        "20U9",
+        "20UA"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-9",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 9",
+      "variant": null,
+      "generation": "9",
+      "modelNumbers": [
+        "20XW",
+        "20XX"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-10",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 10",
+      "variant": null,
+      "generation": "10",
+      "modelNumbers": [
+        "21CB",
+        "21CC"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-11",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 11",
+      "variant": null,
+      "generation": "11",
+      "modelNumbers": [
+        "21HM",
+        "21HN"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-12",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 12",
+      "variant": null,
+      "generation": "12",
+      "modelNumbers": [
+        "21KC",
+        "21KD"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "x1-carbon-gen-13",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 13 Aura Edition",
+      "variant": null,
+      "generation": "13",
+      "modelNumbers": [
+        "21NS",
+        "21NT"
+      ],
+      "googleName": null,
+      "note": "PSREF has two books for this model (\"Gen 13\" and \"Gen 13 Aura Edition\") with identical battery text; launched with Lunar Lake (Core Ultra 200V), Arrow Lake U/H configs added later"
+    },
+    {
+      "id": "x1-carbon-gen-14",
+      "line": "x1-carbon",
+      "category": "laptop",
+      "name": "ThinkPad X1 Carbon Gen 14 Aura Edition",
+      "variant": null,
+      "generation": "14",
+      "modelNumbers": [
+        "21V7",
+        "21V8"
+      ],
+      "googleName": null,
+      "note": null
+    }
+  ],
+  "rows": [
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3443",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3444",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3446",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3448",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3460",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3462",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "model_number",
+      "value": "3463",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "machine type 3443, 3444, 3446, 3448, 3460, 3462, and 3463",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "capacity_wh",
+      "value": 45.8,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Lithium Polymer 4-cell RapidCharge battery Integrated battery (45.8Whr): up to 8.2 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "claimed_runtime_h",
+      "value": 8.2,
+      "kind": "daily_use",
+      "note": "MobileMark 2007 (PSREF footnote 10: \"battery life based on MobileMark 2007\")",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated battery (45.8Whr): up to 8.2 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" (355mm) HD+ (1600x900) TFT color, anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "resolution_px",
+      "value": "1600x900",
+      "note": "only panel offered",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" (355mm) HD+ (1600x900) TFT color, anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "panel",
+      "value": "TFT LCD (LED backlight)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" (355mm) HD+ (1600x900) TFT color, anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "HD+ panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" (355mm) HD+ (1600x900) TFT color, anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "width_mm",
+      "value": 331,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0W\" (WxDxH): 13.0\" x 8.9\" x 0.31-0.74\"; 331mm x 226mm x 8.0-18.8mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "depth_mm",
+      "value": 226,
+      "note": "Lenovo D (front-to-back)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0W\" (WxDxH): 13.0\" x 8.9\" x 0.31-0.74\"; 331mm x 226mm x 8.0-18.8mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "height_mm",
+      "value": 18.8,
+      "note": "Lenovo H (thickness), wedge 8.0-18.8 mm; max recorded",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "14.0W\" (WxDxH): 13.0\" x 8.9\" x 0.31-0.74\"; 331mm x 226mm x 8.0-18.8mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "weight_g",
+      "value": 1360,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated battery: from 3.0 lb (1.36kg)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "soc",
+      "value": "Intel Core i5-3317U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "Intel® Core i5-3317U processor (2 cores, 1.70GHz, 3MB cache)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "soc",
+      "value": "Intel Core i5-3427U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core i5-3427U processor (2 cores, 1.80GHz, 3MB cache)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "soc",
+      "value": "Intel Core i7-3667U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/withdrawnbook/ltwbook.pdf",
+      "archiveUrl": null,
+      "quote": "Intel Core i7-3667U processor (2 cores, 2.0GHz, 4MB cache)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "release_date",
+      "value": "2012-08-09",
+      "kind": "announced",
+      "note": "formal US press release; Lenovo previewed the X1 Carbon in May 2012",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-highlights-20-years-of-innovation-with-premier-thinkpad-x1-carbon/",
+      "archiveUrl": null,
+      "quote": "August 09, 2012 – Lenovo (HKSE: 0992) (PINK SHEETS: LNVGY) today announced the ThinkPad X1 Carbon",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "note": "starting price per Lenovo press release",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-highlights-20-years-of-innovation-with-premier-thinkpad-x1-carbon/",
+      "archiveUrl": null,
+      "quote": "The ThinkPad X1 Carbon and T430u Ultrabook will be available in August 2012. Pricing for models starts at $1,299 and $779, respectively",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "release_date",
+      "value": "2012-08-21",
+      "kind": "released",
+      "note": "Engadget, targeted on-sale date at Lenovo.com",
+      "url": "https://www.engadget.com/2012-08-07-lenovo-thinkpad-x1-carbon-gets-official.html",
+      "archiveUrl": null,
+      "quote": "Lenovo's ThinkPad X1 Carbon Ultrabook gets official: on sale August 21st for $1,399 and up",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "launch_price_usd",
+      "value": 1399,
+      "note": "Engadget; conflicts with Lenovo press release $1,299",
+      "url": "https://www.engadget.com/2012-08-07-lenovo-thinkpad-x1-carbon-gets-official.html",
+      "archiveUrl": null,
+      "quote": "Lenovo's ThinkPad X1 Carbon Ultrabook gets official: on sale August 21st for $1,399 and up",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "model_number",
+      "value": "20A7",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkP ad X1 C arbon User Guide Machine types: 20A7 and 20A8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "model_number",
+      "value": "20A8",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkP ad X1 C arbon User Guide Machine types: 20A7 and 20A8",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "capacity_wh",
+      "value": 45,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Lithium Polymer 8-cell (45Wh) RapidCharge battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "claimed_runtime_h",
+      "value": 9,
+      "kind": "daily_use",
+      "note": "PSREF \"Max battery life\", benchmark not named on this sheet",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated battery: up to 9 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) HD+ (1600x900), anti-glare, LED backlight, 250 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "resolution_px",
+      "value": "1600x900",
+      "note": "HD+ panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) HD+ (1600x900), anti-glare, LED backlight, 250 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD IPS panel option (also with touch)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WQHD panel; HD+ panel type not stated",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, 300 nits, 16:9 aspect ratio, 700:1 contrast ratio, IPS",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "brightness_nits",
+      "value": 250,
+      "kind": "typical",
+      "note": "HD+ panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) HD+ (1600x900), anti-glare, LED backlight, 250 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "brightness_nits",
+      "value": 270,
+      "kind": "typical",
+      "note": "WQHD touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: Capacitive-type multi-touch, supports 10-fi nger gesture, 270 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "width_mm",
+      "value": 331,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WQHD (WxDxH): 13.03\" x 8.92\" x 0.70\"; 331.0mm x 226.5mm x 17.72mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "depth_mm",
+      "value": 226.5,
+      "note": "Lenovo D, WQHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WQHD (WxDxH): 13.03\" x 8.92\" x 0.70\"; 331.0mm x 226.5mm x 17.72mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "height_mm",
+      "value": 17.72,
+      "note": "Lenovo H (thickness), WQHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WQHD (WxDxH): 13.03\" x 8.92\" x 0.70\"; 331.0mm x 226.5mm x 17.72mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "depth_mm",
+      "value": 226.8,
+      "note": "Lenovo D, HD+ model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "HD+ (WxDxH): 13.03\" x 8.93\" x 0.71\"; 331.0mm x 226.8mm x 18.16mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "height_mm",
+      "value": 18.16,
+      "note": "Lenovo H (thickness), HD+ model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "HD+ (WxDxH): 13.03\" x 8.93\" x 0.71\"; 331.0mm x 226.8mm x 18.16mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "weight_g",
+      "value": 1280,
+      "note": "WQHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models WQHD HD+ WQHD Touch Weight 2.82 lb / 1.28kg 2.96 lb / 1.34kg 3.15 lb / 1.43kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "weight_g",
+      "value": 1340,
+      "note": "HD+ model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models WQHD HD+ WQHD Touch Weight 2.82 lb / 1.28kg 2.96 lb / 1.34kg 3.15 lb / 1.43kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "weight_g",
+      "value": 1430,
+      "note": "WQHD Touch model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models WQHD HD+ WQHD Touch Weight 2.82 lb / 1.28kg 2.96 lb / 1.34kg 3.15 lb / 1.43kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "soc",
+      "value": "4th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_2nd_Gen/ThinkPad_X1_Carbon_2nd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Processor 4th Generation Intel® Core™ i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "release_date",
+      "value": "2014-01-05",
+      "kind": "announced",
+      "note": "Lenovo counts the 2011 X1 as gen 1, so it calls this \"third generation\"",
+      "url": "https://news.lenovo.com/pressroom/press-releases/new-thinkpad-x1-carbon-lightest-14-inch-ultrabook-in-the-world/",
+      "archiveUrl": null,
+      "quote": "LAS VEGAS – January 5, 2014: PC computing leader Lenovo (HKSE: 992) (ADR: LNVGY) today, at the 2014 International Consumer Electronics Show ,announced additions to its product portfolio with the third generation ThinkPad X1 Carbon",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "url": "https://news.lenovo.com/pressroom/press-releases/new-thinkpad-x1-carbon-lightest-14-inch-ultrabook-in-the-world/",
+      "archiveUrl": null,
+      "quote": "Models of the ThinkPad X1 Carbon start at $1299 and availability will begin late January.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "model_number",
+      "value": "20BS",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine T ypes: 20BS and 20B T",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "model_number",
+      "value": "20BT",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon3_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine T ypes: 20BS and 20B T",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "capacity_wh",
+      "value": 50,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Lithium Polymer 8-cell (50Wh) RapidCharge battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "claimed_runtime_h",
+      "value": 10.9,
+      "kind": "daily_use",
+      "note": "FHD model; PSREF \"Max battery life\", benchmark not named on this sheet",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models FHD WQHD WQHD Touch Battery life 10.9 hr 9.9 hr 9.9 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "claimed_runtime_h",
+      "value": 9.9,
+      "kind": "daily_use",
+      "note": "WQHD and WQHD Touch models; benchmark not named on this sheet",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models FHD WQHD WQHD Touch Battery life 10.9 hr 9.9 hr 9.9 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD IPS panel option (also with touch)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WQHD panel; FHD panel type not stated",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, 300 nits, 16:9 aspect ratio, 700:1 contrast ratio, IPS",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "FHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "brightness_nits",
+      "value": 270,
+      "kind": "typical",
+      "note": "WQHD touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Capacitive-type multi-touch, supports 10-fi nger gesture, 270 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "width_mm",
+      "value": 331,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WQHD (WxDxH): 13.03\" x 8.92\" x 0.70\"; 331.0mm x 226.5mm x 17.72mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "depth_mm",
+      "value": 226.5,
+      "note": "Lenovo D, WQHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WQHD (WxDxH): 13.03\" x 8.92\" x 0.70\"; 331.0mm x 226.5mm x 17.72mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "height_mm",
+      "value": 17.72,
+      "note": "Lenovo H (thickness), WQHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WQHD (WxDxH): 13.03\" x 8.92\" x 0.70\"; 331.0mm x 226.5mm x 17.72mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "depth_mm",
+      "value": 226.8,
+      "note": "Lenovo D, FHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "FHD (WxDxH): 13.03\" x 8.93\" x 0.71\"; 331.0mm x 226.8mm x 18.16mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "height_mm",
+      "value": 18.16,
+      "note": "Lenovo H (thickness), FHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "FHD (WxDxH): 13.03\" x 8.93\" x 0.71\"; 331.0mm x 226.8mm x 18.16mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "weight_g",
+      "value": 1359,
+      "note": "FHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models FHD WQHD WQHD Touch Weight 2.996 lb / 1.359 kg 2.877 lb / 1.305 kg 3.175 lb / 1.44 kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "weight_g",
+      "value": 1305,
+      "note": "WQHD model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models FHD WQHD WQHD Touch Weight 2.996 lb / 1.359 kg 2.877 lb / 1.305 kg 3.175 lb / 1.44 kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "weight_g",
+      "value": 1440,
+      "note": "WQHD Touch model",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models FHD WQHD WQHD Touch Weight 2.996 lb / 1.359 kg 2.877 lb / 1.305 kg 3.175 lb / 1.44 kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "soc",
+      "value": "5th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_3rd_Gen/ThinkPad_X1_Carbon_3rd_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Processor 5th Generation Intel® Core™ i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "release_date",
+      "value": "2015-01-04",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-latest-thinkpad-x1-carbon-to-celebrate-100-millionth-thinkpad/",
+      "archiveUrl": null,
+      "quote": "LAS VEGAS – January 4, 2015: PC computing leader Lenovo (HKSE: 992) (ADR: LNVGY) today announced, at the 2015 International Consumer Electronics Show",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "launch_price_usd",
+      "value": 1249,
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-latest-thinkpad-x1-carbon-to-celebrate-100-millionth-thinkpad/",
+      "archiveUrl": null,
+      "quote": "Models of the ThinkPad X1 Carbon start at $1249 and will be available from January 2015.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "model_number",
+      "value": "20FB",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_x1yoga_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkP ad X1 C arbon TP00076A 20FB and 20FC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "model_number",
+      "value": "20FC",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1carbon_x1yoga_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkP ad X1 C arbon TP00076A 20FB and 20FC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "capacity_wh",
+      "value": 52,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Lithium Polymer 4-cell (52Wh) RapidCharge battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "claimed_runtime_h",
+      "value": 11,
+      "kind": "daily_use",
+      "note": "MobileMark 2014",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark  2014: 11 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD IPS panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD IPS panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "panel",
+      "value": "IPS",
+      "note": "both panel options IPS",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "FHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "width_mm",
+      "value": 333,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 13.11\" x 9.02\" x 0.59-0.65\"; 333.0mm x 229.0mm x 14.95-16.45mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "depth_mm",
+      "value": 229,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 13.11\" x 9.02\" x 0.59-0.65\"; 333.0mm x 229.0mm x 14.95-16.45mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "height_mm",
+      "value": 16.45,
+      "note": "Lenovo H (thickness), range 14.95-16.45 mm; max recorded",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 13.11\" x 9.02\" x 0.59-0.65\"; 333.0mm x 229.0mm x 14.95-16.45mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "weight_g",
+      "value": 1170,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Starting at 2.579 lb / 1.17 kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "soc",
+      "value": "6th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_4th_Gen/ThinkPad_X1_Carbon_4th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Processor 6th Generation Intel Core i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "release_date",
+      "value": "2016-01-03",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-pioneering-modular-thinkpad-x1-tablet/",
+      "archiveUrl": null,
+      "quote": "LAS VEGAS, NV – January 3, 2016 – Lenovo (HKSE:992) today unveiled its newly expanded and highly innovative X1 portfolio",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "launch_price_usd",
+      "value": 1299,
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-pioneering-modular-thinkpad-x1-tablet/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon will be available starting February from $1299",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "model_number",
+      "value": "20HQ",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_5th_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine Types: 20HQ, 20HR, 20K3, and 20K4",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "model_number",
+      "value": "20HR",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_5th_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine Types: 20HQ, 20HR, 20K3, and 20K4",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "model_number",
+      "value": "20K3",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_5th_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine Types: 20HQ, 20HR, 20K3, and 20K4",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "model_number",
+      "value": "20K4",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_5th_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine Types: 20HQ, 20HR, 20K3, and 20K4",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Li-Polymer 3-cell (57Wh) RapidCharge battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "claimed_runtime_h",
+      "value": 15.5,
+      "kind": "daily_use",
+      "note": "MobileMark 2014",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark  2014: 15.5 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD IPS panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD IPS panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "panel",
+      "value": "IPS",
+      "note": "both panel options IPS",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "FHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Some: 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, IPS, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "width_mm",
+      "value": 323.5,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 12.74\" x 8.55\" x 0.63\"; 323.5mm x 217.1mm x 15.95mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "depth_mm",
+      "value": 217.1,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 12.74\" x 8.55\" x 0.63\"; 323.5mm x 217.1mm x 15.95mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "height_mm",
+      "value": 15.95,
+      "note": "Lenovo H (thickness)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 12.74\" x 8.55\" x 0.63\"; 323.5mm x 217.1mm x 15.95mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "weight_g",
+      "value": 1130,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Starting at 2.49 lb / 1.13 kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "soc",
+      "value": "6th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Processor 6th Generation Intel Core i5 / i7 Processor (EMEA has only i5-6300U and i7-6600U)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "soc",
+      "value": "7th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_5th_Gen/ThinkPad_X1_Carbon_5th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "or 7th Generation Intel Core i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "release_date",
+      "value": "2017-01-03",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-shows-how-different-innovates-better-at-ces-2017/",
+      "archiveUrl": null,
+      "quote": "LAS VEGAS – Jan 3, 2017 : Lenovo (HKSE: 992) (ADR: LNVGY) today kicked off the 2017 Consumer Electronics Show",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "launch_price_usd",
+      "value": 1349,
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-shows-how-different-innovates-better-at-ces-2017/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon starts at $1,349, available beginning in February 2017.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "model_number",
+      "value": "20KG",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_6th_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine Types: 20KG and 20KH",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "model_number",
+      "value": "20KH",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_6th_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "Machine Types: 20KG and 20KH",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Li-ion 57Wh battery, supports Rapid Charge (charge up to 80% in 1hr)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "claimed_runtime_h",
+      "value": 19.3,
+      "kind": "daily_use",
+      "note": "MobileMark 2014",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark  2014: 19.3 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, WVA, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD WVA panel option (touch optional)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, WVA, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD WVA panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, WVA, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "HDR WQHD Dolby Vision panel option",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) HDR WQHD (2560x1440) with Dolby Vision, glossy, WVA, LED backlight, 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "panel",
+      "value": "WVA",
+      "note": "all three panel options WVA",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, WVA, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "FHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) FHD (1920x1080), anti-glare, LED backlight, WVA, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) WQHD (2560x1440), anti-glare, LED backlight, WVA, 300 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "HDR WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "• 14.0\" (355mm) HDR WQHD (2560x1440) with Dolby Vision, glossy, WVA, LED backlight, 500 nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "width_mm",
+      "value": 323.5,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 12.74\" x 8.55\" x 0.63\"; 323.5mm x 217.1mm x 15.95mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "depth_mm",
+      "value": 217.1,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 12.74\" x 8.55\" x 0.63\"; 323.5mm x 217.1mm x 15.95mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "height_mm",
+      "value": 15.95,
+      "note": "Lenovo H (thickness)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "WxDxH: 12.74\" x 8.55\" x 0.63\"; 323.5mm x 217.1mm x 15.95mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "weight_g",
+      "value": 1130,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Starting at 2.49 lb / 1.13 kg",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "soc",
+      "value": "7th Generation Intel Core i5",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Processor 7th Generation Intel Core i5 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "soc",
+      "value": "8th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_6th_Gen/ThinkPad_X1_Carbon_6th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "or 8th Generation Intel Core i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "launch_price_usd",
+      "value": 1709,
+      "note": "LaptopMag CES 2018 coverage; no Lenovo primary page found",
+      "url": "https://www.laptopmag.com/articles/thinkpad-x1-carbon-2018-price-specs-release-date",
+      "archiveUrl": null,
+      "quote": "The X1 Carbon, starting at $1,709, is the star of the show, with an upgrade to 8th Gen Intel Core CPUs",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "model_number",
+      "value": "20QD",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1yoga_x1carbon_ug_v2_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon 20QD, 20QE, 20R1 and 20R2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "model_number",
+      "value": "20QE",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1yoga_x1carbon_ug_v2_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon 20QD, 20QE, 20R1 and 20R2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "model_number",
+      "value": "20R1",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1yoga_x1carbon_ug_v2_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon 20QD, 20QE, 20R1 and 20R2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "model_number",
+      "value": "20R2",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1yoga_x1carbon_ug_v2_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon 20QD, 20QE, 20R1 and 20R2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "capacity_wh",
+      "value": 51,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Li-Polymer 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "claimed_runtime_h",
+      "value": 18.3,
+      "kind": "daily_use",
+      "note": "MobileMark 2014",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark® 2014: 18.3 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "panel",
+      "value": "IPS",
+      "note": "all five panel options IPS",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD low-power panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "FHD low-power panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) Multi- touch IPS 300 nits Anti- glare 16:9 700:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "FHD touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) Multi- touch IPS 300 nits Anti- glare 16:9 700:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 1000:1 72% NTSC 170° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "FHD Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 1000:1 72% NTSC 170° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "resolution_px",
+      "value": "3840x2160",
+      "note": "UHD Dolby Vision HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" UHD (3840x2160) None IPS 500 nits Glossy 16:9 1400:1 90% 170° Dolby Vision™, HDR 400",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "UHD Dolby Vision HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" UHD (3840x2160) None IPS 500 nits Glossy 16:9 1400:1 90% 170° Dolby Vision™, HDR 400",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" WQHD (2560x1440) None IPS 300 nits Anti- glare 16:9 700:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" WQHD (2560x1440) None IPS 300 nits Anti- glare 16:9 700:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "width_mm",
+      "value": 323,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 323 x 217 x 14.95 mm (12.72 x 8.54 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "depth_mm",
+      "value": 217,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 323 x 217 x 14.95 mm (12.72 x 8.54 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "height_mm",
+      "value": 14.95,
+      "note": "Lenovo H (thickness), non-Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 323 x 217 x 14.95 mm (12.72 x 8.54 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "height_mm",
+      "value": 15.4,
+      "note": "Lenovo H (thickness), FHD Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "FHD Privacy Guard models 323 x 217 x 15.4 mm (12.72 x 8.54 x 0.61 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "weight_g",
+      "value": 1090,
+      "note": "non-Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 1.09 kg (2.4 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "weight_g",
+      "value": 1210,
+      "note": "FHD Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "FHD Privacy Guard models 1.21 kg (2.66 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "soc",
+      "value": "8th / 10th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_7th_Gen/ThinkPad_X1_Carbon_7th_Gen_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "8th / 10th Generation Intel® Core™ i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "release_date",
+      "value": "2019-01-07",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/end-user-insight-and-engineers-perfect-thinkpad-x1/",
+      "archiveUrl": null,
+      "quote": "LAS VEGAS – January 7, 2019 – Since the launch of the ThinkPad X1 line in 2011",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "launch_price_usd",
+      "value": 1709,
+      "note": "8th-gen Intel launch",
+      "url": "https://news.lenovo.com/pressroom/press-releases/end-user-insight-and-engineers-perfect-thinkpad-x1/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon will be available from June 2019, with an expected starting price of $1709",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "launch_price_usd",
+      "value": 1479,
+      "note": "10th-gen Intel refresh (Aug 2019 announcement)",
+      "url": "https://news.lenovo.com/pressroom/press-releases/smarter-lenovo-thinkpad-laptops-engineered-for-future-workforce/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon 7 th Gen with Intel 10 th Gen is expected to be available starting September 2019, starting at $1,479.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "model_number",
+      "value": "20U9",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_yoga_g5_x1_carbon_g8_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 8 20U9 and 20UA",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "model_number",
+      "value": "20UA",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_yoga_g5_x1_carbon_g8_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 8 20U9 and 20UA",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "capacity_wh",
+      "value": 51,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Li-Polymer 51Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "claimed_runtime_h",
+      "value": 19.5,
+      "kind": "daily_use",
+      "note": "MobileMark 2014",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark® 2014: 19.5 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "claimed_runtime_h",
+      "value": 13.8,
+      "kind": "daily_use",
+      "note": "MobileMark 2018",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark 2018: 13.8 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "panel",
+      "value": "IPS",
+      "note": "all five panel options IPS",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "FHD non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) None IPS 400 nits Anti- glare 16:9 800:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) Multi- touch IPS 400 nits Anti- glare 16:9 700:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "FHD touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) Multi- touch IPS 400 nits Anti- glare 16:9 700:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "resolution_px",
+      "value": "1920x1080",
+      "note": "FHD touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) Multi- touch IPS 500 nits Anti- glare 16:9 1000:1 72% NTSC 170° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "FHD touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" FHD (1920x1080) Multi- touch IPS 500 nits Anti- glare 16:9 1000:1 72% NTSC 170° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "resolution_px",
+      "value": "2560x1440",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" WQHD (2560x1440) None IPS 300 nits Anti- glare 16:9 1000:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "WQHD panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" WQHD (2560x1440) None IPS 300 nits Anti- glare 16:9 1000:1 72% NTSC 170° -",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "resolution_px",
+      "value": "3840x2160",
+      "note": "UHD Dolby Vision HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" UHD (3840x2160) None IPS 500 nits Glossy 16:9 1500:1 90% DCI-P3 170° Dolby Vision™, DisplayHDR™ 400",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "UHD Dolby Vision HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14.0\" UHD (3840x2160) None IPS 500 nits Glossy 16:9 1500:1 90% DCI-P3 170° Dolby Vision™, DisplayHDR™ 400",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "width_mm",
+      "value": 323,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 323 x 217 x 14.95 mm (12.72 x 8.54 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "depth_mm",
+      "value": 217,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 323 x 217 x 14.95 mm (12.72 x 8.54 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "height_mm",
+      "value": 14.95,
+      "note": "Lenovo H (thickness), non-Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 323 x 217 x 14.95 mm (12.72 x 8.54 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "height_mm",
+      "value": 15.4,
+      "note": "Lenovo H (thickness), FHD Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "FHD Privacy Guard models 323 x 217 x 15.4 mm (12.72 x 8.54 x 0.61 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "weight_g",
+      "value": 1090,
+      "note": "non-Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Non-Privacy Guard models 1.09 kg (2.4 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "weight_g",
+      "value": 1210,
+      "note": "FHD Privacy Guard models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "FHD Privacy Guard models 1.21 kg (2.66 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "soc",
+      "value": "10th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_8/ThinkPad_X1_Carbon_Gen_8_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "10th Generation Intel® Core™ i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "release_date",
+      "value": "2020-01-03",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/smarter-lenovo-think-devices-inspiring-todays-workforce-ces/",
+      "archiveUrl": null,
+      "quote": "Meet the Lenovo’s powerful new ThinkCentre M90a All-in-One, the latest ThinkPad X1 Carbon Gen 8, and flexible X1 Yoga Gen 5. 3 January 2020",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "launch_price_usd",
+      "value": 1499,
+      "url": "https://news.lenovo.com/pressroom/press-releases/smarter-lenovo-think-devices-inspiring-todays-workforce-ces/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 8 is expected to be available later in 2020, starting at $1,499.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "model_number",
+      "value": "20XW",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen9_x1_yoga_gen6_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 9 5G HPD 1 TP00129A TP00129A0 2 20XW and 20XX",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "model_number",
+      "value": "20XX",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen9_x1_yoga_gen6_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 9 5G HPD 1 TP00129A TP00129A0 2 20XW and 20XX",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Li-Polymer 57Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "claimed_runtime_h",
+      "value": 21.3,
+      "kind": "daily_use",
+      "note": "MobileMark 2014",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark® 2014: 21.3 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "claimed_runtime_h",
+      "value": 16.7,
+      "kind": "daily_use",
+      "note": "MobileMark 2018",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark 2018: 16.7 hr",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [3] None IPS 400 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "panel",
+      "value": "IPS",
+      "note": "all four panel options IPS",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [3] None IPS 400 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [3] None IPS 400 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [3] None IPS 400 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [4] Multi- touch IPS 400 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [4] Multi- touch IPS 400 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [5] Multi- touch IPS 500 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power, ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) [5] Multi- touch IPS 500 nits Anti- glare 16:10 1000:1 100% sRGB - 85°/85°/85°/85° Low power, ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "WQUXGA HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WQUXGA (3840x2400) [6] None IPS 500 nits Glossy 16:10 1500:1 100% DCI- P3",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WQUXGA HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WQUXGA (3840x2400) [6] None IPS 500 nits Glossy 16:10 1500:1 100% DCI- P3",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "width_mm",
+      "value": 315,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Dimensions (WxDxH)[1] 315 x 221.6 x 14.9 mm (12.4 x 8.72 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "depth_mm",
+      "value": 221.6,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Dimensions (WxDxH)[1] 315 x 221.6 x 14.9 mm (12.4 x 8.72 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "height_mm",
+      "value": 14.9,
+      "note": "Lenovo H (thickness)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Dimensions (WxDxH)[1] 315 x 221.6 x 14.9 mm (12.4 x 8.72 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "weight_g",
+      "value": 1133,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Starting at 1.133 kg (2.49 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "soc",
+      "value": "11th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_9/ThinkPad_X1_Carbon_Gen_9_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "11th Generation Intel® Core™ i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "release_date",
+      "value": "2021-01-11",
+      "kind": "announced",
+      "note": "same press release covers X1 Carbon Gen 9",
+      "url": "https://news.lenovo.com/pressroom/press-releases/thinnest-thinkpad-ever-x1-titanium-yoga-completes-conference-optimized-x1-portfolio/",
+      "archiveUrl": null,
+      "quote": "January 11, 2021 – Lenovo is thrilled to unveil our thinnest ThinkPad ever",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "launch_price_usd",
+      "value": 1429,
+      "url": "https://news.lenovo.com/pressroom/press-releases/thinnest-thinkpad-ever-x1-titanium-yoga-completes-conference-optimized-x1-portfolio/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon will be available starting February 2021. Prices are expected to start from $1429.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "model_number",
+      "value": "21CB",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen10_x1_yoga_gen7_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 10 5G 1 TP00129B 21CB and 21CC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "model_number",
+      "value": "21CC",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen10_x1_yoga_gen7_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 10 5G 1 TP00129B 21CB and 21CC",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Integrated Li-Polymer 57Wh battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "claimed_runtime_h",
+      "value": 15,
+      "kind": "daily_use",
+      "note": "MobileMark 2018 @200 nits; config 1 = WUXGA non-touch, i5-1235U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Configuration 1 (max battery life) MobileMark® 2018: up to 15.0 hr with 838 performance score @200nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "claimed_runtime_h",
+      "value": 13.1,
+      "kind": "daily_use",
+      "note": "MobileMark 25 @250 nits; config 1 = WUXGA non-touch, i5-1235U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark® 25: up to 13.1 hr with 663 performance score @250nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "claimed_runtime_h",
+      "value": 19.9,
+      "kind": "video",
+      "note": "local 1080p video @150 nits; config 1 = WUXGA non-touch, i5-1235U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "MobileMark® 25: up to 13.1 hr with 663 performance score @250nits JEITA 2.0: up to 24.9 hr @150nits Local video playback: up to 19.9 hr @150nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) None IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) None IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) None IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) None IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On-cell touch IPS[3] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On-cell touch IPS[3] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On-cell touch IPS[4] 500nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On-cell touch IPS[4] 500nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "2240x1400",
+      "note": "2.2K panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.2K (2240x1400) None IPS[5] 300nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "2.2K panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.2K (2240x1400) None IPS[5] 300nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) None OLED 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "2.8K OLED panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) None OLED 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "panel",
+      "value": "OLED",
+      "note": "2.8K OLED panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) None OLED 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "WQUXGA HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WQUXGA (3840x2400) None IPS[6] 500nits Glossy",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WQUXGA HDR400 panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WQUXGA (3840x2400) None IPS[6] 500nits Glossy",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "resolution_px",
+      "value": "3840x2400",
+      "note": "WQUXGA touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WQUXGA (3840x2400) Add- on Film touch IPS[7] 500nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WQUXGA touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WQUXGA (3840x2400) Add- on Film touch IPS[7] 500nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "width_mm",
+      "value": 315.6,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with 720p camera 315.6 x 222.5 x 14.95 mm (12.43 x 8.76 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "depth_mm",
+      "value": 222.5,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with 720p camera 315.6 x 222.5 x 14.95 mm (12.43 x 8.76 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "height_mm",
+      "value": 14.95,
+      "note": "Lenovo H (thickness), 720p camera models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with 720p camera 315.6 x 222.5 x 14.95 mm (12.43 x 8.76 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "height_mm",
+      "value": 15.36,
+      "note": "Lenovo H (thickness), other camera models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with other camera 315.6 x 222.5 x 15.36 mm (12.43 x 8.76 x 0.60 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "weight_g",
+      "value": 1120,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Starting at 1.12 kg (2.48 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "soc",
+      "value": "12th Generation Intel Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_10/ThinkPad_X1_Carbon_Gen_10_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "12th Generation Intel® Core™ i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "release_date",
+      "value": "2022-01-05",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/thinkpad-x1s-strengthen-uncompromised-premium-laptop-experiences/",
+      "archiveUrl": null,
+      "quote": "LAS VEGAS – January 5, 2022 – Lenovo™ ThinkPad X1 continues to deliver uncompromised user experiences",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "launch_price_usd",
+      "value": 1639,
+      "url": "https://news.lenovo.com/pressroom/press-releases/thinkpad-x1s-strengthen-uncompromised-premium-laptop-experiences/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 10 will be available from March 2022, with an expected starting price of $1639.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "model_number",
+      "value": "21HM",
+      "url": "https://support.lenovo.com/us/en/selfrepair/sr500060-thinkpad-x1-carbon-gen-11-21hm-21hn-self-repair-guide",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 11 (21HM, 21HN) Self-Repair Guide",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "model_number",
+      "value": "21HN",
+      "url": "https://support.lenovo.com/us/en/selfrepair/sr500060-thinkpad-x1-carbon-gen-11-21hm-21hn-self-repair-guide",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 11 (21HM, 21HN) Self-Repair Guide",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "57Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "claimed_runtime_h",
+      "value": 13.95,
+      "kind": "daily_use",
+      "note": "MobileMark 25 @250 nits; config 1 = WUXGA non-touch, i5-1345U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Configuration 1 (max battery life) MobileMark® 25: up to 13.95 hr with 658 performance score @250nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "claimed_runtime_h",
+      "value": 22.9,
+      "kind": "video",
+      "note": "local 1080p video @150 nits; config 1 = WUXGA non-touch, i5-1345U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "JEITA 2.0: up to 28.5 hr @150nits Local video playback: up to 22.9 hr @150nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Multi- touch IPS[2] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Multi- touch IPS[2] 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Multi- touch IPS[3] 500nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Multi- touch IPS[3] 500nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "resolution_px",
+      "value": "2240x1400",
+      "note": "2.2K panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.2K (2240x1400) Non- touch IPS[4] 300nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "brightness_nits",
+      "value": 300,
+      "kind": "typical",
+      "note": "2.2K panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.2K (2240x1400) Non- touch IPS[4] 300nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "2.8K OLED panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "panel",
+      "value": "OLED",
+      "note": "2.8K OLED panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "width_mm",
+      "value": 315.6,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with 720p camera 315.6 x 222.5 x 14.96 mm (12.43 x 8.76 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "depth_mm",
+      "value": 222.5,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with 720p camera 315.6 x 222.5 x 14.96 mm (12.43 x 8.76 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "height_mm",
+      "value": 14.96,
+      "note": "Lenovo H (thickness), 720p camera models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with 720p camera 315.6 x 222.5 x 14.96 mm (12.43 x 8.76 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "height_mm",
+      "value": 15.36,
+      "note": "Lenovo H (thickness), other camera models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with other camera 315.6 x 222.5 x 15.36 mm (12.43 x 8.76 x 0.60 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "weight_g",
+      "value": 1120,
+      "note": "starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Starting at 1.12 kg (2.48 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "soc",
+      "value": "13th Generation Intel U or P Series Core i5 / i7",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_11/ThinkPad_X1_Carbon_Gen_11_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "13th Generation Intel® U or P Series Core i5 / i7 Processor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "release_date",
+      "value": "2022-12-20",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/thinkpad-x1-thinkvision-lenovo-go-power-hybrid-working/",
+      "archiveUrl": null,
+      "quote": "December 20, 2022 – Ahead of CES® 2023, Lenovo unveiled its latest ThinkPad X1 laptops",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "launch_price_usd",
+      "value": 1729,
+      "url": "https://news.lenovo.com/pressroom/press-releases/thinkpad-x1-thinkvision-lenovo-go-power-hybrid-working/",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 11 will be available starting April 2023. Prices are expected to start from $1729.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "model_number",
+      "value": "21KC",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen12_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 12 CAT4 1 TP00150A 21KC and 21KD",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "model_number",
+      "value": "21KD",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen12_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 12 CAT4 1 TP00150A 21KC and 21KD",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "57Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "capacity_wh",
+      "value": 57,
+      "note": "Ultrabookreview.com review",
+      "url": "https://www.ultrabookreview.com/68424-lenovo-thinkpad-x1-carbon-gen12-review/",
+      "archiveUrl": null,
+      "quote": "The Lenovo X1 Carbon has a 57 Whr battery, which is quite small for a modern 14-inch ultraportable.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "claimed_runtime_h",
+      "value": 16,
+      "kind": "daily_use",
+      "note": "MobileMark 25 @250 nits; config 1 = WUXGA 400-nit non-touch, Core Ultra 5 125U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Configuration 1 (max battery life) MobileMark® 25: up to 16.0 hr with 604 performance score @250nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "claimed_runtime_h",
+      "value": 23.4,
+      "kind": "video",
+      "note": "local 1080p video @150 nits; config 1 = WUXGA non-touch, Core Ultra 5 125U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "JEITA-BAT 3.0 (Video/Idle): up to 12.8 hr / 35.4 hr @200nits Local video playback: up to 23.4 hr @150nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[2] 400nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[3] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[3] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[3] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "2.8K OLED non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "panel",
+      "value": "OLED",
+      "note": "2.8K OLED non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Add- on Film touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "2.8K OLED touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Add- on Film touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Add- on Film touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "width_mm",
+      "value": 312.8,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Dimensions (WxDxH)[1] 312.80 x 214.75 x 14.96 mm (12.31 x 8.45 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "depth_mm",
+      "value": 214.75,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Dimensions (WxDxH)[1] 312.80 x 214.75 x 14.96 mm (12.31 x 8.45 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "height_mm",
+      "value": 14.96,
+      "note": "Lenovo H (thickness)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Dimensions (WxDxH)[1] 312.80 x 214.75 x 14.96 mm (12.31 x 8.45 x 0.59 inches)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "weight_g",
+      "value": 1080,
+      "note": "trackpad models, starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with Trackpad Starting at 1.08 kg (2.37 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "weight_g",
+      "value": 1090,
+      "note": "haptic touchpad models, starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with Haptic Touchpad Starting at 1.09 kg (2.40 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "soc",
+      "value": "Intel U or H Series Core Ultra 5 / 7 (Series 1)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_12/ThinkPad_X1_Carbon_Gen_12_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Intel® U or H Series Core Ultra 5 / 7 Processor (Series 1)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "release_date",
+      "value": "2023-12-14",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/new-ai-pc-experiences-thinkpad-ideapad-laptops-intel-core-ultra-processors/",
+      "archiveUrl": null,
+      "quote": "December 14, 2023 – Ahead of CES ® 2024, Lenovo unveiled new business and consumer laptops",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "launch_price_usd",
+      "value": 2989,
+      "note": "limited configurations at launch; complete portfolio from March 2024",
+      "url": "https://news.lenovo.com/pressroom/press-releases/new-ai-pc-experiences-thinkpad-ideapad-laptops-intel-core-ultra-processors/",
+      "archiveUrl": null,
+      "quote": "Lenovo ThinkPad X1 Carbon Gen 12 will be available in limited configurations starting December 2023, with an expected starting price of $2,989.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "model_number",
+      "value": "21NS",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen13_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 13 TP00150B 21NS and 21NT",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "model_number",
+      "value": "21NT",
+      "url": "https://download.lenovo.com/pccbbs/mobiles_pdf/x1_carbon_gen13_ug_en.pdf",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 13 TP00150B 21NS and 21NT",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "capacity_wh",
+      "value": 57,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "57Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr)[1]",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "capacity_wh",
+      "value": 57,
+      "note": "Lenovo IFA 2024 press release",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-groundbreaking-ai-pc-innovations-at-lenovo-innovation-world-2024-to-power-business-users-in-the-ai-era/",
+      "archiveUrl": null,
+      "quote": "Battery Life : The 57-watt hour battery delivers more than 18 hours of battery life",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "capacity_wh",
+      "value": 57,
+      "note": "Ultrabookreview.com review spec table",
+      "url": "https://www.ultrabookreview.com/72439-lenovo-thinkpad-x1carbon-review/",
+      "archiveUrl": null,
+      "quote": "Battery 57 Wh, 65W USB-C GaN compact charger",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "claimed_runtime_h",
+      "value": 17.11,
+      "kind": "daily_use",
+      "note": "MobileMark 25 @250 nits; config 1 = WUXGA non-touch, Core Ultra 5 225U (Arrow Lake)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Configuration 1 MobileMark® 25: up to 17.11 hr with 549 performance score @250nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "claimed_runtime_h",
+      "value": 30.6,
+      "kind": "video",
+      "note": "local 1080p video @150 nits; config 1 = WUXGA non-touch, Core Ultra 5 225U",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "JEITA-BAT 3.0 (Video/Idle): up to 15.5 hr / 35.6 hr @200nits Local video playback: up to 30.6 hr @150nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WUXGA low-power non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[1] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[2] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[2] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA low-power on-cell touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[2] 500nits Anti-glare 16:10 1000:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[3] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[3] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) Non- touch IPS[3] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED 400-nit non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [4] 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "brightness_nits",
+      "value": 400,
+      "kind": "typical",
+      "note": "2.8K OLED 400-nit non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [4] 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED 400-nit non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [4] 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "panel",
+      "value": "OLED",
+      "note": "2.8K OLED 400-nit non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [4] 2.8K (2880x1800) Non- touch OLED 400nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED 500-nit VRR non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "2.8K OLED 500-nit VRR non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED 500-nit VRR non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED VRR touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [5] 2.8K (2880x1800) Add- on Film touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "2.8K OLED VRR touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [5] 2.8K (2880x1800) Add- on Film touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED VRR touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" [5] 2.8K (2880x1800) Add- on Film touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "width_mm",
+      "value": 312.8,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with OLED display 312.80 x 214.75 x 8.08/14.37 (front/rear), 16.95 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "depth_mm",
+      "value": 214.75,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with OLED display 312.80 x 214.75 x 8.08/14.37 (front/rear), 16.95 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "height_mm",
+      "value": 16.95,
+      "note": "Lenovo H (thickness) maximum, OLED models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with OLED display 312.80 x 214.75 x 8.08/14.37 (front/rear), 16.95 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "height_mm",
+      "value": 17.95,
+      "note": "Lenovo H (thickness) maximum, WUXGA models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with WUXGA display 312.80 x 214.75 x 8.38/14.77 (front/rear), 17.95 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "weight_g",
+      "value": 1006,
+      "note": "Arrow Lake models, starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Arrow Lake Starting at 1006 g (2.22 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "weight_g",
+      "value": 986,
+      "note": "Lunar Lake models, starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Lunar Lake Starting at 986 g (2.17 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "soc",
+      "value": "Intel V Series Core Ultra 5 / 7 (Series 2), Lunar Lake",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Intel® V Series Core Ultra 5 / 7 Processor (Series 2) - Lunar Lake (LNL)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "soc",
+      "value": "Intel U or H Series Core Ultra 5 / 7 (Series 2), Arrow Lake",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_13_Aura_Edition/ThinkPad_X1_Carbon_Gen_13_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Intel® U or H Series Core Ultra 5 / 7 Processor (Series 2) - Arrow Lake (ARL)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "release_date",
+      "value": "2024-09-05",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-unveils-groundbreaking-ai-pc-innovations-at-lenovo-innovation-world-2024-to-power-business-users-in-the-ai-era/",
+      "archiveUrl": null,
+      "quote": "Berlin, Germany – 5 September 2024 – Lenovo ™ , a global leader in technology innovation, proudly announces a series of groundbreaking products at Lenovo Innovation World 2024",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "launch_price_usd",
+      "value": 1999,
+      "note": "HotHardware IFA 2024 coverage; Lenovo press release gives only €2,699 (excl. tax) for Europe",
+      "url": "https://hothardware.com/news/lenovo-ifa-innovation-world-thinkpad-ideapad-yoga",
+      "archiveUrl": null,
+      "quote": "The ThinkPad X1 Carbon Gen 13 Aura edition starts at $1,999 and will be available starting in November.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "model_number",
+      "value": "21V7",
+      "url": "https://support.lenovo.com/us/en/selfrepair/sr500252",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 14 (21V7, 21V8) Self-Repair Guide",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "model_number",
+      "value": "21V8",
+      "url": "https://support.lenovo.com/us/en/selfrepair/sr500252",
+      "archiveUrl": null,
+      "quote": "ThinkPad X1 Carbon Gen 14 (21V7, 21V8) Self-Repair Guide",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "capacity_wh",
+      "value": 58,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "58Wh Rechargeable Li-ion Battery, supports Rapid Charge (charge up to 80% in 1hr) with 65W AC adapter[1]",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "claimed_runtime_h",
+      "value": 19.2,
+      "kind": "daily_use",
+      "note": "MobileMark 30 @250 nits per table (footnote names MobileMark 25); config 1 = WUXGA ePrivacy touch, Core Ultra 5 325",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Configuration 1 MobileMark® 30: up to 19.2 hr with 1073 performance score @250nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "claimed_runtime_h",
+      "value": 32.6,
+      "kind": "video",
+      "note": "local 1080p video @150 nits; config 1 = WUXGA ePrivacy touch, Core Ultra 5 325",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "JEITA-BAT 3.0 (Video/Idle): up to 18.9 hr / 38.0 hr @200nits Local video playback: up to 32.6 hr @150nits",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "display_in",
+      "value": 14,
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) In-cell touch IPS[2] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA on-cell touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[1] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA on-cell touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[1] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA on-cell touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[1] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "panel",
+      "value": "IPS",
+      "note": "WUXGA on-cell touch Privacy Guard panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) On- cell touch IPS[1] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° ThinkPad® Privacy Guard",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "resolution_px",
+      "value": "1920x1200",
+      "note": "WUXGA in-cell touch low-power panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) In-cell touch IPS[2] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "WUXGA in-cell touch low-power panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) In-cell touch IPS[2] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "refresh_hz",
+      "value": 60,
+      "note": "WUXGA in-cell touch low-power panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" WUXGA (1920x1200) In-cell touch IPS[2] 500nits Anti-glare 16:10 1500:1 100% sRGB 60Hz 85° / 85° / 85° / 85° Low power",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED anti-glare non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "2.8K OLED anti-glare non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED anti-glare non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "panel",
+      "value": "OLED",
+      "note": "2.8K OLED anti-glare non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED anti-reflection non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "2.8K OLED anti-reflection non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED anti-reflection non-touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Non- touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "resolution_px",
+      "value": "2880x1800",
+      "note": "2.8K OLED touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Add- on Film touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "note": "2.8K OLED touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Add- on Film touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "refresh_hz",
+      "value": 120,
+      "note": "2.8K OLED touch panel",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "14\" 2.8K (2880x1800) Add- on Film touch OLED 500nits Anti-glare, anti- reflection, anti- smudge 16:10 100,000:1 100% DCI- P3 120Hz VRR",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "width_mm",
+      "value": 312.5,
+      "note": "Lenovo W",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with non-touch display 312.50 x 215.75 x 7.7/14.3 (front/rear), 16.85 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "depth_mm",
+      "value": 215.75,
+      "note": "Lenovo D",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with non-touch display 312.50 x 215.75 x 7.7/14.3 (front/rear), 16.85 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "height_mm",
+      "value": 16.85,
+      "note": "Lenovo H (thickness) maximum, non-touch models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with non-touch display 312.50 x 215.75 x 7.7/14.3 (front/rear), 16.85 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "height_mm",
+      "value": 17.6,
+      "note": "Lenovo H (thickness) maximum, touch models",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with multi-touch display 312.50 x 215.75 x 9.2/15.3 (front/rear), 17.6 (maximum) mm",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "weight_g",
+      "value": 998,
+      "note": "haptic touchpad models, starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with Haptic Touchpad Starting at 0.998 kg (2.20 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "weight_g",
+      "value": 977,
+      "note": "trackpad models, starting weight",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Models with Trackpad Starting at 0.977 kg (2.15 lbs)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "soc",
+      "value": "Intel Core Ultra 5 / 7 / X7 (Series 3)",
+      "url": "https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_X1_Carbon_Gen_14_Aura_Edition/ThinkPad_X1_Carbon_Gen_14_Aura_Edition_Spec.pdf",
+      "archiveUrl": null,
+      "quote": "Intel® Core™ Ultra 5 / 7 / X7 Processor (Series 3)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "release_date",
+      "value": "2026-01-06",
+      "kind": "announced",
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-meets-purposeful-business-innovation/",
+      "archiveUrl": null,
+      "quote": "Las Vegas, US – January 6, 2026 – At CES® 2026, Lenovo™ is introducing its latest business devices",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "launch_price_usd",
+      "value": 1999,
+      "url": "https://news.lenovo.com/pressroom/press-releases/lenovo-at-ces-2026-smarter-ai-meets-purposeful-business-innovation/",
+      "archiveUrl": null,
+      "quote": "Lenovo ThinkPad X1 Carbon Gen 14 Aura Edition will be available starting Q1 2026, with an estimated starting price of $1,999.",
+      "retrieved": "2026-10-03"
+    }
+  ],
+  "rejections": [
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "release_date",
+      "note": "no Lenovo CES 2018 press release found on news.lenovo.com (press kit 404s, Lenovo forum post renders client-side); secondary coverage says January 2018 but not fetched"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "process_nm",
+      "note": "PSREF names CPU family only; no process node on any Lenovo page fetched"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "charging_w",
+      "note": "PSREF states only the AC adapter (\"Rapid Charge ... with 65W AC adapter\"), not a charge rate; skipped per rules"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "capacity_mah",
+      "note": "PSREF gives Wh only; no mAh/voltage receipt fetched (iFixit guides for this line carry no battery label text)"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "voltage_v",
+      "note": "same as capacity_mah"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "refresh_hz",
+      "note": "PSREF display table has no refresh-rate column for this generation (60 Hz implied, not stated)"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-12",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-13",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "release_date",
+      "note": "kind released: Lenovo press releases give only month (\"available from March 2022\"), no ship day"
+    },
+    {
+      "device": "x1-carbon-gen-1",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-2",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-4",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-5",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-6",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-7",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-8",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-9",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-10",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-11",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    },
+    {
+      "device": "x1-carbon-gen-14",
+      "field": "capacity_wh",
+      "note": "second (non-PSREF) source not found: Notebookcheck review identified (URL in data/raw/agents/x1-carbon/nbc.txt) but web.archive.org refused connections (ECONNREFUSED) for the whole session; notebookcheck.net live is 403; iFixit teardowns/battery guides for this line state no Wh; laptopmedia 403"
+    }
+  ]
+}

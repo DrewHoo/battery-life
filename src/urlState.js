@@ -10,14 +10,15 @@ export function readParam(key) {
   }
 }
 
-// replaceState, not pushState: changing a filter should not grow the back
-// stack. The analytics embed counts each call as a pageview, so the shared
-// URL and the report agree on what people looked at.
-export function writeParam(key, value) {
+// One replaceState per change, not pushState: changing a filter should not
+// grow the back stack. The analytics embed counts each call as a pageview.
+export function writeParams(params) {
   try {
     const url = new URL(window.location.href)
-    if (value == null || value === '') url.searchParams.delete(key)
-    else url.searchParams.set(key, value)
+    for (const [k, v] of Object.entries(params)) {
+      if (v == null || v === '') url.searchParams.delete(k)
+      else url.searchParams.set(k, v)
+    }
     window.history.replaceState(null, '', url)
   } catch {}
 }

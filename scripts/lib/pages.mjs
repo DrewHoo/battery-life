@@ -16,30 +16,36 @@ const UA =
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
-// Wayback rate-limits per IP, and several research agents share this IP. A
-// timestamp file paces every process on this machine to one Wayback request
-// per WAYBACK_GAP ms. Racy, but close enough to stay under the limit.
-const WAYBACK_GAP = 2500
-const PACE = join(root, 'data/raw/.wayback-last')
+// Wayback and GSMArena rate-limit per IP, and several research agents share
+// this IP. A timestamp file per host paces every process on this machine to
+// one request per gap. Racy, but close enough to stay under the limits.
+// Wayback refuses connections outright (not a 429) for a while once an IP
+// passes roughly 15 requests a minute.
+const GAPS = { 'web.archive.org': 4500, 'www.gsmarena.com': 3000 }
 async function pace(url) {
-  if (!url.includes('web.archive.org')) return
-  mkdirSync(dirname(PACE), { recursive: true })
+  const host = new URL(url).host
+  const gap = GAPS[host]
+  if (!gap) return
+  const file = join(root, `data/raw/.pace-${host}`)
+  mkdirSync(dirname(file), { recursive: true })
   for (;;) {
-    const last = existsSync(PACE) ? +readFileSync(PACE, 'utf8') || 0 : 0
-    const wait = last + WAYBACK_GAP - Date.now()
+    const last = existsSync(file) ? +readFileSync(file, 'utf8') || 0 : 0
+    const wait = last + gap - Date.now()
     if (wait <= 0) break
     await sleep(wait + Math.random() * 500)
   }
-  writeFileSync(PACE, String(Date.now()))
+  writeFileSync(file, String(Date.now()))
 }
 
 // Wayback rate-limits hard (429) and flakes (5xx); back off and retry.
-async function get(url, tries = 6) {
+async function get(url, tries = url.includes('web.archive.org') ? 10 : 6) {
   for (let i = 0; ; i++) {
     await pace(url)
     const res = await fetch(url, { headers: { 'user-agent': UA, accept: '*/*' }, redirect: 'follow' }).catch((e) => ({ status: 0, error: e }))
+    // Wayback sometimes refuses HTTPS from this IP while plain HTTP still answers.
+    if (res.status === 0 && url.startsWith('https://web.archive.org/')) url = url.replace('https://', 'http://')
     if ((res.status === 429 || res.status >= 500 || res.status === 0) && i < tries - 1) {
-      await sleep(Math.min(60_000, 3000 * 2 ** i))
+      await sleep(Math.min(120_000, 3000 * 2 ** i))
       continue
     }
     return res

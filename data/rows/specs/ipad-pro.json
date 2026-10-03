@@ -1,0 +1,4572 @@
+{
+ "line": "ipad-pro",
+ "devices": [
+  {
+   "id": "ipad-pro-12-9-gen1",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro (12.9-inch)",
+   "variant": "12.9-inch",
+   "generation": "1st generation (2015)",
+   "modelNumbers": [
+    "A1584",
+    "A1652"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-9-7",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro (9.7-inch)",
+   "variant": "9.7-inch",
+   "generation": "2016",
+   "modelNumbers": [
+    "A1673",
+    "A1674",
+    "A1675"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-10-5",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro (10.5-inch)",
+   "variant": "10.5-inch",
+   "generation": "2017",
+   "modelNumbers": [
+    "A1701",
+    "A1709",
+    "A1852"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-12-9-gen2",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 12.9-inch (2nd generation)",
+   "variant": "12.9-inch",
+   "generation": "2nd generation (2017)",
+   "modelNumbers": [
+    "A1670",
+    "A1671",
+    "A1821"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-11-gen1",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 11-inch (1st generation)",
+   "variant": "11-inch",
+   "generation": "1st generation (2018)",
+   "modelNumbers": [
+    "A1980",
+    "A2013",
+    "A1934",
+    "A1979"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-12-9-gen3",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 12.9-inch (3rd generation)",
+   "variant": "12.9-inch",
+   "generation": "3rd generation (2018)",
+   "modelNumbers": [
+    "A1876",
+    "A2014",
+    "A1895",
+    "A1983"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-11-gen2",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 11-inch (2nd generation)",
+   "variant": "11-inch",
+   "generation": "2nd generation (2020)",
+   "modelNumbers": [
+    "A2228",
+    "A2068",
+    "A2230",
+    "A2231"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-12-9-gen4",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 12.9-inch (4th generation)",
+   "variant": "12.9-inch",
+   "generation": "4th generation (2020)",
+   "modelNumbers": [
+    "A2229",
+    "A2069",
+    "A2232",
+    "A2233"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-11-gen3",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 11-inch (3rd generation)",
+   "variant": "11-inch",
+   "generation": "3rd generation (2021, M1)",
+   "modelNumbers": [
+    "A2377",
+    "A2459",
+    "A2301",
+    "A2460"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-12-9-gen5",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 12.9-inch (5th generation)",
+   "variant": "12.9-inch",
+   "generation": "5th generation (2021, M1)",
+   "modelNumbers": [
+    "A2378",
+    "A2461",
+    "A2379",
+    "A2462"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-11-gen4",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 11-inch (4th generation)",
+   "variant": "11-inch",
+   "generation": "4th generation (2022, M2)",
+   "modelNumbers": [
+    "A2759",
+    "A2761",
+    "A2435",
+    "A2762"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-12-9-gen6",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 12.9-inch (6th generation)",
+   "variant": "12.9-inch",
+   "generation": "6th generation (2022, M2)",
+   "modelNumbers": [
+    "A2436",
+    "A2437",
+    "A2764",
+    "A2766"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-11-m4",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 11-inch (M4)",
+   "variant": "11-inch",
+   "generation": "M4 (2024)",
+   "modelNumbers": [
+    "A2836",
+    "A2837",
+    "A3006"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-13-m4",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 13-inch (M4)",
+   "variant": "13-inch",
+   "generation": "M4 (2024)",
+   "modelNumbers": [
+    "A2925",
+    "A2926",
+    "A3007"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-11-m5",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 11-inch (M5)",
+   "variant": "11-inch",
+   "generation": "M5 (2025)",
+   "modelNumbers": [
+    "A3357",
+    "A3358",
+    "A3359"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  },
+  {
+   "id": "ipad-pro-13-m5",
+   "line": "ipad-pro",
+   "category": "tablet",
+   "name": "iPad Pro 13-inch (M5)",
+   "variant": "13-inch",
+   "generation": "M5 (2025)",
+   "modelNumbers": [
+    "A3360",
+    "A3361",
+    "A3362"
+   ],
+   "googleName": null,
+   "note": "Wi-Fi and Wi-Fi + Cellular share one battery; weight rows are per variant."
+  }
+ ],
+ "rows": [
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "model_number",
+   "value": "A1584",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (12.9-inch) Year: 2015 Capacity: 32 GB, 128 GB, 256 GB Model number (on the back cover): A1584 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "model_number",
+   "value": "A1652",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (12.9-inch) Year: 2015 Capacity: 32 GB, 128 GB, 256 GB Model number (on the back cover): A1584 on the iPad Pro A1652 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "capacity_wh",
+   "value": 38.5,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Built‐in 38.5‐watt‐hour rechargeable lithium‐polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "height_mm",
+   "value": 305.7,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.57 pounds (713 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "width_mm",
+   "value": 220.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.57 pounds (713 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "depth_mm",
+   "value": 6.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.57 pounds (713 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "weight_g",
+   "value": 713,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.57 pounds (713 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "weight_g",
+   "value": 723,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.59 pounds (723 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "resolution_px",
+   "value": "2732x2048",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "2732-by-2048 resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "display_in",
+   "value": 12.9,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "panel",
+   "value": "LED-backlit LCD",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "soc",
+   "value": "A9X",
+   "url": "https://support.apple.com/en-us/112024",
+   "archiveUrl": null,
+   "quote": "A9X chip with 64‑bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "capacity_mah",
+   "value": 10307,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2015)-7562.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 10,307 mAh, non-removable (38.8 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "capacity_wh",
+   "value": 38.8,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2015)-7562.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 10,307 mAh, non-removable (38.8 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "process_nm",
+   "value": 16,
+   "unit": "nm",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2015)-7562.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9X (16 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "model_number",
+   "value": "A1673",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (9.7-inch) Year: 2016 Capacity: 32 GB, 128 GB, 256 GB Model number (on the back cover): A1673 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "model_number",
+   "value": "A1674",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (9.7-inch) Year: 2016 Capacity: 32 GB, 128 GB, 256 GB Model number (on the back cover): A1673 on the iPad Pro A1674 or A1675 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "model_number",
+   "value": "A1675",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (9.7-inch) Year: 2016 Capacity: 32 GB, 128 GB, 256 GB Model number (on the back cover): A1673 on the iPad Pro A1674 or A1675 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "capacity_wh",
+   "value": 27.5,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Built‐in 27.5‐watt‐hour rechargeable lithium‐polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "height_mm",
+   "value": 240,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.96 pound (437 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "width_mm",
+   "value": 169.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.96 pound (437 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "depth_mm",
+   "value": 6.1,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.96 pound (437 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "weight_g",
+   "value": 437,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.96 pound (437 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "weight_g",
+   "value": 444,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "resolution_px",
+   "value": "2048x1536",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "2048-by-1536 resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "display_in",
+   "value": 9.7,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "panel",
+   "value": "LED-backlit LCD",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "soc",
+   "value": "A9X",
+   "url": "https://support.apple.com/en-us/111965",
+   "archiveUrl": null,
+   "quote": "A9X chip with 64‑bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "capacity_mah",
+   "value": 7306,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_9_7_(2016)-7984.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 7306 mAh, non-removable (27.9 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "capacity_wh",
+   "value": 27.9,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_9_7_(2016)-7984.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 7306 mAh, non-removable (27.9 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "process_nm",
+   "value": 16,
+   "unit": "nm",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_9_7_(2016)-7984.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9X (16 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "model_number",
+   "value": "A1701",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (10.5-inch) Year: 2017 Capacity: 64 GB, 256 GB, 512 GB Model number (on the back cover): A1701 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "model_number",
+   "value": "A1709",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (10.5-inch) Year: 2017 Capacity: 64 GB, 256 GB, 512 GB Model number (on the back cover): A1701 on the iPad Pro A1709 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "model_number",
+   "value": "A1852",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro (10.5-inch) Year: 2017 Capacity: 64 GB, 256 GB, 512 GB Model number (on the back cover): A1701 on the iPad Pro A1709 on the iPad Pro Wi-Fi + Cellular A1852 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "capacity_wh",
+   "value": 30.4,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Built‐in 30.4‐watt‐hour rechargeable lithium‑polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "height_mm",
+   "value": 250.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.24 inch (6.1 mm) Weight: 1.03 pounds (469 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "width_mm",
+   "value": 174.1,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.24 inch (6.1 mm) Weight: 1.03 pounds (469 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "depth_mm",
+   "value": 6.1,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.24 inch (6.1 mm) Weight: 1.03 pounds (469 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "weight_g",
+   "value": 469,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.24 inch (6.1 mm) Weight: 1.03 pounds (469 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "weight_g",
+   "value": 477,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.24 inch (6.1 mm) Weight: 1.05 pounds (477 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "resolution_px",
+   "value": "2224x1668",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "2224-by-1668 resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "display_in",
+   "value": 10.5,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "10.5-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "panel",
+   "value": "LED-backlit LCD",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "10.5-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "soc",
+   "value": "A10X Fusion",
+   "url": "https://support.apple.com/en-us/111927",
+   "archiveUrl": null,
+   "quote": "A10X Fusion chip with 64‑bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "capacity_mah",
+   "value": 8134,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_10_5_(2017)-8716.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 8134 mAh, non-removable (30.8 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "capacity_wh",
+   "value": 30.8,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_10_5_(2017)-8716.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 8134 mAh, non-removable (30.8 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "process_nm",
+   "value": 10,
+   "unit": "nm",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_10_5_(2017)-8716.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A10X Fusion (10 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_10_5_(2017)-8716.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "model_number",
+   "value": "A1670",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (2nd generation) Year: 2017 Capacity: 64 GB, 256 GB, 512 GB Model number (on the back cover): A1670 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "model_number",
+   "value": "A1671",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (2nd generation) Year: 2017 Capacity: 64 GB, 256 GB, 512 GB Model number (on the back cover): A1670 on the iPad Pro A1671 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "model_number",
+   "value": "A1821",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (2nd generation) Year: 2017 Capacity: 64 GB, 256 GB, 512 GB Model number (on the back cover): A1670 on the iPad Pro A1671 on the iPad Pro Wi-Fi + Cellular A1821 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "capacity_wh",
+   "value": 41,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Built‐in 41‐watt‐hour rechargeable lithium‑polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi‐Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "height_mm",
+   "value": 305.7,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.49 pounds (677 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "width_mm",
+   "value": 220.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.49 pounds (677 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "depth_mm",
+   "value": 6.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.49 pounds (677 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "weight_g",
+   "value": 677,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Wi‑Fi models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.49 pounds (677 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "weight_g",
+   "value": 692,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Height: 12 inches (305.7 mm) Width: 8.68 inches (220.6 mm) Depth: 0.27 inch (6.9 mm) Weight: 1.53 pounds (692 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "resolution_px",
+   "value": "2732x2048",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "2732-by-2048 resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "display_in",
+   "value": 12.9,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "panel",
+   "value": "LED-backlit LCD",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "soc",
+   "value": "A10X Fusion",
+   "url": "https://support.apple.com/en-us/111964",
+   "archiveUrl": null,
+   "quote": "A10X Fusion chip with 64‑bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "capacity_mah",
+   "value": 10891,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2017)-8717.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 10,891 mAh, non-removable (41 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "capacity_wh",
+   "value": 41,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2017)-8717.php",
+   "archiveUrl": null,
+   "quote": "Li-Ion 10,891 mAh, non-removable (41 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "process_nm",
+   "value": 10,
+   "unit": "nm",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2017)-8717.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A10X Fusion (10 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2017)-8717.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "model_number",
+   "value": "A1980",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1980 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "model_number",
+   "value": "A2013",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1980 on the iPad Pro A2013, A1934 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "model_number",
+   "value": "A1934",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1980 on the iPad Pro A2013, A1934 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "model_number",
+   "value": "A1979",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1980 on the iPad Pro A2013, A1934 on the iPad Pro Wi-Fi + Cellular A1979 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "capacity_wh",
+   "value": 29.37,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Built-in 29.37-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "height_mm",
+   "value": 247.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (468 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "width_mm",
+   "value": 178.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (468 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "depth_mm",
+   "value": 5.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (468 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "weight_g",
+   "value": 468,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (468 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "weight_g",
+   "value": 468,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (468 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "resolution_px",
+   "value": "2388x1668",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "2388-by-1668-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "display_in",
+   "value": 11,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": null,
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "600 nits brightness",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "soc",
+   "value": "A12X Bionic",
+   "url": "https://support.apple.com/en-us/111974",
+   "archiveUrl": null,
+   "quote": "A12X Bionic chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "capacity_mah",
+   "value": 7812,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2018)-9386.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7812 mAh, non-removable (29.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "capacity_wh",
+   "value": 29.45,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2018)-9386.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7812 mAh, non-removable (29.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "process_nm",
+   "value": 7,
+   "unit": "nm",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2018)-9386.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A12X Bionic (7 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2018)-9386.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "model_number",
+   "value": "A1876",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (3rd generation) Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1876 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "model_number",
+   "value": "A2014",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (3rd generation) Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1876 on the iPad Pro A2014, A1895 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "model_number",
+   "value": "A1895",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (3rd generation) Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1876 on the iPad Pro A2014, A1895 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "model_number",
+   "value": "A1983",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (3rd generation) Year: 2018 Capacity: 64 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A1876 on the iPad Pro A2014, A1895 on the iPad Pro Wi-Fi + Cellular A1983 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "capacity_wh",
+   "value": 36.71,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Built-in 36.71-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video, or listening to music",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "height_mm",
+   "value": 280.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.39 pounds (631 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "width_mm",
+   "value": 214.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.39 pounds (631 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "depth_mm",
+   "value": 5.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.39 pounds (631 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "weight_g",
+   "value": 631,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.39 pounds (631 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "weight_g",
+   "value": 633,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.4 pounds (633 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "resolution_px",
+   "value": "2732x2048",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "2732-by-2048-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "display_in",
+   "value": 12.9,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": null,
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "600 nits brightness",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "soc",
+   "value": "A12X Bionic",
+   "url": "https://support.apple.com/en-us/111979",
+   "archiveUrl": null,
+   "quote": "A12X Bionic chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "capacity_mah",
+   "value": 9720,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2018)-9387.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 9720 mAh, non-removable (36.71 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "capacity_wh",
+   "value": 36.71,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2018)-9387.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 9720 mAh, non-removable (36.71 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "process_nm",
+   "value": 7,
+   "unit": "nm",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2018)-9387.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A12X Bionic (7 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2018)-9387.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "model_number",
+   "value": "A2228",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (2nd generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2228 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "model_number",
+   "value": "A2068",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (2nd generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2228 on the iPad Pro A2068, A2230 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "model_number",
+   "value": "A2230",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (2nd generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2228 on the iPad Pro A2068, A2230 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "model_number",
+   "value": "A2231",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (2nd generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2228 on the iPad Pro A2068, A2230 on the iPad Pro Wi-Fi + Cellular A2231 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "capacity_wh",
+   "value": 28.65,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Built-in 28.65-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "height_mm",
+   "value": 247.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (471 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "width_mm",
+   "value": 178.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (471 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "depth_mm",
+   "value": 5.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (471 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "weight_g",
+   "value": 471,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (471 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "weight_g",
+   "value": 473,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (473 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "resolution_px",
+   "value": "2388x1668",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "2388-by-1668-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "display_in",
+   "value": 11,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": null,
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "600 nits brightness",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "soc",
+   "value": "A12Z Bionic",
+   "url": "https://support.apple.com/en-us/118452",
+   "archiveUrl": null,
+   "quote": "A12Z Bionic chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "capacity_mah",
+   "value": 7538,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2020)-10137.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7538 mAh (28.65 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "capacity_wh",
+   "value": 28.65,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2020)-10137.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7538 mAh (28.65 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "release_date",
+   "value": "2020-03-19",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2020)-10137.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2020, March 19",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2020)-10137.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "GSMArena label \"typ\"",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2020)-10137.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "model_number",
+   "value": "A2229",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (4th generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2229 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "model_number",
+   "value": "A2069",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (4th generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2229 on the iPad Pro A2069, A2232 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "model_number",
+   "value": "A2232",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (4th generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2229 on the iPad Pro A2069, A2232 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "model_number",
+   "value": "A2233",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (4th generation) Year: 2020 Capacity: 128 GB, 256 GB, 512 GB, 1 TB Model number (on the back cover): A2229 on the iPad Pro A2069, A2232 on the iPad Pro Wi-Fi + Cellular A2233 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "capacity_wh",
+   "value": 36.71,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Built-in 36.71-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "height_mm",
+   "value": 280.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.41 pounds (641 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "width_mm",
+   "value": 214.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.41 pounds (641 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "depth_mm",
+   "value": 5.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.41 pounds (641 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "weight_g",
+   "value": 641,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.41 pounds (641 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "weight_g",
+   "value": 643,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.42 pounds (643 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "resolution_px",
+   "value": "2732x2048",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "2732-by-2048-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "display_in",
+   "value": 12.9,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) LED-backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": null,
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "600 nits brightness",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "soc",
+   "value": "A12Z Bionic",
+   "url": "https://support.apple.com/en-us/111977",
+   "archiveUrl": null,
+   "quote": "A12Z Bionic chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "capacity_mah",
+   "value": 9720,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2020)-10136.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 9720 mAh (36.71 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "capacity_wh",
+   "value": 36.71,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2020)-10136.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 9720 mAh (36.71 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "release_date",
+   "value": "2020-03-19",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2020)-10136.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2020, March 19",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2020)-10136.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "GSMArena label \"typ\"",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2020)-10136.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 120Hz, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "model_number",
+   "value": "A2377",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (3rd generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2377 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "model_number",
+   "value": "A2459",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (3rd generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2377 on the iPad Pro A2459 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "model_number",
+   "value": "A2301",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (3rd generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2377 on the iPad Pro A2459 on the iPad Pro Wi-Fi + Cellular A2301 on the iPad Pro Wi-Fi + Cellular with mmWave",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "model_number",
+   "value": "A2460",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (3rd generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2377 on the iPad Pro A2459 on the iPad Pro Wi-Fi + Cellular A2301 on the iPad Pro Wi-Fi + Cellular with mmWave A2460 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "capacity_wh",
+   "value": 28.65,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Built-in 28.65-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "height_mm",
+   "value": 247.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "width_mm",
+   "value": 178.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "depth_mm",
+   "value": 5.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "weight_g",
+   "value": 466,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "weight_g",
+   "value": 470,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (470 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "resolution_px",
+   "value": "2388x1668",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "2388-by-1668-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "display_in",
+   "value": 11,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 600 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "soc",
+   "value": "M1",
+   "url": "https://support.apple.com/en-us/111897",
+   "archiveUrl": null,
+   "quote": "Apple M1 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "capacity_mah",
+   "value": 7538,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2021)-10865.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7538 mAh (28.65 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "capacity_wh",
+   "value": 28.65,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2021)-10865.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7538 mAh (28.65 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "release_date",
+   "value": "2021-05-21",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2021)-10865.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2021, May 21",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2021)-10865.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina IPS LCD, 120Hz, HDR10, Dolby Vision, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "GSMArena label \"typ\"",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2021)-10865.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina IPS LCD, 120Hz, HDR10, Dolby Vision, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "model_number",
+   "value": "A2378",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (5th generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2378 on the iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "model_number",
+   "value": "A2461",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (5th generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2378 on the iPad Pro A2461 on the iPad Pro Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "model_number",
+   "value": "A2379",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (5th generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2378 on the iPad Pro A2461 on the iPad Pro Wi-Fi + Cellular A2379 on the iPad Pro Wi-Fi + Cellular with mmWave",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "model_number",
+   "value": "A2462",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (5th generation) Year: 2021 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2378 on the iPad Pro A2461 on the iPad Pro Wi-Fi + Cellular A2379 on the iPad Pro Wi-Fi + Cellular with mmWave A2462 on the iPad Pro Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "capacity_wh",
+   "value": 40.88,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Built-in 40.88-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "height_mm",
+   "value": 280.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "width_mm",
+   "value": 214.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "depth_mm",
+   "value": 6.4,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "weight_g",
+   "value": 682,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "weight_g",
+   "value": 685,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.51 pounds (685 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "resolution_px",
+   "value": "2732x2048",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "2732-by-2048-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "display_in",
+   "value": 12.9,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) mini-LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "panel",
+   "value": "mini-LED IPS LCD",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) mini-LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 600 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "XDR brightness: 1000 nits max full screen, 1600 nits peak (HDR content only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "soc",
+   "value": "M1",
+   "url": "https://support.apple.com/en-us/111896",
+   "archiveUrl": null,
+   "quote": "Apple M1 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "capacity_mah",
+   "value": 10758,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 10758 mAh (40.88 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "capacity_wh",
+   "value": 40.88,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 10758 mAh (40.88 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "release_date",
+   "value": "2021-05-21",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2021, May 21",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina XDR mini-LED LCD, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "brightness_nits",
+   "value": 1000,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "GSMArena label \"typ\"",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina XDR mini-LED LCD, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "model_number",
+   "value": "A2759",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (4th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2759 on iPad Pro 11-inch (4th generation)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "model_number",
+   "value": "A2761",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (4th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2759 on iPad Pro 11-inch (4th generation) A2761 on iPad Pro 11-inch (4th generation) Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "model_number",
+   "value": "A2435",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (4th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2759 on iPad Pro 11-inch (4th generation) A2761 on iPad Pro 11-inch (4th generation) Wi-Fi + Cellular A2435 on iPad Pro 11-inch (4th generation) Wi-Fi + Cellular with mmWave",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "model_number",
+   "value": "A2762",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (4th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2759 on iPad Pro 11-inch (4th generation) A2761 on iPad Pro 11-inch (4th generation) Wi-Fi + Cellular A2435 on iPad Pro 11-inch (4th generation) Wi-Fi + Cellular with mmWave A2762 on iPad Pro 11-inch (4th generation) Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "capacity_wh",
+   "value": 28.65,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Built-in 28.65-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "height_mm",
+   "value": 247.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "width_mm",
+   "value": 178.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "depth_mm",
+   "value": 5.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "weight_g",
+   "value": 466,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.03 pounds (466 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "weight_g",
+   "value": 470,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 7.02 inches (178.5 mm) Height: 9.74 inches (247.6 mm) Depth: 0.23 inch (5.9 mm) Weight: 1.04 pounds (470 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "resolution_px",
+   "value": "2388x1668",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "2388-by-1668-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "display_in",
+   "value": 11,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "11-inch (diagonal) LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 600 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "soc",
+   "value": "M2",
+   "url": "https://support.apple.com/en-us/111842",
+   "archiveUrl": null,
+   "quote": "Apple M2 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "capacity_mah",
+   "value": 7538,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2022)-11940.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7538 mAh (28.65 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "capacity_wh",
+   "value": 28.65,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2022)-11940.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 7538 mAh (28.65 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "release_date",
+   "value": "2022-10-26",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2022)-11940.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2022, October 26",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2022)-11940.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina IPS LCD, 120Hz, HDR10, Dolby Vision, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "GSMArena label \"typ\"",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2022)-11940.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina IPS LCD, 120Hz, HDR10, Dolby Vision, 600 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "model_number",
+   "value": "A2436",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (6th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2436 on iPad Pro 12.9-inch (6th generation)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "model_number",
+   "value": "A2437",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (6th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2436 on iPad Pro 12.9-inch (6th generation) A2437 on iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "model_number",
+   "value": "A2764",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (6th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2436 on iPad Pro 12.9-inch (6th generation) A2437 on iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular A2764 on iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular with mmWave",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "model_number",
+   "value": "A2766",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 12.9-inch (6th generation) Year: 2022 Capacity: 128 GB, 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2436 on iPad Pro 12.9-inch (6th generation) A2437 on iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular A2764 on iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular with mmWave A2766 on iPad Pro 12.9-inch (6th generation) Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "capacity_wh",
+   "value": 40.88,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Built-in 40.88-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "height_mm",
+   "value": 280.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "width_mm",
+   "value": 214.9,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "depth_mm",
+   "value": 6.4,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "weight_g",
+   "value": 682,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.5 pounds (682 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "weight_g",
+   "value": 685,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 8.46 inches (214.9 mm) Height: 11.04 inches (280.6 mm) Depth: 0.25 inch (6.4 mm) Weight: 1.51 pounds (685 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "resolution_px",
+   "value": "2732x2048",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "2732-by-2048-pixel resolution at 264 pixels per inch (ppi)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "display_in",
+   "value": 12.9,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) mini-LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "panel",
+   "value": "mini-LED IPS LCD",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "12.9-inch (diagonal) mini-LED backlit Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "brightness_nits",
+   "value": 600,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 600 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "XDR brightness: 1000 nits max full screen, 1600 nits peak (HDR content only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "soc",
+   "value": "M2",
+   "url": "https://support.apple.com/en-us/111841",
+   "archiveUrl": null,
+   "quote": "Apple M2 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "capacity_mah",
+   "value": 10758,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2022)-11939.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 10758 mAh (40.88 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "capacity_wh",
+   "value": 40.88,
+   "unit": "Wh",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2022)-11939.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 10758 mAh (40.88 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "release_date",
+   "value": "2022-10-26",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2022)-11939.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2022, October 26",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2022)-11939.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina XDR mini-LED LCD, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "brightness_nits",
+   "value": 1000,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "GSMArena label \"typ\"",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_12_9_(2022)-11939.php",
+   "archiveUrl": null,
+   "quote": "Type Liquid Retina XDR mini-LED LCD, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "model_number",
+   "value": "A2836",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (M4) Year: 2024 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2836 on iPad Pro 11-inch (M4) Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "model_number",
+   "value": "A2837",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (M4) Year: 2024 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2836 on iPad Pro 11-inch (M4) Wi-Fi A2837 on iPad Pro 11-inch (M4) Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "model_number",
+   "value": "A3006",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (M4) Year: 2024 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2836 on iPad Pro 11-inch (M4) Wi-Fi A2837 on iPad Pro 11-inch (M4) Wi-Fi + Cellular A3006 on iPad Pro 11-inch (M4) Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "capacity_wh",
+   "value": 31.29,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Built-in 31.29-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "height_mm",
+   "value": 249.7,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 6.99 inches (177.5 mm) Height: 9.83 inches (249.7 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "width_mm",
+   "value": 177.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 6.99 inches (177.5 mm) Height: 9.83 inches (249.7 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "depth_mm",
+   "value": 5.3,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 6.99 inches (177.5 mm) Height: 9.83 inches (249.7 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "weight_g",
+   "value": 444,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 6.99 inches (177.5 mm) Height: 9.83 inches (249.7 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "weight_g",
+   "value": 446,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 6.99 inches (177.5 mm) Height: 9.83 inches (249.7 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (446 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "resolution_px",
+   "value": "2420x1668",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "2420-by-1668-pixel resolution at 264 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "display_in",
+   "value": 11.1,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "When measured diagonally as a rectangle, the 13‑inch iPad Pro is 13 inches, and the 11‑inch iPad Pro is 11.1 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "panel",
+   "value": "Tandem OLED",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Display Ultra Retina XDR display Tandem OLED 3",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "ProMotion technology with adaptive refresh rates from 10Hz to 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "brightness_nits",
+   "value": 1000,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 1000 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "XDR brightness: 1000 nits max full screen, 1600 nits peak (HDR content only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "soc",
+   "value": "M4",
+   "url": "https://support.apple.com/en-us/119892",
+   "archiveUrl": null,
+   "quote": "Apple M4 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "capacity_mah",
+   "value": 8160,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-12986.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 8160 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "release_date",
+   "value": "2024-05-15",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-12986.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2024, May 15",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_(2024)-12986.php",
+   "archiveUrl": null,
+   "quote": "Type Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "model_number",
+   "value": "A2925",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 13-inch (M4) Year: 2024 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2925 on iPad Pro 13-inch (M4) Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "model_number",
+   "value": "A2926",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 13-inch (M4) Year: 2024 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2925 on iPad Pro 13-inch (M4) Wi-Fi A2926 on iPad Pro 13-inch (M4) Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "model_number",
+   "value": "A3007",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 13-inch (M4) Year: 2024 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number (on the back cover): A2925 on iPad Pro 13-inch (M4) Wi-Fi A2926 on iPad Pro 13-inch (M4) Wi-Fi + Cellular A3007 on iPad Pro 13-inch (M4) Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "capacity_wh",
+   "value": 38.99,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Built-in 38.99-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "height_mm",
+   "value": 281.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.48 inches (215.5 mm) Height: 11.09 inches (281.6 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "width_mm",
+   "value": 215.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.48 inches (215.5 mm) Height: 11.09 inches (281.6 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "depth_mm",
+   "value": 5.1,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.48 inches (215.5 mm) Height: 11.09 inches (281.6 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "weight_g",
+   "value": 579,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models Width: 8.48 inches (215.5 mm) Height: 11.09 inches (281.6 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "weight_g",
+   "value": 582,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models Width: 8.48 inches (215.5 mm) Height: 11.09 inches (281.6 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (582 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "resolution_px",
+   "value": "2752x2064",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "2752-by-2064-pixel resolution at 264 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "display_in",
+   "value": 13,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "When measured diagonally as a rectangle, the 13‑inch iPad Pro is 13 inches, and the 11‑inch iPad Pro is 11.1 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "panel",
+   "value": "Tandem OLED",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Display Ultra Retina XDR display Tandem OLED 3",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "ProMotion technology with adaptive refresh rates from 10Hz to 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "brightness_nits",
+   "value": 1000,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 1000 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "XDR brightness: 1000 nits max full screen, 1600 nits peak (HDR content only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "soc",
+   "value": "M4",
+   "url": "https://support.apple.com/en-us/119891",
+   "archiveUrl": null,
+   "quote": "Apple M4 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "capacity_mah",
+   "value": 10290,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_13_(2024)-12987.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 10290 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "release_date",
+   "value": "2024-05-15",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_13_(2024)-12987.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2024, May 15",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_13_(2024)-12987.php",
+   "archiveUrl": null,
+   "quote": "Type Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "model_number",
+   "value": "A3357",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (M5) Year: 2025 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number: A3357 on iPad Pro 11-inch (M5) Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "model_number",
+   "value": "A3358",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (M5) Year: 2025 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number: A3357 on iPad Pro 11-inch (M5) Wi-Fi A3358 on iPad Pro 11-inch (M5) Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "model_number",
+   "value": "A3359",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 11-inch (M5) Year: 2025 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number: A3357 on iPad Pro 11-inch (M5) Wi-Fi A3358 on iPad Pro 11-inch (M5) Wi-Fi + Cellular A3359 on iPad Pro 11-inch (M5) Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "capacity_wh",
+   "value": 31.29,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Built-in 31.29-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "height_mm",
+   "value": 249.7,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 9.83 inches (249.7 mm) Width: 6.99 inches (177.5 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "width_mm",
+   "value": 177.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 9.83 inches (249.7 mm) Width: 6.99 inches (177.5 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "depth_mm",
+   "value": 5.3,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 9.83 inches (249.7 mm) Width: 6.99 inches (177.5 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "weight_g",
+   "value": 444,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 9.83 inches (249.7 mm) Width: 6.99 inches (177.5 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (444 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "weight_g",
+   "value": 446,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models : Height: 9.83 inches (249.7 mm) Width: 6.99 inches (177.5 mm) Depth: 0.21 inch (5.3 mm) Weight: 0.98 pound (446 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "resolution_px",
+   "value": "2420x1668",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "2420-by-1668-pixel resolution at 264 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "display_in",
+   "value": 11.1,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "When measured diagonally as a rectangle, the 13‑inch iPad Pro is 13 inches, and the 11‑inch iPad Pro is 11.1 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "panel",
+   "value": "Tandem OLED",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Display Ultra Retina XDR display Tandem OLED 3",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "ProMotion technology with adaptive refresh rates from 10Hz to 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "brightness_nits",
+   "value": 1000,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 1000 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "XDR brightness: 1000 nits max full screen, 1600 nits peak (HDR content only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "soc",
+   "value": "M5",
+   "url": "https://support.apple.com/en-us/125406",
+   "archiveUrl": null,
+   "quote": "Apple M5 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "capacity_mah",
+   "value": 8160,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_5g_(2025)-14234.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 8160 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "release_date",
+   "value": "2025-10-22",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_5g_(2025)-14234.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2025, October 22",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_11_5g_(2025)-14234.php",
+   "archiveUrl": null,
+   "quote": "Type Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "model_number",
+   "value": "A3360",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 13-inch (M5) Year: 2025 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number: A3360 on iPad Pro 13-inch (M5) Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "model_number",
+   "value": "A3361",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 13-inch (M5) Year: 2025 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number: A3360 on iPad Pro 13-inch (M5) Wi-Fi A3361 on iPad Pro 13-inch (M5) Wi-Fi + Cellular",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "model_number",
+   "value": "A3362",
+   "url": "https://support.apple.com/en-us/108043",
+   "archiveUrl": null,
+   "quote": "iPad Pro 13-inch (M5) Year: 2025 Capacity: 256 GB, 512 GB, 1 TB, 2 TB Model number: A3360 on iPad Pro 13-inch (M5) Wi-Fi A3361 on iPad Pro 13-inch (M5) Wi-Fi + Cellular A3362 on iPad Pro 13-inch (M5) Wi-Fi + Cellular (China mainland only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "capacity_wh",
+   "value": 38.99,
+   "unit": "Wh",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Built-in 38.99-watt-hour rechargeable lithium-polymer battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "unit": "h",
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Up to 10 hours of surfing the web on Wi-Fi or watching video",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "height_mm",
+   "value": 281.6,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 11.09 inches (281.6 mm) Width: 8.48 inches (215.5 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "width_mm",
+   "value": 215.5,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 11.09 inches (281.6 mm) Width: 8.48 inches (215.5 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "depth_mm",
+   "value": 5.1,
+   "unit": "mm",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 11.09 inches (281.6 mm) Width: 8.48 inches (215.5 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "weight_g",
+   "value": 579,
+   "unit": "g",
+   "note": "Wi-Fi",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Wi-Fi models : Height: 11.09 inches (281.6 mm) Width: 8.48 inches (215.5 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (579 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "weight_g",
+   "value": 582,
+   "unit": "g",
+   "note": "Wi-Fi + Cellular",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Wi-Fi + Cellular models : Height: 11.09 inches (281.6 mm) Width: 8.48 inches (215.5 mm) Depth: 0.20 inch (5.1 mm) Weight: 1.28 pounds (582 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "resolution_px",
+   "value": "2752x2064",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "2752-by-2064-pixel resolution at 264 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "display_in",
+   "value": 13,
+   "unit": "in",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "When measured diagonally as a rectangle, the 13‑inch iPad Pro is 13 inches, and the 11‑inch iPad Pro is 11.1 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "panel",
+   "value": "Tandem OLED",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Display Ultra Retina XDR display Tandem OLED 3",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "ProMotion technology with adaptive refresh rates from 10Hz to 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "brightness_nits",
+   "value": 1000,
+   "unit": "nits",
+   "kind": "typical",
+   "note": "SDR max",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "SDR brightness: 1000 nits max",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "XDR brightness: 1000 nits max full screen, 1600 nits peak (HDR content only)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "soc",
+   "value": "M5",
+   "url": "https://support.apple.com/en-us/125407",
+   "archiveUrl": null,
+   "quote": "Apple M5 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "capacity_mah",
+   "value": 10290,
+   "unit": "mAh",
+   "kind": "rated",
+   "note": "GSMArena does not say rated or typical; Apple publishes no typical figure",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_13_5g_(2025)-14233.php",
+   "archiveUrl": null,
+   "quote": "Li-Po 10290 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "release_date",
+   "value": "2025-10-22",
+   "kind": "released",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_13_5g_(2025)-14233.php",
+   "archiveUrl": null,
+   "quote": "Status Available. Released 2025, October 22",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.gsmarena.com/apple_ipad_pro_13_5g_(2025)-14233.php",
+   "archiveUrl": null,
+   "quote": "Type Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "capacity_wh",
+   "value": 38.8,
+   "unit": "Wh",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+12.9-Inch+Teardown/52599",
+   "archiveUrl": null,
+   "quote": "This prodigious, 38.8 Wh power source offers a 40 percent increase over the 27.62 Wh battery in the iPad Air 2 , but just barely edges out the 38.2 Wh battery we found in the Surface Pro 4 .",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "capacity_mah",
+   "value": 10307,
+   "unit": "mAh",
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+12.9-Inch+Teardown/52599",
+   "archiveUrl": null,
+   "quote": "The iPad Pro's 3.77 V battery weighs in at an impressive 10307 mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "voltage_v",
+   "value": 3.77,
+   "unit": "V",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+12.9-Inch+Teardown/52599",
+   "archiveUrl": null,
+   "quote": "The iPad Pro's 3.77 V battery weighs in at an impressive 10307 mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "capacity_wh",
+   "value": 27.91,
+   "unit": "Wh",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+9.7-Inch+Teardown/60939",
+   "archiveUrl": null,
+   "quote": "What the battery does contain is a rating of 3.82 V, 27.91 Wh, and 7,306 mAh, amounting to a 10-hour battery life claim.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "capacity_mah",
+   "value": 7306,
+   "unit": "mAh",
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+9.7-Inch+Teardown/60939",
+   "archiveUrl": null,
+   "quote": "What the battery does contain is a rating of 3.82 V, 27.91 Wh, and 7,306 mAh, amounting to a 10-hour battery life claim.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "voltage_v",
+   "value": 3.82,
+   "unit": "V",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+9.7-Inch+Teardown/60939",
+   "archiveUrl": null,
+   "quote": "What the battery does contain is a rating of 3.82 V, 27.91 Wh, and 7,306 mAh, amounting to a 10-hour battery life claim.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "capacity_wh",
+   "value": 30.8,
+   "unit": "Wh",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+10.5-Inch+Teardown/92534",
+   "archiveUrl": null,
+   "quote": "This Pro gets a 3.77 V, 8134 mAh, 30.8 Wh battery—a slight downsize from the 38.8 Wh battery found in the 12.9\" , but an upgrade from the 27.91 Wh battery in the 9.7\" .",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "capacity_mah",
+   "value": 8134,
+   "unit": "mAh",
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+10.5-Inch+Teardown/92534",
+   "archiveUrl": null,
+   "quote": "This Pro gets a 3.77 V, 8134 mAh, 30.8 Wh battery—a slight downsize from the 38.8 Wh battery found in the 12.9\" , but an upgrade from the 27.91 Wh battery in the 9.7\" .",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "voltage_v",
+   "value": 3.77,
+   "unit": "V",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+10.5-Inch+Teardown/92534",
+   "archiveUrl": null,
+   "quote": "This Pro gets a 3.77 V, 8134 mAh, 30.8 Wh battery—a slight downsize from the 38.8 Wh battery found in the 12.9\" , but an upgrade from the 27.91 Wh battery in the 9.7\" .",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "capacity_wh",
+   "value": 29.45,
+   "unit": "Wh",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+11-Inch+Teardown/115457",
+   "archiveUrl": null,
+   "quote": "This iPad's powered by a 7812 mAh battery running at 3.77 V, for 29.45 Wh—a slight downgrade from the 30.8 Wh pack in the 10.5\" iPad Pro , and a lot smaller than the most recent Microsoft Surface Pro's 45 Wh battery.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "capacity_mah",
+   "value": 7812,
+   "unit": "mAh",
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+11-Inch+Teardown/115457",
+   "archiveUrl": null,
+   "quote": "This iPad's powered by a 7812 mAh battery running at 3.77 V, for 29.45 Wh—a slight downgrade from the 30.8 Wh pack in the 10.5\" iPad Pro , and a lot smaller than the most recent Microsoft Surface Pro's 45 Wh battery.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "voltage_v",
+   "value": 3.77,
+   "unit": "V",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+11-Inch+Teardown/115457",
+   "archiveUrl": null,
+   "quote": "This iPad's powered by a 7812 mAh battery running at 3.77 V, for 29.45 Wh—a slight downgrade from the 30.8 Wh pack in the 10.5\" iPad Pro , and a lot smaller than the most recent Microsoft Surface Pro's 45 Wh battery.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.ifixit.com/Teardown/iPad+Pro+10.5-Inch+Teardown/92534",
+   "archiveUrl": null,
+   "quote": "All the same, 120 Hz is a blisteringly fast refresh rate for this many pixels, which is probably why it needs four (!) connecting cables. (Its ginormous older brother got by with just two.)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "release_date",
+   "value": "2015-09-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPad-Pro-Featuring-Epic-12-9-inch-Retina-Display/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE September 9, 2015 Apple Introduces iPad Pro Featuring Epic 12.9-inch Retina Display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "release_date",
+   "value": "2015-11-11",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2015/11/09Epic-12-9-inch-iPad-Pro-Available-to-Order-Online-Wednesday-Arrives-in-Stores-Later-This-Week/",
+   "archiveUrl": null,
+   "quote": "Apple® today announced iPad Pro™ is available to order online on Wednesday, November 11",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "launch_price_usd",
+   "value": 799,
+   "unit": "USD",
+   "note": "32GB Wi-Fi",
+   "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPad-Pro-Featuring-Epic-12-9-inch-Retina-Display/",
+   "archiveUrl": null,
+   "quote": "iPad Pro starts at $799 (US) for the 32GB with Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "release_date",
+   "value": "2016-03-21",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2016/03/21Apple-Introduces-9-7-inch-iPad-Pro/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE March 21, 2016 Apple Introduces 9.7-inch iPad Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "release_date",
+   "value": "2016-03-31",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2016/03/21Apple-Introduces-9-7-inch-iPad-Pro/",
+   "archiveUrl": null,
+   "quote": "in Apple’s retail stores, through select carriers and Apple Authorized Resellers on Thursday, March 31",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "launch_price_usd",
+   "value": 599,
+   "unit": "USD",
+   "note": "32GB Wi-Fi",
+   "url": "https://www.apple.com/newsroom/2016/03/21Apple-Introduces-9-7-inch-iPad-Pro/",
+   "archiveUrl": null,
+   "quote": "starts at $599 (US) for the 32GB with Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "release_date",
+   "value": "2017-06-05",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2017/06/ipad-pro-10-5-and-12-9-inch-models-introduces-worlds-most-advanced-display-breakthrough-performance/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE June 5, 2017 iPad Pro, in 10.5-inch and 12.9-inch models, introduces the world’s most advanced display and breakthrough performance",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.apple.com/newsroom/2017/06/ipad-pro-10-5-and-12-9-inch-models-introduces-worlds-most-advanced-display-breakthrough-performance/",
+   "archiveUrl": null,
+   "quote": "ProMotion, a new technology that delivers refresh rates of up to 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "release_date",
+   "value": "2017-06-05",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2017/06/ipad-pro-10-5-and-12-9-inch-models-introduces-worlds-most-advanced-display-breakthrough-performance/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE June 5, 2017 iPad Pro, in 10.5-inch and 12.9-inch models, introduces the world’s most advanced display and breakthrough performance",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.apple.com/newsroom/2017/06/ipad-pro-10-5-and-12-9-inch-models-introduces-worlds-most-advanced-display-breakthrough-performance/",
+   "archiveUrl": null,
+   "quote": "ProMotion, a new technology that delivers refresh rates of up to 120Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "launch_price_usd",
+   "value": 649,
+   "unit": "USD",
+   "note": "64GB Wi-Fi",
+   "url": "https://www.apple.com/newsroom/2017/06/ipad-pro-10-5-and-12-9-inch-models-introduces-worlds-most-advanced-display-breakthrough-performance/",
+   "archiveUrl": null,
+   "quote": "The 10.5-inch iPad Pro comes in silver, space gray, gold and rose gold and starts at $649 (US) for the 64GB with Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "launch_price_usd",
+   "value": 799,
+   "unit": "USD",
+   "note": "64GB Wi-Fi",
+   "url": "https://www.apple.com/newsroom/2017/06/ipad-pro-10-5-and-12-9-inch-models-introduces-worlds-most-advanced-display-breakthrough-performance/",
+   "archiveUrl": null,
+   "quote": "The 12.9-inch iPad Pro is available in silver, space gray and gold and starts at $799 (US) for the 64GB Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "release_date",
+   "value": "2018-10-30",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE October 30, 2018 New iPad Pro with all-screen design is most advanced, powerful iPad ever",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "release_date",
+   "value": "2018-11-07",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "The new iPad Pro models, Apple Pencil and Smart Keyboard Folio are available to order starting today from apple.com with availability starting Wednesday, November 7",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "process_nm",
+   "value": 7,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "Built on industry-leading seven-nanometer technology, the powerful eight-core A12X Bionic",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "release_date",
+   "value": "2018-10-30",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE October 30, 2018 New iPad Pro with all-screen design is most advanced, powerful iPad ever",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "release_date",
+   "value": "2018-11-07",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "The new iPad Pro models, Apple Pencil and Smart Keyboard Folio are available to order starting today from apple.com with availability starting Wednesday, November 7",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "process_nm",
+   "value": 7,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "Built on industry-leading seven-nanometer technology, the powerful eight-core A12X Bionic",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "launch_price_usd",
+   "value": 799,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (64GB)",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "The 11-inch iPad Pro starts at $799 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "launch_price_usd",
+   "value": 999,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (64GB)",
+   "url": "https://www.apple.com/newsroom/2018/10/new-ipad-pro-with-all-screen-design-is-most-advanced-powerful-ipad-ever/",
+   "archiveUrl": null,
+   "quote": "the 12.9-inch iPad Pro starts at $999 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "release_date",
+   "value": "2020-03-18",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE March 18, 2020 Apple unveils new iPad Pro with breakthrough LiDAR Scanner and brings trackpad support to iPadOS",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/",
+   "archiveUrl": null,
+   "quote": "ProMotion technology automatically adjusts the display refresh rate up to 120 Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "release_date",
+   "value": "2020-03-18",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE March 18, 2020 Apple unveils new iPad Pro with breakthrough LiDAR Scanner and brings trackpad support to iPadOS",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "refresh_hz",
+   "value": 120,
+   "unit": "Hz",
+   "url": "https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/",
+   "archiveUrl": null,
+   "quote": "ProMotion technology automatically adjusts the display refresh rate up to 120 Hz",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "launch_price_usd",
+   "value": 799,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (128GB)",
+   "url": "https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/",
+   "archiveUrl": null,
+   "quote": "The 11-inch iPad Pro starts at $799 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "launch_price_usd",
+   "value": 999,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (128GB)",
+   "url": "https://www.apple.com/newsroom/2020/03/apple-unveils-new-ipad-pro-with-lidar-scanner-and-trackpad-support-in-ipados/",
+   "archiveUrl": null,
+   "quote": "the 12.9-inch iPad Pro starts at $999 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "release_date",
+   "value": "2021-04-20",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE April 20, 2021 Apple introduces new iPad Pro featuring breakthrough M1 chip, ultra-fast 5G, and stunning 12.9-inch Liquid Retina XDR display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "process_nm",
+   "value": 5,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/",
+   "archiveUrl": null,
+   "quote": "M1 is the first personal computer chip built using cutting-edge 5-nanometer process technology and is packed with an astounding 16 billion transistors.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "release_date",
+   "value": "2021-04-20",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE April 20, 2021 Apple introduces new iPad Pro featuring breakthrough M1 chip, ultra-fast 5G, and stunning 12.9-inch Liquid Retina XDR display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "process_nm",
+   "value": 5,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2020/11/apple-unleashes-m1/",
+   "archiveUrl": null,
+   "quote": "M1 is the first personal computer chip built using cutting-edge 5-nanometer process technology and is packed with an astounding 16 billion transistors.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "launch_price_usd",
+   "value": 799,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (128GB)",
+   "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
+   "archiveUrl": null,
+   "quote": "The 11-inch iPad Pro starts at $799 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "launch_price_usd",
+   "value": 1099,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (128GB)",
+   "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
+   "archiveUrl": null,
+   "quote": "the 12.9-inch iPad Pro starts at $1,099 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "brightness_nits",
+   "value": 1600,
+   "unit": "nits",
+   "kind": "peak_hdr",
+   "url": "https://www.apple.com/newsroom/2021/04/apple-unveils-new-ipad-pro-with-m1-chip-and-stunning-liquid-retina-xdr-display/",
+   "archiveUrl": null,
+   "quote": "the Liquid Retina XDR display features up to 1000 nits of full-screen brightness, 1600 nits of peak brightness",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "release_date",
+   "value": "2022-10-18",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE October 18, 2022 Apple introduces next-generation iPad Pro, supercharged by the M2 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "release_date",
+   "value": "2022-10-26",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+   "archiveUrl": null,
+   "quote": "with availability in stores beginning Wednesday, October 26",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "process_nm",
+   "value": 5,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/",
+   "archiveUrl": null,
+   "quote": "M2 is built using enhanced, second-generation 5-nanometer technology and consists of 20 billion transistors — 25 percent more than M1.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "release_date",
+   "value": "2022-10-18",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE October 18, 2022 Apple introduces next-generation iPad Pro, supercharged by the M2 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "release_date",
+   "value": "2022-10-26",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+   "archiveUrl": null,
+   "quote": "with availability in stores beginning Wednesday, October 26",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "process_nm",
+   "value": 5,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2022/06/apple-unveils-m2-with-breakthrough-performance-and-capabilities/",
+   "archiveUrl": null,
+   "quote": "M2 is built using enhanced, second-generation 5-nanometer technology and consists of 20 billion transistors — 25 percent more than M1.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "launch_price_usd",
+   "value": 799,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (128GB)",
+   "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+   "archiveUrl": null,
+   "quote": "The 11-inch iPad Pro starts at $799 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "launch_price_usd",
+   "value": 1099,
+   "unit": "USD",
+   "note": "Wi-Fi, base storage (128GB)",
+   "url": "https://www.apple.com/newsroom/2022/10/apple-introduces-next-generation-ipad-pro-supercharged-by-the-m2-chip/",
+   "archiveUrl": null,
+   "quote": "the 12.9-inch iPad Pro starts at $1,099 (US) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "release_date",
+   "value": "2024-05-07",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE May 7, 2024 Apple unveils stunning new iPad Pro with the world’s most advanced display, M4 chip, and Apple Pencil Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "release_date",
+   "value": "2024-05-15",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "with availability in stores beginning Wednesday, May 15",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "process_nm",
+   "value": 3,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "M4 is built on second-generation 3-nanometer technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "process_nm",
+   "value": 3,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/",
+   "archiveUrl": null,
+   "quote": "Built using second-generation 3-nanometer technology, M4 is a system on a chip (SoC)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "release_date",
+   "value": "2024-05-07",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE May 7, 2024 Apple unveils stunning new iPad Pro with the world’s most advanced display, M4 chip, and Apple Pencil Pro",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "release_date",
+   "value": "2024-05-15",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "with availability in stores beginning Wednesday, May 15",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "process_nm",
+   "value": 3,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "M4 is built on second-generation 3-nanometer technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "process_nm",
+   "value": 3,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/",
+   "archiveUrl": null,
+   "quote": "Built using second-generation 3-nanometer technology, M4 is a system on a chip (SoC)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "launch_price_usd",
+   "value": 999,
+   "unit": "USD",
+   "note": "Wi-Fi, 256GB",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "The 11-inch iPad Pro starts at $999 (U.S.) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "launch_price_usd",
+   "value": 1299,
+   "unit": "USD",
+   "note": "Wi-Fi, 256GB",
+   "url": "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/",
+   "archiveUrl": null,
+   "quote": "The 13-inch iPad Pro starts at $1,299 (U.S.) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "release_date",
+   "value": "2025-10-15",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE October 15, 2025 Apple introduces the powerful new iPad Pro with the M5 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "release_date",
+   "value": "2025-10-22",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+   "archiveUrl": null,
+   "quote": "will be in Apple Store locations and Apple Authorized Resellers, starting Wednesday, October 22",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "process_nm",
+   "value": 3,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+   "archiveUrl": null,
+   "quote": "Built using third-generation 3-nanometer technology, M5",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "release_date",
+   "value": "2025-10-15",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+   "archiveUrl": null,
+   "quote": "PRESS RELEASE October 15, 2025 Apple introduces the powerful new iPad Pro with the M5 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "release_date",
+   "value": "2025-10-22",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+   "archiveUrl": null,
+   "quote": "will be in Apple Store locations and Apple Authorized Resellers, starting Wednesday, October 22",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "process_nm",
+   "value": 3,
+   "unit": "nm",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-unleashes-m5-the-next-big-leap-in-ai-performance-for-apple-silicon/",
+   "archiveUrl": null,
+   "quote": "Built using third-generation 3-nanometer technology, M5",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "launch_price_usd",
+   "value": 999,
+   "unit": "USD",
+   "note": "Wi-Fi, 256GB",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+   "archiveUrl": null,
+   "quote": "The 11-inch iPad Pro starts at $999 (U.S.) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "launch_price_usd",
+   "value": 1299,
+   "unit": "USD",
+   "note": "Wi-Fi, 256GB",
+   "url": "https://www.apple.com/newsroom/2025/10/apple-introduces-the-powerful-new-ipad-pro-with-the-m5-chip/",
+   "archiveUrl": null,
+   "quote": "The 13-inch iPad Pro starts at $1,299 (U.S.) for the Wi-Fi model",
+   "retrieved": "2026-10-03"
+  }
+ ],
+ "rejections": [
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "brightness_nits",
+   "note": "Apple tech specs page lists no nits figure; Wayback fetch of the launch-era apple.com/ipad-pro/specs failed (fetch failed x3)"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "brightness_nits",
+   "note": "Apple tech specs page lists no nits figure; Wayback fetch of the launch-era apple.com/ipad-pro/specs failed (fetch failed x3)"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "brightness_nits",
+   "note": "Apple tech specs page lists no nits figure; Wayback fetch of the launch-era apple.com/ipad-pro/specs failed (fetch failed x3)"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "brightness_nits",
+   "note": "Apple tech specs page lists no nits figure; Wayback fetch of the launch-era apple.com/ipad-pro/specs failed (fetch failed x3)"
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "release_date",
+   "note": "released: Apple newsroom says only \"will start delivering to customers next week\"; GSMArena gives month only (2017, June)"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "release_date",
+   "note": "released: Apple newsroom says only \"will start delivering to customers next week\"; GSMArena gives month only (2017, June)"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "process_nm",
+   "note": "A12Z Bionic: no Apple statement of process node found; GSMArena chipset line omits nm"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "process_nm",
+   "note": "A12Z Bionic: no Apple statement of process node found; GSMArena chipset line omits nm"
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-10-5",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-11-gen1",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "charging_w",
+   "note": "Apple states only adapter ratings (e.g. \"40W Dynamic Power Adapter\"); no actual wired charge rate published. GSMArena M5 gives only \"50% in 30 min\""
+  },
+  {
+   "device": "ipad-pro-12-9-gen1",
+   "field": "refresh_hz",
+   "note": "pre-ProMotion (60 Hz) but no source states the rate; Apple spec page and GSMArena omit it"
+  },
+  {
+   "device": "ipad-pro-9-7",
+   "field": "refresh_hz",
+   "note": "pre-ProMotion (60 Hz) but no source states the rate; Apple spec page and GSMArena omit it"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "release_date",
+   "note": "released: Apple newsroom says \"available in stores starting next week\" (no date); GSMArena row gives 2020-03-19, which is the day after orders opened, likely the order/ship date not in-store date"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "release_date",
+   "note": "released: Apple newsroom says \"available in stores starting next week\" (no date); GSMArena row gives 2020-03-19, which is the day after orders opened, likely the order/ship date not in-store date"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "release_date",
+   "note": "released: Apple newsroom says \"second half of May\" only; GSMArena row (2021-05-21) is the only exact date"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "release_date",
+   "note": "released: Apple newsroom says \"second half of May\" only; GSMArena row (2021-05-21) is the only exact date"
+  },
+  {
+   "device": "ipad-pro-12-9-gen2",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-12-9-gen3",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-11-gen2",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-12-9-gen4",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-11-gen3",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-12-9-gen5",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-11-gen4",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-12-9-gen6",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-11-m4",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-13-m4",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-11-m5",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  },
+  {
+   "device": "ipad-pro-13-m5",
+   "field": "voltage_v",
+   "note": "no teardown/label text with voltage: iFixit teardown for this model is video-only or absent, battery replacement guides state no V; Apple/GSMArena give none"
+  }
+ ]
+}

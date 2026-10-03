@@ -30,6 +30,10 @@ const vite = await createServer({
   appType: 'custom',
   logLevel: 'warn',
 })
+// Observable Plot needs a DOM to build the chart; Chart.jsx looks for this one
+// when there is no browser document.
+const { parseHTML } = await import('linkedom')
+globalThis.__plotDocument = parseHTML('<!doctype html><html><body></body></html>').document
 const { default: App } = await vite.ssrLoadModule('/src/App.jsx')
 const appHtml = renderToString(React.createElement(App))
 await vite.close()

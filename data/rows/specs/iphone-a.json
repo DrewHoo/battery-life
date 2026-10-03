@@ -1,0 +1,3818 @@
+{
+ "line": "iphone",
+ "devices": [
+  {
+   "id": "iphone-2007",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone",
+   "variant": null,
+   "generation": "1",
+   "modelNumbers": [
+    "A1203"
+   ],
+   "googleName": null,
+   "note": "Original 2007 iPhone (iPhone 2G)."
+  },
+  {
+   "id": "iphone-3g",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 3G",
+   "variant": null,
+   "generation": "3G",
+   "modelNumbers": [
+    "A1241",
+    "A1324"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-3gs",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 3GS",
+   "variant": null,
+   "generation": "3GS",
+   "modelNumbers": [
+    "A1303",
+    "A1325"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-4",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 4",
+   "variant": null,
+   "generation": "4",
+   "modelNumbers": [
+    "A1332",
+    "A1349"
+   ],
+   "googleName": null,
+   "note": "GSM (A1332, June 2010) and CDMA (A1349, Feb 2011) treated as one device: iFixit says the CDMA battery has the same 5.25 Wh rating but a new part number (616-0520) and is lighter (25.6 g vs 26.9 g)."
+  },
+  {
+   "id": "iphone-4s",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 4S",
+   "variant": null,
+   "generation": "4S",
+   "modelNumbers": [
+    "A1387",
+    "A1431"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-5",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 5",
+   "variant": null,
+   "generation": "5",
+   "modelNumbers": [
+    "A1428",
+    "A1429",
+    "A1442"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-5c",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 5c",
+   "variant": null,
+   "generation": "5c",
+   "modelNumbers": [
+    "A1456",
+    "A1507",
+    "A1516",
+    "A1526",
+    "A1529",
+    "A1532"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-5s",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 5s",
+   "variant": null,
+   "generation": "5s",
+   "modelNumbers": [
+    "A1453",
+    "A1457",
+    "A1518",
+    "A1528",
+    "A1530",
+    "A1533"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-6",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 6",
+   "variant": null,
+   "generation": "6",
+   "modelNumbers": [
+    "A1549",
+    "A1586",
+    "A1589"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-6-plus",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 6 Plus",
+   "variant": "Plus",
+   "generation": "6",
+   "modelNumbers": [
+    "A1522",
+    "A1524",
+    "A1593"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-6s",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 6s",
+   "variant": null,
+   "generation": "6s",
+   "modelNumbers": [
+    "A1633",
+    "A1688",
+    "A1691",
+    "A1700"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-6s-plus",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 6s Plus",
+   "variant": "Plus",
+   "generation": "6s",
+   "modelNumbers": [
+    "A1634",
+    "A1687",
+    "A1690",
+    "A1699"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-7",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 7",
+   "variant": null,
+   "generation": "7",
+   "modelNumbers": [
+    "A1660",
+    "A1778",
+    "A1779",
+    "A1780"
+   ],
+   "googleName": null,
+   "note": null
+  },
+  {
+   "id": "iphone-7-plus",
+   "line": "iphone",
+   "category": "phone",
+   "name": "iPhone 7 Plus",
+   "variant": "Plus",
+   "generation": "7",
+   "modelNumbers": [
+    "A1661",
+    "A1784",
+    "A1785",
+    "A1786"
+   ],
+   "googleName": null,
+   "note": null
+  }
+ ],
+ "rows": [
+  {
+   "device": "iphone-2007",
+   "field": "model_number",
+   "value": "A1203",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone Year introduced: 2007 Capacity: 4, 8, 16 GB The model number on the back case is A1203.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "model_number",
+   "value": "A1324",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 3G Year introduced: 2008, 2009 (China mainland) Capacity: 8, 16 GB Model number on the back cover: A1324, A1241",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "model_number",
+   "value": "A1241",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 3G Year introduced: 2008, 2009 (China mainland) Capacity: 8, 16 GB Model number on the back cover: A1324, A1241",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "model_number",
+   "value": "A1325",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 3GS Year introduced: 2009 Capacity: 8, 16, 32 GB Colors: Black and white Model number on the back cover: A1325, A1303",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "model_number",
+   "value": "A1303",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 3GS Year introduced: 2009 Capacity: 8, 16, 32 GB Colors: Black and white Model number on the back cover: A1325, A1303",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "model_number",
+   "value": "A1349",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 4 Year introduced: 2010 (GSM), 2011 (CDMA) Capacity: 8, 16, 32 GB Colors: Black and white Model number on the back cover: A1349, A1332",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "model_number",
+   "value": "A1332",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 4 Year introduced: 2010 (GSM), 2011 (CDMA) Capacity: 8, 16, 32 GB Colors: Black and white Model number on the back cover: A1349, A1332",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "model_number",
+   "value": "A1431",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 4s Year introduced: 2011 Capacity: 8, 16, 32, 64 GB Colors: Black and white Model number on the back cover: A1431, A1387",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "model_number",
+   "value": "A1387",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 4s Year introduced: 2011 Capacity: 8, 16, 32, 64 GB Colors: Black and white Model number on the back cover: A1431, A1387",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "model_number",
+   "value": "A1428",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5 Year introduced: 2012 Capacity: 16, 32, 64 GB Colors: Black and white Model number on the back cover: A1428, A1429, A1442",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "model_number",
+   "value": "A1429",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5 Year introduced: 2012 Capacity: 16, 32, 64 GB Colors: Black and white Model number on the back cover: A1428, A1429, A1442",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "model_number",
+   "value": "A1442",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5 Year introduced: 2012 Capacity: 16, 32, 64 GB Colors: Black and white Model number on the back cover: A1428, A1429, A1442",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "model_number",
+   "value": "A1456",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5c Year introduced: 2013 Capacity: 8, 16, 32 GB Colors: White, blue, pink, green, yellow Model number on the back cover: A1456, A1507, A1516, A1529, A1532",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "model_number",
+   "value": "A1507",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5c Year introduced: 2013 Capacity: 8, 16, 32 GB Colors: White, blue, pink, green, yellow Model number on the back cover: A1456, A1507, A1516, A1529, A1532",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "model_number",
+   "value": "A1516",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5c Year introduced: 2013 Capacity: 8, 16, 32 GB Colors: White, blue, pink, green, yellow Model number on the back cover: A1456, A1507, A1516, A1529, A1532",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "model_number",
+   "value": "A1529",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5c Year introduced: 2013 Capacity: 8, 16, 32 GB Colors: White, blue, pink, green, yellow Model number on the back cover: A1456, A1507, A1516, A1529, A1532",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "model_number",
+   "value": "A1532",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5c Year introduced: 2013 Capacity: 8, 16, 32 GB Colors: White, blue, pink, green, yellow Model number on the back cover: A1456, A1507, A1516, A1529, A1532",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "model_number",
+   "value": "A1453",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5s Year introduced: 2013 Capacity: 16, 32, 64 GB Colors: Space gray, silver, gold Model number on the back cover: A1453, A1457, A1518, A1528, A1530, A1533",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "model_number",
+   "value": "A1457",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5s Year introduced: 2013 Capacity: 16, 32, 64 GB Colors: Space gray, silver, gold Model number on the back cover: A1453, A1457, A1518, A1528, A1530, A1533",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "model_number",
+   "value": "A1518",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5s Year introduced: 2013 Capacity: 16, 32, 64 GB Colors: Space gray, silver, gold Model number on the back cover: A1453, A1457, A1518, A1528, A1530, A1533",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "model_number",
+   "value": "A1528",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5s Year introduced: 2013 Capacity: 16, 32, 64 GB Colors: Space gray, silver, gold Model number on the back cover: A1453, A1457, A1518, A1528, A1530, A1533",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "model_number",
+   "value": "A1530",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5s Year introduced: 2013 Capacity: 16, 32, 64 GB Colors: Space gray, silver, gold Model number on the back cover: A1453, A1457, A1518, A1528, A1530, A1533",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "model_number",
+   "value": "A1533",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 5s Year introduced: 2013 Capacity: 16, 32, 64 GB Colors: Space gray, silver, gold Model number on the back cover: A1453, A1457, A1518, A1528, A1530, A1533",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "model_number",
+   "value": "A1549",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Year introduced: 2014 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold Model number on the back cover: A1549, A1586, A1589",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "model_number",
+   "value": "A1586",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Year introduced: 2014 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold Model number on the back cover: A1549, A1586, A1589",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "model_number",
+   "value": "A1589",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Year introduced: 2014 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold Model number on the back cover: A1549, A1586, A1589",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "model_number",
+   "value": "A1522",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Plus Year introduced: 2014 Capacity: 16, 64, 128 GB Colors: Space gray, silver, gold Model number on the back cover: A1522, A1524, A1593",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "model_number",
+   "value": "A1524",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Plus Year introduced: 2014 Capacity: 16, 64, 128 GB Colors: Space gray, silver, gold Model number on the back cover: A1522, A1524, A1593",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "model_number",
+   "value": "A1593",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Plus Year introduced: 2014 Capacity: 16, 64, 128 GB Colors: Space gray, silver, gold Model number on the back cover: A1522, A1524, A1593",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "model_number",
+   "value": "A1633",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Year introduced: 2015 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold, rose gold Model number on the back cover: A1633, A1688, A1700",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "model_number",
+   "value": "A1688",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Year introduced: 2015 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold, rose gold Model number on the back cover: A1633, A1688, A1700",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "model_number",
+   "value": "A1700",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Year introduced: 2015 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold, rose gold Model number on the back cover: A1633, A1688, A1700",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "model_number",
+   "value": "A1634",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Plus Year introduced: 2015 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold, rose gold Model number on the back cover: A1634, A1687, A1699",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "model_number",
+   "value": "A1687",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Plus Year introduced: 2015 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold, rose gold Model number on the back cover: A1634, A1687, A1699",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "model_number",
+   "value": "A1699",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Plus Year introduced: 2015 Capacity: 16, 32, 64, 128 GB Colors: Space gray, silver, gold, rose gold Model number on the back cover: A1634, A1687, A1699",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "model_number",
+   "value": "A1660",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Year introduced: 2016 Capacity: 32, 128, 256 GB Colors: Black, jet black, gold, rose gold, silver, (PRODUCT)RED Model number on the back cover: A1660, A1778, A1779",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "model_number",
+   "value": "A1778",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Year introduced: 2016 Capacity: 32, 128, 256 GB Colors: Black, jet black, gold, rose gold, silver, (PRODUCT)RED Model number on the back cover: A1660, A1778, A1779",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "model_number",
+   "value": "A1779",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Year introduced: 2016 Capacity: 32, 128, 256 GB Colors: Black, jet black, gold, rose gold, silver, (PRODUCT)RED Model number on the back cover: A1660, A1778, A1779",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "model_number",
+   "value": "A1661",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Plus Year introduced: 2016 Capacity: 32, 128, 256 GB Colors: Black, jet black, gold, rose gold, silver, (PRODUCT)RED Model number on the back cover: A1661, A1784, A1785",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "model_number",
+   "value": "A1784",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Plus Year introduced: 2016 Capacity: 32, 128, 256 GB Colors: Black, jet black, gold, rose gold, silver, (PRODUCT)RED Model number on the back cover: A1661, A1784, A1785",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "model_number",
+   "value": "A1785",
+   "url": "https://support.apple.com/en-us/108044",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Plus Year introduced: 2016 Capacity: 32, 128, 256 GB Colors: Black, jet black, gold, rose gold, silver, (PRODUCT)RED Model number on the back cover: A1661, A1784, A1785",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "model_number",
+   "value": "A1526",
+   "url": "https://everymac.com/systems/apple/iphone/index-iphone-specs.html",
+   "archiveUrl": null,
+   "quote": "iPhone 5c (China Unicom/A1526)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "model_number",
+   "value": "A1691",
+   "url": "https://everymac.com/systems/apple/iphone/index-iphone-specs.html",
+   "archiveUrl": null,
+   "quote": "iPhone 6s (China Mobile/A1691)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "model_number",
+   "value": "A1691",
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Models A1633, A1688, A1691, A1700",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "model_number",
+   "value": "A1690",
+   "url": "https://everymac.com/systems/apple/iphone/index-iphone-specs.html",
+   "archiveUrl": null,
+   "quote": "iPhone 6s Plus (China Mobile/A1690)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "model_number",
+   "value": "A1690",
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Models A1634, A1687, A1690, A1699",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "model_number",
+   "value": "A1780",
+   "url": "https://everymac.com/systems/apple/iphone/index-iphone-specs.html",
+   "archiveUrl": null,
+   "quote": "iPhone 7 (China Mobile/A1780)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "model_number",
+   "value": "A1780",
+   "url": "https://www.gsmarena.com/apple_iphone_7-8064.php",
+   "archiveUrl": null,
+   "quote": "Models A1660, A1778, A1779, A1780",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "model_number",
+   "value": "A1786",
+   "url": "https://everymac.com/systems/apple/iphone/index-iphone-specs.html",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Plus (China Mobile/A1786)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "model_number",
+   "value": "A1786",
+   "url": "https://www.gsmarena.com/apple_iphone_7_plus-8065.php",
+   "archiveUrl": null,
+   "quote": "Models A1661, A1784, A1785, A1786",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "height_mm",
+   "value": 115,
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "Height: 4.5 inches (115 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "width_mm",
+   "value": 61,
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "Width: 2.4 inches (61 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "depth_mm",
+   "value": 11.6,
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "Depth: 0.46 inch (11.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "weight_g",
+   "value": 135,
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "Weight: 4.8 ounces (135 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "display_in",
+   "value": 3.5,
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "3.5-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "resolution_px",
+   "value": "480x320",
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "480-by-320-pixel resolution at 163 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "claimed_runtime_h",
+   "value": 6,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 6 hours",
+   "retrieved": "2026-10-03",
+   "note": "single \"Internet use\" figure; the page footnote describes both Wi-Fi and EDGE test setups"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "claimed_runtime_h",
+   "value": 7,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112445",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 7 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "height_mm",
+   "value": 115.5,
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "Height : 4.5 inches (115.5 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "width_mm",
+   "value": 62.1,
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "Width : 2.4 inches (62.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "depth_mm",
+   "value": 12.3,
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "Depth : 0.48 inch (12.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "weight_g",
+   "value": 133,
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "Weight : 4.7 ounces (133 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "display_in",
+   "value": 3.5,
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "3.5-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "resolution_px",
+   "value": "480x320",
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "480-by-320-pixel resolution at 163 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "claimed_runtime_h",
+   "value": 6,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 5 hours on 3G 6 Up to 6 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "claimed_runtime_h",
+   "value": 7,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112496",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 7 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "height_mm",
+   "value": 115.5,
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "Height: 4.5 inches (115.5 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "width_mm",
+   "value": 62.1,
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "Width: 2.4 inches (62.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "depth_mm",
+   "value": 12.3,
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "Depth: 0.48 inch (12.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "weight_g",
+   "value": 135,
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "Weight: 4.8 ounces (135 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "display_in",
+   "value": 3.5,
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "3.5-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "resolution_px",
+   "value": "480x320",
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "480-by-320-pixel resolution at 163 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "claimed_runtime_h",
+   "value": 9,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 5 hours on 3G Up to 9 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112307",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 10 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "height_mm",
+   "value": 115.2,
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "Height : 4.5 inches (115.2 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "width_mm",
+   "value": 58.6,
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "Width : 2.31 inches (58.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "depth_mm",
+   "value": 9.3,
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "Depth : 0.37 inch (9.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "weight_g",
+   "value": 137,
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "Weight : 4.8 ounces (137 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "display_in",
+   "value": 3.5,
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "3.5-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "resolution_px",
+   "value": "960x640",
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "960-by-640-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 6 hours on 3G Up to 10 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112562",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 10 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "height_mm",
+   "value": 115.2,
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "Height: 4.5 inches (115.2 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "width_mm",
+   "value": 58.6,
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "Width: 2.31 inches (58.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "depth_mm",
+   "value": 9.3,
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "Depth: 0.37 inch (9.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "weight_g",
+   "value": 140,
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "Weight: 4.9 ounces (140 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "display_in",
+   "value": 3.5,
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "3.5-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "resolution_px",
+   "value": "960x640",
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "960-by-640-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "claimed_runtime_h",
+   "value": 9,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 6 hours on 3G, up to 9 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112004",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 10 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "height_mm",
+   "value": 123.8,
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "Height: 4.87 inches (123.8 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "width_mm",
+   "value": 58.6,
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "Width: 2.31 inches (58.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "depth_mm",
+   "value": 7.6,
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "Depth: 0.30 inch (7.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "weight_g",
+   "value": 112,
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "Weight: 3.95 ounces (112 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "display_in",
+   "value": 4,
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "4-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "resolution_px",
+   "value": "1136x640",
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "1136-by-640-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 8 hours on 3G, up to 8 hours on LTE, up to 10 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/112016",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 10 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "height_mm",
+   "value": 124.4,
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Height: 4.90 inches (124.4 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "width_mm",
+   "value": 59.2,
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Width: 2.33 inches (59.2 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "depth_mm",
+   "value": 8.97,
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Depth: 0.35 inch (8.97 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "weight_g",
+   "value": 132,
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Weight: 4.65 ounces (132 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "display_in",
+   "value": 4,
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "4-inch (diagonal) widescreen Multi-Touch display",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "resolution_px",
+   "value": "1136x640",
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "1136-by-640-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "soc",
+   "value": "A6",
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Chip A6 chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111917",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 10 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "height_mm",
+   "value": 123.8,
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Height: 4.87 inches (123.8 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "width_mm",
+   "value": 58.6,
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Width: 2.31 inches (58.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "depth_mm",
+   "value": 7.6,
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Depth: 0.30 inch (7.6 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "weight_g",
+   "value": 112,
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Weight: 3.95 ounces (112 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "display_in",
+   "value": 4,
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "4-inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "resolution_px",
+   "value": "1136x640",
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "1136-by-640-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "4-inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "soc",
+   "value": "A7",
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Chips A7 chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 8 hours on 3G, up to 10 hours on LTE, up to 10 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "claimed_runtime_h",
+   "value": 10,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111973",
+   "archiveUrl": null,
+   "quote": "Video playback: Up to 10 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "height_mm",
+   "value": 138.1,
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "Height: 5.44 inches (138.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "width_mm",
+   "value": 67.0,
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "Width: 2.64 inches (67.0 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "depth_mm",
+   "value": 6.9,
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "Depth:0.27 inch (6.9 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "weight_g",
+   "value": 129,
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "Weight: 4.55 ounces (129 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "display_in",
+   "value": 4.7,
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "4.7-inch (diagonal) LED-backlit widescreen Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "resolution_px",
+   "value": "1334x750",
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "1334-by-750-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "4.7-inch (diagonal) LED-backlit widescreen Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "soc",
+   "value": "A8",
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "Chips A8 chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "claimed_runtime_h",
+   "value": 11,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 10 hours on 3G, up to 10 hours on LTE, up to 11 hours on Wi‑Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "claimed_runtime_h",
+   "value": 11,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111954",
+   "archiveUrl": null,
+   "quote": "HD video playback: Up to 11 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "height_mm",
+   "value": 158.1,
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "Height: 6.22 inches (158.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "width_mm",
+   "value": 77.8,
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "Width: 3.06 inches (77.8 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "depth_mm",
+   "value": 7.1,
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "Depth:0.28 inch (7.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "weight_g",
+   "value": 172,
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "Weight: 6.07 ounces (172 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "display_in",
+   "value": 5.5,
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "5.5-inch (diagonal) LED-backlit widescreen Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "resolution_px",
+   "value": "1920x1080",
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "1920-by-1080-pixel resolution at 401 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "5.5-inch (diagonal) LED-backlit widescreen Multi‑Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "soc",
+   "value": "A8",
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "Chips A8 chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "claimed_runtime_h",
+   "value": 12,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 12 hours on Wi‑Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "claimed_runtime_h",
+   "value": 14,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111940",
+   "archiveUrl": null,
+   "quote": "HD video playback: Up to 14 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "height_mm",
+   "value": 138.3,
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "Height: 5.44 inches (138.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "width_mm",
+   "value": 67.1,
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "Width: 2.64 inches (67.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "depth_mm",
+   "value": 7.1,
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "Depth: 0.28 inch (7.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "weight_g",
+   "value": 143,
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "Weight: 5.04 ounces (143 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "display_in",
+   "value": 4.7,
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "resolution_px",
+   "value": "1334x750",
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "1334-by-750-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "4.7-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "soc",
+   "value": "A9",
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "Chip A9 chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "claimed_runtime_h",
+   "value": 11,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 10 hours on 3G, up to 10 hours on LTE, up to 11 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "claimed_runtime_h",
+   "value": 11,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111952",
+   "archiveUrl": null,
+   "quote": "HD video playback: Up to 11 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "height_mm",
+   "value": 158.2,
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "Height: 6.23 inches (158.2 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "width_mm",
+   "value": 77.9,
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "Width: 3.07 inches (77.9 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "depth_mm",
+   "value": 7.3,
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "Depth: 0.29 inch (7.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "weight_g",
+   "value": 192,
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "Weight: 6.77 ounces (192 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "display_in",
+   "value": 5.5,
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "5.5-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "resolution_px",
+   "value": "1920x1080",
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "1920-by-1080-pixel resolution at 401 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "brightness_nits",
+   "value": 500,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "500 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "5.5-inch (diagonal) widescreen LCD Multi-Touch display with IPS technology",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "soc",
+   "value": "A9",
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "Chip A9 chip with 64-bit architecture",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "claimed_runtime_h",
+   "value": 12,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 12 hours on 3G, up to 12 hours on LTE, up to 12 hours on Wi‑Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "claimed_runtime_h",
+   "value": 14,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111996",
+   "archiveUrl": null,
+   "quote": "HD video playback: Up to 14 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "height_mm",
+   "value": 138.3,
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Height: 5.44 inches (138.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "width_mm",
+   "value": 67.1,
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Width: 2.64 inches (67.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "depth_mm",
+   "value": 7.1,
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Depth: 0.28 inch (7.1 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "weight_g",
+   "value": 138,
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Weight: 4.87 ounces (138 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "display_in",
+   "value": 4.7,
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "4.7-inch (diagonal) widescreen LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "resolution_px",
+   "value": "1334x750",
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "1334-by-750-pixel resolution at 326 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "brightness_nits",
+   "value": 625,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "625 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "panel",
+   "value": "LCD",
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "4.7-inch (diagonal) widescreen LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "soc",
+   "value": "A10 Fusion",
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Chip A10 Fusion chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "claimed_runtime_h",
+   "value": 14,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 12 hours on 3G, Up to 12 hours on LTE, Up to 14 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "claimed_runtime_h",
+   "value": 13,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111943",
+   "archiveUrl": null,
+   "quote": "Wireless video playback: Up to 13 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "height_mm",
+   "value": 158.2,
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Height: 6.23 inches (158.2 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "width_mm",
+   "value": 77.9,
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Width: 3.07 inches (77.9 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "depth_mm",
+   "value": 7.3,
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Depth: 0.29 inch (7.3 mm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "weight_g",
+   "value": 188,
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Weight: 6.63 ounces (188 grams)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "display_in",
+   "value": 5.5,
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "5.5-inch (diagonal) widescreen LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "resolution_px",
+   "value": "1920x1080",
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "1920-by-1080-pixel resolution at 401 ppi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "brightness_nits",
+   "value": 625,
+   "kind": "typical",
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "625 cd/m2 max brightness (typical)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "panel",
+   "value": "LCD",
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "5.5-inch (diagonal) widescreen LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "soc",
+   "value": "A10 Fusion",
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Chip A10 Fusion chip",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "claimed_runtime_h",
+   "value": 15,
+   "kind": "internet_wifi",
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Internet use: Up to 13 hours on 3G, Up to 13 hours on LTE, Up to 15 hours on Wi-Fi",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "claimed_runtime_h",
+   "value": 14,
+   "kind": "video",
+   "url": "https://support.apple.com/en-us/111953",
+   "archiveUrl": null,
+   "quote": "Wireless video playback: Up to 14 hours",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "panel",
+   "value": "TFT",
+   "url": "https://www.gsmarena.com/apple_iphone-1827.php",
+   "archiveUrl": null,
+   "quote": "Type TFT Size 3.5 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "capacity_mah",
+   "value": 1400,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone-1827.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1400 mAh, non-removable",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "panel",
+   "value": "TFT",
+   "url": "https://www.gsmarena.com/apple_iphone_3g-2424.php",
+   "archiveUrl": null,
+   "quote": "Type TFT Size 3.5 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_mah",
+   "value": 1220,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_3g-2424.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1220 mAh, non-removable",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "panel",
+   "value": "TFT",
+   "url": "https://www.gsmarena.com/apple_iphone_3gs-2826.php",
+   "archiveUrl": null,
+   "quote": "Type TFT Size 3.5 inches",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_mah",
+   "value": 1400,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_3gs-2826.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1400 mAh, non-removable",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_4-3275.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "soc",
+   "value": "A4",
+   "url": "https://www.gsmarena.com/apple_iphone_4-3275.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A4 (45 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "process_nm",
+   "value": 45,
+   "url": "https://www.gsmarena.com/apple_iphone_4-3275.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A4 (45 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "capacity_mah",
+   "value": 1420,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_4-3275.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1420 mAh, non-removable",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_4s-4212.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "soc",
+   "value": "A5",
+   "url": "https://www.gsmarena.com/apple_iphone_4s-4212.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A5 (45 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "process_nm",
+   "value": 45,
+   "url": "https://www.gsmarena.com/apple_iphone_4s-4212.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A5 (45 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "capacity_mah",
+   "value": 1432,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_4s-4212.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1432 mAh, non-removable (5.3 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "capacity_wh",
+   "value": 5.3,
+   "url": "https://www.gsmarena.com/apple_iphone_4s-4212.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1432 mAh, non-removable (5.3 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_5-4910.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "soc",
+   "value": "A6",
+   "url": "https://www.gsmarena.com/apple_iphone_5-4910.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A6 (32 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "process_nm",
+   "value": 32,
+   "url": "https://www.gsmarena.com/apple_iphone_5-4910.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A6 (32 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "capacity_mah",
+   "value": 1440,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_5-4910.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1440 mAh, non-removable (5.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "capacity_wh",
+   "value": 5.45,
+   "url": "https://www.gsmarena.com/apple_iphone_5-4910.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1440 mAh, non-removable (5.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_5c-5690.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "soc",
+   "value": "A6",
+   "url": "https://www.gsmarena.com/apple_iphone_5c-5690.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A6 (32 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "process_nm",
+   "value": 32,
+   "url": "https://www.gsmarena.com/apple_iphone_5c-5690.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A6 (32 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "capacity_mah",
+   "value": 1510,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_5c-5690.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1510 mAh, non-removable (5.73 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "capacity_wh",
+   "value": 5.73,
+   "url": "https://www.gsmarena.com/apple_iphone_5c-5690.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1510 mAh, non-removable (5.73 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_5s-5685.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "soc",
+   "value": "A7",
+   "url": "https://www.gsmarena.com/apple_iphone_5s-5685.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A7 (28 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "process_nm",
+   "value": 28,
+   "url": "https://www.gsmarena.com/apple_iphone_5s-5685.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A7 (28 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "capacity_mah",
+   "value": 1560,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_5s-5685.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1560 mAh, non-removable (5.92 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "capacity_wh",
+   "value": 5.92,
+   "url": "https://www.gsmarena.com/apple_iphone_5s-5685.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1560 mAh, non-removable (5.92 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_6-6378.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "soc",
+   "value": "A8",
+   "url": "https://www.gsmarena.com/apple_iphone_6-6378.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A8 (20 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "process_nm",
+   "value": 20,
+   "url": "https://www.gsmarena.com/apple_iphone_6-6378.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A8 (20 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "capacity_mah",
+   "value": 1810,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_6-6378.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1810 mAh, non-removable (6.9 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "capacity_wh",
+   "value": 6.9,
+   "url": "https://www.gsmarena.com/apple_iphone_6-6378.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 1810 mAh, non-removable (6.9 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_6_plus-6665.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "soc",
+   "value": "A8",
+   "url": "https://www.gsmarena.com/apple_iphone_6_plus-6665.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A8 (20 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "process_nm",
+   "value": 20,
+   "url": "https://www.gsmarena.com/apple_iphone_6_plus-6665.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A8 (20 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "capacity_mah",
+   "value": 2915,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_6_plus-6665.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 2915 mAh, non-removable (11.1 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "capacity_wh",
+   "value": 11.1,
+   "url": "https://www.gsmarena.com/apple_iphone_6_plus-6665.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Po 2915 mAh, non-removable (11.1 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD, 500 nits",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "soc",
+   "value": "A9",
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9 (14/16 nm - maker dependant)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "process_nm",
+   "value": 14,
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9 (14/16 nm - maker dependant)",
+   "retrieved": "2026-10-03",
+   "note": "GSMArena gives 14/16 nm (Samsung vs TSMC A9)"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "process_nm",
+   "value": 16,
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9 (14/16 nm - maker dependant)",
+   "retrieved": "2026-10-03",
+   "note": "GSMArena gives 14/16 nm (Samsung vs TSMC A9)"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "capacity_mah",
+   "value": 1715,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1715 mAh, non-removable (6.91 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "capacity_wh",
+   "value": 6.91,
+   "url": "https://www.gsmarena.com/apple_iphone_6s-7242.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1715 mAh, non-removable (6.91 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Type IPS LCD",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "soc",
+   "value": "A9",
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9 (14/16 nm - maker dependant)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "process_nm",
+   "value": 14,
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9 (14/16 nm - maker dependant)",
+   "retrieved": "2026-10-03",
+   "note": "GSMArena gives 14/16 nm (Samsung vs TSMC A9)"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "process_nm",
+   "value": 16,
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A9 (14/16 nm - maker dependant)",
+   "retrieved": "2026-10-03",
+   "note": "GSMArena gives 14/16 nm (Samsung vs TSMC A9)"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "capacity_mah",
+   "value": 2750,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 2750 mAh, non-removable (10.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "capacity_wh",
+   "value": 10.45,
+   "url": "https://www.gsmarena.com/apple_iphone_6s_plus-7243.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 2750 mAh, non-removable (10.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_7-8064.php",
+   "archiveUrl": null,
+   "quote": "Type Retina IPS LCD, 625 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "soc",
+   "value": "A10 Fusion",
+   "url": "https://www.gsmarena.com/apple_iphone_7-8064.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A10 Fusion (16 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "process_nm",
+   "value": 16,
+   "url": "https://www.gsmarena.com/apple_iphone_7-8064.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A10 Fusion (16 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "capacity_mah",
+   "value": 1960,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_7-8064.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1960 mAh, non-removable (7.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "capacity_wh",
+   "value": 7.45,
+   "url": "https://www.gsmarena.com/apple_iphone_7-8064.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 1960 mAh, non-removable (7.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "panel",
+   "value": "IPS LCD",
+   "url": "https://www.gsmarena.com/apple_iphone_7_plus-8065.php",
+   "archiveUrl": null,
+   "quote": "Type Retina IPS LCD, 625 nits (typ)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "soc",
+   "value": "A10 Fusion",
+   "url": "https://www.gsmarena.com/apple_iphone_7_plus-8065.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A10 Fusion (16 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "process_nm",
+   "value": 16,
+   "url": "https://www.gsmarena.com/apple_iphone_7_plus-8065.php",
+   "archiveUrl": null,
+   "quote": "Chipset Apple A10 Fusion (16 nm)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "capacity_mah",
+   "value": 2900,
+   "kind": "rated",
+   "url": "https://www.gsmarena.com/apple_iphone_7_plus-8065.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 2900 mAh, non-removable (11.1 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "capacity_wh",
+   "value": 11.1,
+   "url": "https://www.gsmarena.com/apple_iphone_7_plus-8065.php",
+   "archiveUrl": null,
+   "quote": "Type Li-Ion 2900 mAh, non-removable (11.1 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Teardown/iPhone+1st+Generation+Teardown/599",
+   "archiveUrl": null,
+   "quote": "It is a 3.7 volt Li-Ion Polymer battery.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "capacity_mah",
+   "value": 1400,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+3G+Teardown/600",
+   "archiveUrl": null,
+   "quote": "lists a capacity of 1150 mAh, not the 1400 mAh in the original",
+   "retrieved": "2026-10-03",
+   "note": "iFixit 3G teardown, comparing to the original iPhone"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_mah",
+   "value": 1150,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+3G+Teardown/600",
+   "archiveUrl": null,
+   "quote": "this page references the part number on the battery and lists a capacity of 1150 mAh, not the 1400 mAh in the original",
+   "retrieved": "2026-10-03",
+   "note": "iFixit relays this from an IECEE CB certificate it could not verify (\"I can't verify this\")"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_wh",
+   "value": 4.51,
+   "url": "https://www.ifixit.com/Teardown/iPhone+3GS+Teardown/817",
+   "archiveUrl": null,
+   "quote": "The battery is listed as 3.7V and 4.51 Whr.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Teardown/iPhone+3GS+Teardown/817",
+   "archiveUrl": null,
+   "quote": "The battery is listed as 3.7V and 4.51 Whr.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_mah",
+   "value": 1219,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+3GS+Teardown/817",
+   "archiveUrl": null,
+   "quote": "This comes out to 1219 mAh, compared to 1150 mAh on the 3G.",
+   "retrieved": "2026-10-03",
+   "note": "iFixit computed this from the label Wh and V"
+  },
+  {
+   "device": "iphone-4",
+   "field": "capacity_mah",
+   "value": 1420,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+4+Teardown/3130",
+   "archiveUrl": null,
+   "quote": "The 3.7V 1420 mAh Li-Polymer battery allows for up to 7 hours of talk time on 3G",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Teardown/iPhone+4+Teardown/3130",
+   "archiveUrl": null,
+   "quote": "The 3.7V 1420 mAh Li-Polymer battery allows for up to 7 hours of talk time on 3G",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "capacity_wh",
+   "value": 5.25,
+   "url": "https://www.ifixit.com/Teardown/iPhone+4+Verizon+Teardown/4693",
+   "archiveUrl": null,
+   "quote": "The battery is listed as the same 5.25 Watt-hour capacity, but does have a new model number (616-0520).",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "capacity_wh",
+   "value": 5.3,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5+Teardown/10525",
+   "archiveUrl": null,
+   "quote": "iPhone 4S Battery: 3.7V - 5.3Wh - 1432mAh.",
+   "retrieved": "2026-10-03",
+   "note": "from the iPhone 5 teardown comparison table"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5+Teardown/10525",
+   "archiveUrl": null,
+   "quote": "iPhone 4S Battery: 3.7V - 5.3Wh - 1432mAh.",
+   "retrieved": "2026-10-03",
+   "note": "from the iPhone 5 teardown comparison table"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "capacity_mah",
+   "value": 1432,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+5+Teardown/10525",
+   "archiveUrl": null,
+   "quote": "iPhone 4S Battery: 3.7V - 5.3Wh - 1432mAh.",
+   "retrieved": "2026-10-03",
+   "note": "from the iPhone 5 teardown comparison table"
+  },
+  {
+   "device": "iphone-5",
+   "field": "capacity_wh",
+   "value": 5.45,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5+Teardown/10525",
+   "archiveUrl": null,
+   "quote": "iPhone 5 Battery: 3.8V - 5.45Wh - 1440mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "voltage_v",
+   "value": 3.8,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5+Teardown/10525",
+   "archiveUrl": null,
+   "quote": "iPhone 5 Battery: 3.8V - 5.45Wh - 1440mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "capacity_mah",
+   "value": 1440,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+5+Teardown/10525",
+   "archiveUrl": null,
+   "quote": "iPhone 5 Battery: 3.8V - 5.45Wh - 1440mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "capacity_wh",
+   "value": 5.73,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5c+Teardown/17382",
+   "archiveUrl": null,
+   "quote": "the battery has been beefed up a bit, clocking in at 3.8 V—5.73 Wh—1510 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "voltage_v",
+   "value": 3.8,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5c+Teardown/17382",
+   "archiveUrl": null,
+   "quote": "the battery has been beefed up a bit, clocking in at 3.8 V—5.73 Wh—1510 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "capacity_mah",
+   "value": 1510,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+5c+Teardown/17382",
+   "archiveUrl": null,
+   "quote": "the battery has been beefed up a bit, clocking in at 3.8 V—5.73 Wh—1510 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "capacity_wh",
+   "value": 5.92,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5s+Teardown/17383",
+   "archiveUrl": null,
+   "quote": "sports a 3.8V - 5.92Wh - 1560 mAh battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "voltage_v",
+   "value": 3.8,
+   "url": "https://www.ifixit.com/Teardown/iPhone+5s+Teardown/17383",
+   "archiveUrl": null,
+   "quote": "sports a 3.8V - 5.92Wh - 1560 mAh battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "capacity_mah",
+   "value": 1560,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+5s+Teardown/17383",
+   "archiveUrl": null,
+   "quote": "sports a 3.8V - 5.92Wh - 1560 mAh battery",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "capacity_wh",
+   "value": 6.91,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Teardown/29213",
+   "archiveUrl": null,
+   "quote": "The iPhone 6 features an 1810 mAh, 3.82 V Lithium-ion Polymer battery with an energy rating of 6.91 Wh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "voltage_v",
+   "value": 3.82,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Teardown/29213",
+   "archiveUrl": null,
+   "quote": "The iPhone 6 features an 1810 mAh, 3.82 V Lithium-ion Polymer battery with an energy rating of 6.91 Wh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "capacity_mah",
+   "value": 1810,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Teardown/29213",
+   "archiveUrl": null,
+   "quote": "The iPhone 6 features an 1810 mAh, 3.82 V Lithium-ion Polymer battery with an energy rating of 6.91 Wh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "capacity_wh",
+   "value": 7.01,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Teardown/29213",
+   "archiveUrl": null,
+   "quote": "Turning it over, the rating improves to 7.01 Wh!",
+   "retrieved": "2026-10-03",
+   "note": "iFixit: rating printed on the back of the cell; front label says 6.91 Wh"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "capacity_wh",
+   "value": 11.1,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Plus+Teardown/29206",
+   "archiveUrl": null,
+   "quote": "the battery is rated at 3.82 V and 11.1 Wh of energy, for a total of 2915 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "voltage_v",
+   "value": 3.82,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Plus+Teardown/29206",
+   "archiveUrl": null,
+   "quote": "the battery is rated at 3.82 V and 11.1 Wh of energy, for a total of 2915 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "capacity_mah",
+   "value": 2915,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+6+Plus+Teardown/29206",
+   "archiveUrl": null,
+   "quote": "the battery is rated at 3.82 V and 11.1 Wh of energy, for a total of 2915 mAh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "capacity_wh",
+   "value": 6.55,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6s+Teardown/48170",
+   "archiveUrl": null,
+   "quote": "The Lithium-ion pack comes in at 3.8 V, 6.55 Wh, and 1715 mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "voltage_v",
+   "value": 3.8,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6s+Teardown/48170",
+   "archiveUrl": null,
+   "quote": "The Lithium-ion pack comes in at 3.8 V, 6.55 Wh, and 1715 mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "capacity_mah",
+   "value": 1715,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+6s+Teardown/48170",
+   "archiveUrl": null,
+   "quote": "The Lithium-ion pack comes in at 3.8 V, 6.55 Wh, and 1715 mAh.",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "capacity_wh",
+   "value": 10.45,
+   "url": "https://www.ifixit.com/Teardown/iPhone+6s+Plus+Teardown/48171",
+   "archiveUrl": null,
+   "quote": "The battery capacity sits at 2750 mAh (10.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "capacity_mah",
+   "value": 2750,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+6s+Plus+Teardown/48171",
+   "archiveUrl": null,
+   "quote": "The battery capacity sits at 2750 mAh (10.45 Wh)",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "voltage_v",
+   "value": 3.8,
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Plus+Teardown/67384",
+   "archiveUrl": null,
+   "quote": "a slight upgrade over the 10.45 Wh (3.8 V, 2750 mAh) of the 6s Plus",
+   "retrieved": "2026-10-03",
+   "note": "from the iPhone 7 Plus teardown comparison"
+  },
+  {
+   "device": "iphone-7",
+   "field": "capacity_wh",
+   "value": 7.45,
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Teardown/67382",
+   "archiveUrl": null,
+   "quote": "This 3.8 V, 1960 mAh battery is rated for a capacity of 7.45 Wh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "voltage_v",
+   "value": 3.8,
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Teardown/67382",
+   "archiveUrl": null,
+   "quote": "This 3.8 V, 1960 mAh battery is rated for a capacity of 7.45 Wh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "capacity_mah",
+   "value": 1960,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Teardown/67382",
+   "archiveUrl": null,
+   "quote": "This 3.8 V, 1960 mAh battery is rated for a capacity of 7.45 Wh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "capacity_wh",
+   "value": 11.1,
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Plus+Teardown/67384",
+   "archiveUrl": null,
+   "quote": "The battery is rated at 3.82 V and 2900 mAh, for a total of 11.1 Wh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "voltage_v",
+   "value": 3.82,
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Plus+Teardown/67384",
+   "archiveUrl": null,
+   "quote": "The battery is rated at 3.82 V and 2900 mAh, for a total of 11.1 Wh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "capacity_mah",
+   "value": 2900,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Teardown/iPhone+7+Plus+Teardown/67384",
+   "archiveUrl": null,
+   "quote": "The battery is rated at 3.82 V and 2900 mAh, for a total of 11.1 Wh",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "capacity_mah",
+   "value": 1400,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Device/iPhone_1st_Generation",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1400 mAh lithium-ion polymer",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Device/iPhone_1st_Generation",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1400 mAh lithium-ion polymer",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_mah",
+   "value": 1150,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Device/iPhone_3G",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1150 mAh lithium-ion polymer",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Device/iPhone_3G",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1150 mAh lithium-ion polymer",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_mah",
+   "value": 1220,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Device/iPhone_3GS",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1220 mAh",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Device/iPhone_3GS",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1220 mAh",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-4",
+   "field": "capacity_mah",
+   "value": 1420,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/Device/iPhone_4",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1,420 mAh",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-4",
+   "field": "voltage_v",
+   "value": 3.7,
+   "url": "https://www.ifixit.com/Device/iPhone_4",
+   "archiveUrl": null,
+   "quote": "Battery : 3.7 V, 1,420 mAh",
+   "retrieved": "2026-10-03",
+   "note": "iFixit device page (community wiki)"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_wh",
+   "value": 4.26,
+   "url": "https://www.ifixit.com/products/iphone-3g-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Watt Hours 4.26 Wh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_mah",
+   "value": 1150,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/products/iphone-3g-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Milliamp Hours 1150 mAh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_wh",
+   "value": 4.51,
+   "url": "https://www.ifixit.com/products/iphone-3gs-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Watt Hours 4.51 Wh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_mah",
+   "value": 1218,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/products/iphone-3gs-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Milliamp Hours 1218 mAh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-4",
+   "field": "capacity_wh",
+   "value": 5.25,
+   "url": "https://www.ifixit.com/products/iphone-4-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Watt Hours 5.25 Wh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-4",
+   "field": "capacity_mah",
+   "value": 1420,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/products/iphone-4-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Milliamp Hours 1420 mAh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "capacity_wh",
+   "value": 5.3,
+   "url": "https://www.ifixit.com/products/iphone-4s-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Watt Hours 5.3 Wh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "capacity_mah",
+   "value": 1430,
+   "kind": "rated",
+   "url": "https://www.ifixit.com/products/iphone-4s-replacement-battery",
+   "archiveUrl": null,
+   "quote": "Milliamp Hours 1430 mAh",
+   "retrieved": "2026-10-03",
+   "note": "aftermarket replacement part listing"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "capacity_wh",
+   "value": 5.18,
+   "url": "https://www.macworld.com/article/678413/iphone-battery-capacities-compared-all-iphones-battery-life-in-mah-and-wh.html",
+   "archiveUrl": null,
+   "quote": "iPhone mAh Wh iPhone 1,400mAh 5.18Wh",
+   "retrieved": "2026-10-03",
+   "note": "aggregator table, no per-row source"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "capacity_mah",
+   "value": 1400,
+   "kind": "rated",
+   "url": "https://www.macworld.com/article/678413/iphone-battery-capacities-compared-all-iphones-battery-life-in-mah-and-wh.html",
+   "archiveUrl": null,
+   "quote": "iPhone mAh Wh iPhone 1,400mAh 5.18Wh",
+   "retrieved": "2026-10-03",
+   "note": "aggregator table, no per-row source"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_wh",
+   "value": 4.25,
+   "url": "https://www.macworld.com/article/678413/iphone-battery-capacities-compared-all-iphones-battery-life-in-mah-and-wh.html",
+   "archiveUrl": null,
+   "quote": "iPhone 3G 1,150mAh 4.25Wh",
+   "retrieved": "2026-10-03",
+   "note": "aggregator table, no per-row source"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_mah",
+   "value": 1150,
+   "kind": "rated",
+   "url": "https://www.macworld.com/article/678413/iphone-battery-capacities-compared-all-iphones-battery-life-in-mah-and-wh.html",
+   "archiveUrl": null,
+   "quote": "iPhone 3G 1,150mAh 4.25Wh",
+   "retrieved": "2026-10-03",
+   "note": "aggregator table, no per-row source"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_wh",
+   "value": 4.44,
+   "url": "https://www.macworld.com/article/678413/iphone-battery-capacities-compared-all-iphones-battery-life-in-mah-and-wh.html",
+   "archiveUrl": null,
+   "quote": "iPhone 3GS 1,200mAh 4.44Wh",
+   "retrieved": "2026-10-03",
+   "note": "aggregator table, no per-row source"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "capacity_mah",
+   "value": 1200,
+   "kind": "rated",
+   "url": "https://www.macworld.com/article/678413/iphone-battery-capacities-compared-all-iphones-battery-life-in-mah-and-wh.html",
+   "archiveUrl": null,
+   "quote": "iPhone 3GS 1,200mAh 4.44Wh",
+   "retrieved": "2026-10-03",
+   "note": "aggregator table, no per-row source"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "release_date",
+   "value": "2007-01-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2007/01/09Apple-Reinvents-the-Phone-with-iPhone/",
+   "archiveUrl": null,
+   "quote": "January 9, 2007 Apple Reinvents the Phone with iPhone",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "release_date",
+   "value": "2007-06-29",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+   "archiveUrl": null,
+   "quote": "iPhone goes on sale in the US on June 29, 2007 at 6:00 p.m. local time",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "launch_price_usd",
+   "value": 499,
+   "url": "https://www.apple.com/newsroom/2007/06/28iPhone-Premieres-This-Friday-Night-at-Apple-Retail-Stores/",
+   "archiveUrl": null,
+   "quote": "iPhone will be available in a 4GB model for $499 (US) and an 8GB model for $599 (US)",
+   "retrieved": "2026-10-03",
+   "note": "4GB"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "release_date",
+   "value": "2008-06-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2008/06/09Apple-Introduces-the-New-iPhone-3G/",
+   "archiveUrl": null,
+   "quote": "SAN FRANCISCO—June 9, 2008—Apple® today introduced the new iPhone™ 3G",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "release_date",
+   "value": "2008-07-11",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2008/06/09Apple-Introduces-the-New-iPhone-3G/",
+   "archiveUrl": null,
+   "quote": "iPhone 3G will be available in the US on July 11 for a suggested retail price of $199 (US) for the 8GB model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2008/06/09Apple-Introduces-the-New-iPhone-3G/",
+   "archiveUrl": null,
+   "quote": "iPhone 3G will be available in the US on July 11 for a suggested retail price of $199 (US) for the 8GB model and $299 (US) for the 16GB model in both Apple and AT&T’s retail stores and requires a new two year contract",
+   "retrieved": "2026-10-03",
+   "note": "8GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "release_date",
+   "value": "2009-06-08",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2009/06/08Apple-Announces-the-New-iPhone-3GS-The-Fastest-Most-Powerful-iPhone-Yet/",
+   "archiveUrl": null,
+   "quote": "SAN FRANCISCO—June 8, 2009—Apple® today introduced the new iPhone™ 3GS",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "release_date",
+   "value": "2009-06-19",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2009/06/08Apple-Announces-the-New-iPhone-3GS-The-Fastest-Most-Powerful-iPhone-Yet/",
+   "archiveUrl": null,
+   "quote": "iPhone 3GS will be available in the US on June 19 for a suggested retail price of $199 (US) for the 16GB model",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2009/06/08Apple-Announces-the-New-iPhone-3GS-The-Fastest-Most-Powerful-iPhone-Yet/",
+   "archiveUrl": null,
+   "quote": "iPhone 3GS will be available in the US on June 19 for a suggested retail price of $199 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-4",
+   "field": "release_date",
+   "value": "2010-06-07",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+   "archiveUrl": null,
+   "quote": "SAN FRANCISCO—June 7, 2010—Apple® today presented the new iPhone® 4",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4",
+   "field": "release_date",
+   "value": "2010-06-24",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+   "archiveUrl": null,
+   "quote": "iPhone 4 will be available in the US, France, Germany, Japan and the UK on June 24",
+   "retrieved": "2026-10-03",
+   "note": "GSM model"
+  },
+  {
+   "device": "iphone-4",
+   "field": "release_date",
+   "value": "2011-02-10",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2011/01/11Verizon-Wireless-Apple-Team-Up-to-Deliver-iPhone-4-on-Verizon/",
+   "archiveUrl": null,
+   "quote": "iPhone 4 will be available on the Verizon Wireless network beginning Thursday, February 10",
+   "retrieved": "2026-10-03",
+   "note": "CDMA (Verizon) model"
+  },
+  {
+   "device": "iphone-4",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+   "archiveUrl": null,
+   "quote": "iPhone 4 comes in either black or white and will be available in the US for a suggested retail price of $199 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-4",
+   "field": "soc",
+   "value": "A4",
+   "url": "https://www.apple.com/newsroom/2010/06/07Apple-Presents-iPhone-4/",
+   "archiveUrl": null,
+   "quote": "iPhone 4 is powered by Apple’s new A4 processor",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "release_date",
+   "value": "2011-10-04",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2011/10/04Apple-Launches-iPhone-4S-iOS-5-iCloud/",
+   "archiveUrl": null,
+   "quote": "October 4, 2011",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "release_date",
+   "value": "2011-10-14",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2011/10/04Apple-Launches-iPhone-4S-iOS-5-iCloud/",
+   "archiveUrl": null,
+   "quote": "iPhone 4S will be available in the US, Australia, Canada, France, Germany, Japan and the UK on Friday, October 14",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2011/10/04Apple-Launches-iPhone-4S-iOS-5-iCloud/",
+   "archiveUrl": null,
+   "quote": "iPhone 4S comes in either black or white and will be available in the US for a suggested retail price of $199 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "soc",
+   "value": "A5",
+   "url": "https://www.apple.com/newsroom/2011/10/04Apple-Launches-iPhone-4S-iOS-5-iCloud/",
+   "archiveUrl": null,
+   "quote": "Apple's dual-core A5 chip delivers up to twice the processing power",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "release_date",
+   "value": "2012-09-12",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/",
+   "archiveUrl": null,
+   "quote": "SAN FRANCISCO—September 12, 2012—Apple® today announced iPhone® 5",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "release_date",
+   "value": "2012-09-21",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/",
+   "archiveUrl": null,
+   "quote": "iPhone 5 will be available in the US, Australia, Canada, France, Germany, Hong Kong, Japan, Singapore and the UK on Friday, September 21",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/",
+   "archiveUrl": null,
+   "quote": "will be available in the US for a suggested retail price of $199 (US) for the 16GB model and $299 (US) for the 32GB model and $399 (US) for the 64GB model. iPhone 5 will be available",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-5",
+   "field": "soc",
+   "value": "A6",
+   "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/",
+   "archiveUrl": null,
+   "quote": "an Apple-designed A6 chip for blazing fast performance",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "release_date",
+   "value": "2013-09-10",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2013/09/10Apple-Introduces-iPhone-5c-The-Most-Colorful-iPhone-Yet/",
+   "archiveUrl": null,
+   "quote": "CUPERTINO, California—September 10, 2013—Apple® today introduced iPhone® 5c",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "release_date",
+   "value": "2013-09-20",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2013/09/16iPhone-5s-iPhone-5c-Arrive-on-Friday-September-20/",
+   "archiveUrl": null,
+   "quote": "iPhone 5c, the most colorful iPhone yet, will be available to customers on Friday, September 20",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "launch_price_usd",
+   "value": 99,
+   "url": "https://www.apple.com/newsroom/2013/09/10Apple-Introduces-iPhone-5c-The-Most-Colorful-iPhone-Yet/",
+   "archiveUrl": null,
+   "quote": "iPhone 5c comes in blue, green, pink, yellow and white and will be available in the US for a suggested retail price of $99 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "release_date",
+   "value": "2013-09-10",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2013/09/10Apple-Announces-iPhone-5s-The-Most-Forward-Thinking-Smartphone-in-the-World/",
+   "archiveUrl": null,
+   "quote": "CUPERTINO, California—September 10, 2013—Apple® today announced iPhone® 5s",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "release_date",
+   "value": "2013-09-20",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2013/09/16iPhone-5s-iPhone-5c-Arrive-on-Friday-September-20/",
+   "archiveUrl": null,
+   "quote": "Apple® today announced that iPhone® 5s, the most forward-thinking smartphone in the world and iPhone 5c, the most colorful iPhone yet, will be available to customers on Friday, September 20",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2013/09/10Apple-Announces-iPhone-5s-The-Most-Forward-Thinking-Smartphone-in-the-World/",
+   "archiveUrl": null,
+   "quote": "iPhone 5s comes in gold, silver or space gray, and will be available in the US for a suggested retail price of $199 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-6",
+   "field": "release_date",
+   "value": "2014-09-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2014/09/09Apple-Announces-iPhone-6-iPhone-6-Plus-The-Biggest-Advancements-in-iPhone-History/",
+   "archiveUrl": null,
+   "quote": "CUPERTINO, California—September 9, 2014—Apple® today announced iPhone® 6 and iPhone 6 Plus",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "release_date",
+   "value": "2014-09-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2014/09/09Apple-Announces-iPhone-6-iPhone-6-Plus-The-Biggest-Advancements-in-iPhone-History/",
+   "archiveUrl": null,
+   "quote": "CUPERTINO, California—September 9, 2014—Apple® today announced iPhone® 6 and iPhone 6 Plus",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "release_date",
+   "value": "2014-09-19",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2014/09/22First-Weekend-iPhone-Sales-Top-10-Million-Set-New-Record/",
+   "archiveUrl": null,
+   "quote": "sold over 10 million new iPhone® 6 and iPhone 6 Plus models, a new record, just three days after the launch on September 19",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "release_date",
+   "value": "2014-09-19",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2014/09/22First-Weekend-iPhone-Sales-Top-10-Million-Set-New-Record/",
+   "archiveUrl": null,
+   "quote": "sold over 10 million new iPhone® 6 and iPhone 6 Plus models, a new record, just three days after the launch on September 19",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6",
+   "field": "launch_price_usd",
+   "value": 199,
+   "url": "https://www.apple.com/newsroom/2014/09/09Apple-Announces-iPhone-6-iPhone-6-Plus-The-Biggest-Advancements-in-iPhone-History/",
+   "archiveUrl": null,
+   "quote": "iPhone 6 comes in gold, silver or space gray, and will be available in the US for a suggested retail price of $199 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "launch_price_usd",
+   "value": 299,
+   "url": "https://www.apple.com/newsroom/2014/09/09Apple-Announces-iPhone-6-iPhone-6-Plus-The-Biggest-Advancements-in-iPhone-History/",
+   "archiveUrl": null,
+   "quote": "iPhone 6 Plus comes in gold, silver or space gray, and will be available in the US for a suggested retail price of $299 (US) for the 16GB model",
+   "retrieved": "2026-10-03",
+   "note": "16GB, with two-year carrier contract"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "release_date",
+   "value": "2015-09-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPhone-6s-iPhone-6s-Plus/",
+   "archiveUrl": null,
+   "quote": "September 9, 2015 Apple Introduces iPhone 6s & iPhone 6s Plus",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "release_date",
+   "value": "2015-09-09",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPhone-6s-iPhone-6s-Plus/",
+   "archiveUrl": null,
+   "quote": "September 9, 2015 Apple Introduces iPhone 6s & iPhone 6s Plus",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "release_date",
+   "value": "2015-09-25",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPhone-6s-iPhone-6s-Plus/",
+   "archiveUrl": null,
+   "quote": "Both models will be available in Australia, Canada, China, France, Germany, Hong Kong, Japan, New Zealand, Puerto Rico, Singapore, the UK and the US beginning Friday, September 25",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "release_date",
+   "value": "2015-09-25",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPhone-6s-iPhone-6s-Plus/",
+   "archiveUrl": null,
+   "quote": "Both models will be available in Australia, Canada, China, France, Germany, Hong Kong, Japan, New Zealand, Puerto Rico, Singapore, the UK and the US beginning Friday, September 25",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "release_date",
+   "value": "2016-09-07",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/",
+   "archiveUrl": null,
+   "quote": "September 7, 2016 Apple introduces iPhone 7 & iPhone 7 Plus",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "release_date",
+   "value": "2016-09-07",
+   "kind": "announced",
+   "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/",
+   "archiveUrl": null,
+   "quote": "September 7, 2016 Apple introduces iPhone 7 & iPhone 7 Plus",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "release_date",
+   "value": "2016-09-16",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/",
+   "archiveUrl": null,
+   "quote": "Customers will be able to order iPhone 7 and iPhone 7 Plus beginning Friday, September 9, with availability beginning Friday, September 16",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "release_date",
+   "value": "2016-09-16",
+   "kind": "released",
+   "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/",
+   "archiveUrl": null,
+   "quote": "Customers will be able to order iPhone 7 and iPhone 7 Plus beginning Friday, September 9, with availability beginning Friday, September 16",
+   "retrieved": "2026-10-03"
+  },
+  {
+   "device": "iphone-7",
+   "field": "launch_price_usd",
+   "value": 649,
+   "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/",
+   "archiveUrl": null,
+   "quote": "iPhone 7 and iPhone 7 Plus will be available in silver, gold, rose gold and the new black finish in 32GB, 128GB and 256GB models starting at $649 (US)",
+   "retrieved": "2026-10-03",
+   "note": "32GB, no contract; Apple quotes one \"starting at\" price for both models, which is the iPhone 7 price"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "launch_price_usd",
+   "value": 649,
+   "url": "https://9to5mac.com/2015/09/09/iphone-6s-6s-plus-199-499-preorders-start-sept-12-in-stores-sept-25/",
+   "archiveUrl": null,
+   "quote": "Off-contract, the iPhone 6s will sell for either $649 (16GB)",
+   "retrieved": "2026-10-03",
+   "note": "16GB, off-contract; Apple newsroom gives only monthly-installment prices"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "launch_price_usd",
+   "value": 749,
+   "url": "https://9to5mac.com/2015/09/09/iphone-6s-6s-plus-199-499-preorders-start-sept-12-in-stores-sept-25/",
+   "archiveUrl": null,
+   "quote": "versus $749 (16GB), $849 (64GB) or $949 (128GB) for the iPhone 6s Plus",
+   "retrieved": "2026-10-03",
+   "note": "16GB, off-contract; Apple newsroom gives only monthly-installment prices"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "launch_price_usd",
+   "value": 769,
+   "url": "https://www.idownloadblog.com/2016/09/07/iphone-7-pricing-availability/",
+   "archiveUrl": null,
+   "quote": "the iPhone 7 Plus gets a tad more expensive with a starting price of $769",
+   "retrieved": "2026-10-03",
+   "note": "32GB, no contract"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "launch_price_usd",
+   "value": 769,
+   "url": "https://9to5mac.com/2016/09/07/apple-announces-iphone-7-pricing-availability-pre-orders-start-sept-9-available-sept-16/",
+   "archiveUrl": null,
+   "quote": "iPhone 7 Plus will be priced at its usual premium starting at $769 (32GB)",
+   "retrieved": "2026-10-03",
+   "note": "32GB, no contract"
+  }
+ ],
+ "rejections": [
+  {
+   "device": "iphone-2007",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-4",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-4",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-4s",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-5",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-5",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-5c",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-5s",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-6",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-6",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-6-plus",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-6s",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-6s-plus",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-7",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-7",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "refresh_hz",
+   "note": "Apple spec pages and GSMArena state no refresh rate for these 60 Hz-era phones"
+  },
+  {
+   "device": "iphone-7-plus",
+   "field": "charging_w",
+   "note": "Apple lists only the bundled 5 W adapter (not a charging rate); GSMArena has no charging field for these models"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "soc",
+   "note": "Apple never named the chip; iFixit teardowns only identify an Apple-labeled Samsung ARM part (339S0030 / 339S0036); GSMArena gives CPU clock only"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "process_nm",
+   "note": "no Apple or GSMArena statement; only a user comment on the iFixit teardown"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "brightness_nits",
+   "note": "Apple spec page lists no cd/m2 figure before iPhone 4; GSMArena gives none"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "soc",
+   "note": "Apple never named the chip; iFixit teardowns only identify an Apple-labeled Samsung ARM part (339S0030 / 339S0036); GSMArena gives CPU clock only"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "process_nm",
+   "note": "no Apple or GSMArena statement; only a user comment on the iFixit teardown"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "brightness_nits",
+   "note": "Apple spec page lists no cd/m2 figure before iPhone 4; GSMArena gives none"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "soc",
+   "note": "Apple never named the chip; iFixit teardowns only identify an Apple-labeled Samsung ARM part (339S0030 / 339S0036); GSMArena gives CPU clock only"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "process_nm",
+   "note": "no Apple or GSMArena statement; only a user comment on the iFixit teardown"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "brightness_nits",
+   "note": "Apple spec page lists no cd/m2 figure before iPhone 4; GSMArena gives none"
+  },
+  {
+   "device": "iphone-2007",
+   "field": "capacity_wh",
+   "note": "predates APIS (pre-2010 manufacture, and A1203/A1241/A1324 absent from the current sheet); no label Wh found. iPhone: iFixit gives 3.7 V + 1400 mAh only, and the 2009 ipodbatteryfaq.com capture (1400 mAh 3.7V) could not be fetched (Wayback 429, then connection refused); 3G: iFixit cites an IECEE cert (1150 mAh) that Wayback would not serve (HTTP 429). Only Wh rows are an aftermarket part (3G) and Macworld aggregator"
+  },
+  {
+   "device": "iphone-3g",
+   "field": "capacity_wh",
+   "note": "predates APIS (pre-2010 manufacture, and A1203/A1241/A1324 absent from the current sheet); no label Wh found. iPhone: iFixit gives 3.7 V + 1400 mAh only, and the 2009 ipodbatteryfaq.com capture (1400 mAh 3.7V) could not be fetched (Wayback 429, then connection refused); 3G: iFixit cites an IECEE cert (1150 mAh) that Wayback would not serve (HTTP 429). Only Wh rows are an aftermarket part (3G) and Macworld aggregator"
+  },
+  {
+   "device": "iphone-3gs",
+   "field": "model_number",
+   "note": "A1303/A1325 are not in the current APIS sheet (pre-2010 manufacture), so no UN38.3 join"
+  },
+  {
+   "device": "iphone-7",
+   "field": "model_number",
+   "note": "GSMArena also lists A1853 and A1866 for iPhone 7; not on Apple's identify page or everymac, not added"
+  }
+ ]
+}

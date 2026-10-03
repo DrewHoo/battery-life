@@ -1,0 +1,10 @@
+{
+  "_doc": "Runtime evidence grade per runtime_h row, first matching rule wins. A: Notebookcheck WLAN at ~150 cd/m2 (stated since the Aug 2012 reviews). B: another third-party browsing test at a stated calibrated brightness. C: a third-party browsing test without one. claimed_runtime_h rows are always D.",
+  "rules": [
+    { "grade": "A", "outlet": ["notebookcheck"], "testDateFrom": "2012-08-01", "network": ["wifi"] },
+    { "grade": "C", "outlet": ["notebookcheck"] },
+    { "grade": "B", "outlet": ["anandtech", "gsmarena", "laptopmag", "tomshardware", "tomsguide", "phonearena"], "brightnessNits": [150, 200] },
+    { "grade": "C", "outlet": ["anandtech", "gsmarena", "laptopmag", "tomshardware", "tomsguide", "phonearena"] }
+  ],
+  "default": "C"
+}

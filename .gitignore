@@ -11,3 +11,6 @@ dist
 
 # fetched source pages; re-fetchable, keyed by URL hash
 data/raw/
+
+# build-payload intermediates
+data/build/

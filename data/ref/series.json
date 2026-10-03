@@ -1,0 +1,48 @@
+{
+  "_doc": "Each device's series: the line plus its size or tier, so trend lines and hover highlights never join a 13-inch MacBook Pro to a 15-inch one. Patterns match the device id with the line prefix removed; first match wins; a line with one entry has one series.",
+  "iphone": [
+    { "label": "iPhone mini", "match": "mini" },
+    { "label": "iPhone Plus / Max", "match": "plus|max" },
+    { "label": "iPhone Pro", "match": "^(x|xs)$|pro" },
+    { "label": "iPhone", "match": "." }
+  ],
+  "galaxy-s": [
+    { "label": "Galaxy S Ultra", "match": "ultra|s10-5g" },
+    { "label": "Galaxy S+", "match": "plus|s25-edge" },
+    { "label": "Galaxy S", "match": "." }
+  ],
+  "pixel": [
+    { "label": "Pixel XL / Pro XL", "match": "xl|^(6|7|8)-pro$" },
+    { "label": "Pixel Pro", "match": "pro" },
+    { "label": "Pixel", "match": "." }
+  ],
+  "ipad": [{ "label": "iPad", "match": "." }],
+  "ipad-pro": [
+    { "label": "iPad Pro 12.9″ / 13″", "match": "^(12-9|13)-" },
+    { "label": "iPad Pro 11″", "match": "." }
+  ],
+  "apple-watch": [
+    { "label": "Apple Watch Ultra", "match": "ultra" },
+    { "label": "Apple Watch small", "match": "-(38|40|41)(-cell)?$|^s1[0-9]-42$" },
+    { "label": "Apple Watch large", "match": "." }
+  ],
+  "galaxy-watch": [
+    { "label": "Galaxy Watch Ultra", "match": "ultra" },
+    { "label": "Galaxy Watch small", "match": "-(40|41|42|43)$" },
+    { "label": "Galaxy Watch large", "match": "." }
+  ],
+  "macbook-air": [
+    { "label": "MacBook Air 11″", "match": "^11-" },
+    { "label": "MacBook Air 15″", "match": "^15-" },
+    { "label": "MacBook Air 13″", "match": "." }
+  ],
+  "macbook-pro": [
+    { "label": "MacBook Pro 13″", "match": "^13-" },
+    { "label": "MacBook Pro 14″", "match": "^14-" },
+    { "label": "MacBook Pro 15″", "match": "^15-" },
+    { "label": "MacBook Pro 16″", "match": "^16-" },
+    { "label": "MacBook Pro 17″", "match": "^17-" }
+  ],
+  "xps-13": [{ "label": "XPS 13", "match": "." }],
+  "x1-carbon": [{ "label": "X1 Carbon", "match": "." }]
+}

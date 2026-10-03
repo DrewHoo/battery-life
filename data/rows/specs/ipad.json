@@ -1,0 +1,3618 @@
+{
+  "line": "ipad",
+  "devices": [
+    {
+      "id": "ipad-1",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (1st generation)",
+      "variant": null,
+      "generation": "1",
+      "modelNumbers": [
+        "A1219",
+        "A1337"
+      ],
+      "googleName": null,
+      "note": "Wi-Fi and Wi-Fi + 3G share one battery"
+    },
+    {
+      "id": "ipad-2",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad 2",
+      "variant": null,
+      "generation": "2",
+      "modelNumbers": [
+        "A1395",
+        "A1396",
+        "A1397"
+      ],
+      "googleName": null,
+      "note": "Wi-Fi, GSM and CDMA models share one battery"
+    },
+    {
+      "id": "ipad-3",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (3rd generation)",
+      "variant": null,
+      "generation": "3",
+      "modelNumbers": [
+        "A1416",
+        "A1430",
+        "A1403"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-4",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (4th generation)",
+      "variant": null,
+      "generation": "4",
+      "modelNumbers": [
+        "A1458",
+        "A1459",
+        "A1460"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-air",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad Air",
+      "variant": null,
+      "generation": "Air",
+      "modelNumbers": [
+        "A1474",
+        "A1475",
+        "A1476"
+      ],
+      "googleName": null,
+      "note": "Held the full-size base slot 2013-2017 (no numbered iPad was sold alongside it)"
+    },
+    {
+      "id": "ipad-air-2",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad Air 2",
+      "variant": null,
+      "generation": "Air 2",
+      "modelNumbers": [
+        "A1566",
+        "A1567"
+      ],
+      "googleName": null,
+      "note": "Held the full-size base slot until iPad (5th generation), 2017"
+    },
+    {
+      "id": "ipad-5",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (5th generation)",
+      "variant": null,
+      "generation": "5",
+      "modelNumbers": [
+        "A1822",
+        "A1823"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-6",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (6th generation)",
+      "variant": null,
+      "generation": "6",
+      "modelNumbers": [
+        "A1893",
+        "A1954"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-7",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (7th generation)",
+      "variant": null,
+      "generation": "7",
+      "modelNumbers": [
+        "A2197",
+        "A2200",
+        "A2198"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-8",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (8th generation)",
+      "variant": null,
+      "generation": "8",
+      "modelNumbers": [
+        "A2270",
+        "A2428",
+        "A2429",
+        "A2430"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-9",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (9th generation)",
+      "variant": null,
+      "generation": "9",
+      "modelNumbers": [
+        "A2602",
+        "A2604",
+        "A2603",
+        "A2605"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-10",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (10th generation)",
+      "variant": null,
+      "generation": "10",
+      "modelNumbers": [
+        "A2696",
+        "A2757",
+        "A2777",
+        "A3162"
+      ],
+      "googleName": null,
+      "note": null
+    },
+    {
+      "id": "ipad-a16",
+      "line": "ipad",
+      "category": "tablet",
+      "name": "iPad (A16)",
+      "variant": null,
+      "generation": "11",
+      "modelNumbers": [
+        "A3354",
+        "A3355",
+        "A3356"
+      ],
+      "googleName": null,
+      "note": "Apple calls it \"iPad (A16)\" / \"iPad 11-inch (A16)\"; commonly the 11th generation"
+    }
+  ],
+  "rows": [
+    {
+      "device": "ipad-1",
+      "field": "model_number",
+      "value": "A1219",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1219 on the iPad (Wi-Fi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "model_number",
+      "value": "A1337",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1337 on the iPad (Wi-Fi + 3G)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "capacity_wh",
+      "value": 25,
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "Built-in 25-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "height_mm",
+      "value": 242.8,
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "Height: 9.56 inches (242.8 mm) Width: 7.47 inches (189.7 mm) Depth: 0.5 inch (13.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "width_mm",
+      "value": 189.7,
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "Height: 9.56 inches (242.8 mm) Width: 7.47 inches (189.7 mm) Depth: 0.5 inch (13.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "depth_mm",
+      "value": 13.4,
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "Height: 9.56 inches (242.8 mm) Width: 7.47 inches (189.7 mm) Depth: 0.5 inch (13.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit glossy widescreen Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit glossy widescreen Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "resolution_px",
+      "value": "1024x768",
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "1024-by-768-pixel resolution at 132 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "model_number",
+      "value": "A1395",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1395 on the iPad 2 (Wi-Fi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "model_number",
+      "value": "A1396",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1396 on the iPad 2 (GSM model)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "model_number",
+      "value": "A1397",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1397 on the iPad 2 (CDMA model)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "capacity_wh",
+      "value": 25,
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Built-in 25-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "height_mm",
+      "value": 241.2,
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.34 inch (8.8 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "width_mm",
+      "value": 185.7,
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.34 inch (8.8 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "depth_mm",
+      "value": 8.8,
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.34 inch (8.8 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit glossy widescreen Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit glossy widescreen Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "resolution_px",
+      "value": "1024x768",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "1024-by-768-pixel resolution at 132 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "model_number",
+      "value": "A1416",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1416 on the iPad (3rd generation) Wi-Fi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "model_number",
+      "value": "A1430",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1430 on the iPad (3rd generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "model_number",
+      "value": "A1403",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1403 on the iPad (3rd generation) Wi-Fi + Cellular (VZ)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "capacity_wh",
+      "value": 42.5,
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Built-in 42.5-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "height_mm",
+      "value": 241.2,
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "width_mm",
+      "value": 185.7,
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "depth_mm",
+      "value": 9.4,
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit glossy widescreen Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit glossy widescreen Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "resolution_px",
+      "value": "2048x1536",
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "2048-by-1536-pixel resolution at 264 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "model_number",
+      "value": "A1458",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1458 on the iPad (4th generation) Wi-Fi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "model_number",
+      "value": "A1459",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1459 on the iPad (4th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "model_number",
+      "value": "A1460",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1460 on the iPad (4th generation) Wi-Fi + Cellular (MM)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "capacity_wh",
+      "value": 42.5,
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Built-in 42.5-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "height_mm",
+      "value": 241.2,
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "width_mm",
+      "value": 185.7,
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "depth_mm",
+      "value": 9.4,
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "resolution_px",
+      "value": "2048x1536",
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "2048-by-1536 resolution at 264 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "model_number",
+      "value": "A1474",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1474 on the iPad Air Wi-Fi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "model_number",
+      "value": "A1475",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1475 on the iPad Air Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "model_number",
+      "value": "A1476",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1476 on the iPad Air Wi-Fi + Cellular (TD-LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Built-in 32.4-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "height_mm",
+      "value": 240,
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "width_mm",
+      "value": 169.5,
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "depth_mm",
+      "value": 7.5,
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "resolution_px",
+      "value": "2048x1536",
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "2048-by-1536 resolution at 264 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "model_number",
+      "value": "A1566",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1566 on the iPad Air 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "model_number",
+      "value": "A1567",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1567 on the iPad Air 2 Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "capacity_wh",
+      "value": 27.3,
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Built-in 27.3-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surﬁng the web on Wi‑Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "height_mm",
+      "value": 240,
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "width_mm",
+      "value": 169.5,
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "depth_mm",
+      "value": 6.1,
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "resolution_px",
+      "value": "2048x1536",
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "2048-by-1536-pixel resolution at 264 ppi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "model_number",
+      "value": "A1822",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1822 on the iPad (5th generation) Wi-Fi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "model_number",
+      "value": "A1823",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1823 on the iPad (5th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Built-in 32.4-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "height_mm",
+      "value": 240,
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "width_mm",
+      "value": 169.5,
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "depth_mm",
+      "value": 7.5,
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "resolution_px",
+      "value": "2048x1536",
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "2048-by-1536-pixel resolution at 264 ppi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "model_number",
+      "value": "A1893",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1893 on the iPad (6th generation) Wi-Fi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "model_number",
+      "value": "A1954",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A1954 on the iPad (6th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Built-in 32.4-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "height_mm",
+      "value": 240,
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "width_mm",
+      "value": 169.5,
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "depth_mm",
+      "value": 7.5,
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "9.7-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "resolution_px",
+      "value": "2048x1536",
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "2048-by-1536-pixel resolution at 264 ppi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "model_number",
+      "value": "A2197",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2197 on the iPad (7th generation) Wi-Fi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "model_number",
+      "value": "A2200",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2200, A2198 on the iPad (7th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "model_number",
+      "value": "A2198",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2200, A2198 on the iPad (7th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Built-in 32.4-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi-Fi, watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "height_mm",
+      "value": 250.6,
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "width_mm",
+      "value": 174.1,
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "depth_mm",
+      "value": 7.5,
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "display_in",
+      "value": 10.2,
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "resolution_px",
+      "value": "2160x1620",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "2160-by-1620-pixel resolution at 264 pixel per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "500 nits brightness",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "model_number",
+      "value": "A2270",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2270 on iPad (8th generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "model_number",
+      "value": "A2428",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2428, A2429, A2430 on iPad (8th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "model_number",
+      "value": "A2429",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2428, A2429, A2430 on iPad (8th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "model_number",
+      "value": "A2430",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2428, A2429, A2430 on iPad (8th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Built-in 32.4-watt-hour rechargeable lithium-polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi‐Fi or watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "height_mm",
+      "value": 250.6,
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "width_mm",
+      "value": 174.1,
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "depth_mm",
+      "value": 7.5,
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "display_in",
+      "value": 10.2,
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "resolution_px",
+      "value": "2160x1620",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "2160-by-1620-pixel resolution at 264 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "500 nits brightness",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "model_number",
+      "value": "A2602",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2602 on iPad (9th generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "model_number",
+      "value": "A2604",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2604 on iPad (9th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "model_number",
+      "value": "A2603",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2603 on iPad (9th generation) Wi-Fi + Cellular (North America only)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "model_number",
+      "value": "A2605",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2605 on iPad (9th generation) Wi-Fi + Cellular (China mainland only)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Built‐in 32.4‐watt‐hour rechargeable lithium‑polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi‐Fi or watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "height_mm",
+      "value": 250.6,
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "width_mm",
+      "value": 174.1,
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "depth_mm",
+      "value": 7.5,
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "display_in",
+      "value": 10.2,
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "10.2-inch (diagonal) LED-backlit Multi-Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "resolution_px",
+      "value": "2160x1620",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "2160-by-1620-pixel resolution at 264 pixels per inch (ppi)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "500 nits brightness",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "model_number",
+      "value": "A2696",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2696 on iPad (10th generation)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "model_number",
+      "value": "A2757",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2757 on iPad (10th generation) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "model_number",
+      "value": "A2777",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A2777 on iPad (10th generation) Wi-Fi + Cellular (China mainland only)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "model_number",
+      "value": "A3162",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A3162 on iPad (10th generation) Wi-Fi + Cellular (China mainland only)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "capacity_wh",
+      "value": 28.6,
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Built‐in 28.6‐watt‐hour rechargeable lithium‑polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi‐Fi or watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "height_mm",
+      "value": 248.6,
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "width_mm",
+      "value": 179.5,
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "depth_mm",
+      "value": 7,
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "resolution_px",
+      "value": "2360x1640",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "2360-by-1640-pixel resolution at 264 ppi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "500 nits brightness",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "model_number",
+      "value": "A3354",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A3354 on iPad (A16)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "model_number",
+      "value": "A3355",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A3355 on iPad (A16) Wi-Fi + Cellular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "model_number",
+      "value": "A3356",
+      "url": "https://support.apple.com/en-us/108043",
+      "archiveUrl": null,
+      "quote": "A3356 on iPad (A16) Wi-Fi + Cellular (China mainland only)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "capacity_wh",
+      "value": 28.93,
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Built‐in 28.93‐watt‐hour rechargeable lithium‑polymer battery",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "claimed_runtime_h",
+      "value": 10,
+      "kind": "internet_wifi",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Up to 10 hours of surfing the web on Wi‐Fi or watching video",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "height_mm",
+      "value": 248.6,
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "width_mm",
+      "value": 179.5,
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "depth_mm",
+      "value": 7,
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "resolution_px",
+      "value": "2360x1640",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "2360-by-1640-pixel resolution at 264 ppi",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "500 nits brightness",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "weight_g",
+      "value": 680,
+      "note": "Wi-Fi; page states 0.68 kg",
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "Weight: 1.5 pounds (0.68 kg) Wi-Fi model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "weight_g",
+      "value": 730,
+      "note": "Wi-Fi + 3G; page states 0.73 kg",
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "1.6 pounds (0.73 kg) Wi-Fi + 3G model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "weight_g",
+      "value": 601,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.34 inch (8.8 mm) Weight: 1.33 pounds (601 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "weight_g",
+      "value": 613,
+      "note": "Wi-Fi + 3G (GSM)",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Weight: 1.35 pounds (613 g) (Wi-Fi + 3G model)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "weight_g",
+      "value": 607,
+      "note": "Wi-Fi + 3G (Verizon CDMA)",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "Weight: 1.34 pounds (607 g) (Wi-Fi + 3G for Verizon model)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "weight_g",
+      "value": 652,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm) Weight: 1.44 pounds (652 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "weight_g",
+      "value": 662,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm) Weight: 1.46 pounds (662 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "weight_g",
+      "value": 652,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm) Weight: 1.44 pounds (652 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "weight_g",
+      "value": 662,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.50 inches (241.2 mm) Width: 7.31 inches (185.7 mm) Depth: 0.37 inch (9.4 mm) Weight: 1.46 pounds (662 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "weight_g",
+      "value": 469,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm) Weight: 1 pounds (469 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "weight_g",
+      "value": 478,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.05 pounds (478 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "weight_g",
+      "value": 437,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.96 pound (437 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "weight_g",
+      "value": 444,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.24 inch (6.1 mm) Weight: 0.98 pound (444 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "weight_g",
+      "value": 469,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.03 pounds (469 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "weight_g",
+      "value": 478,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.05 pounds (478 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "weight_g",
+      "value": 469,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.03 pounds (469 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "weight_g",
+      "value": 478,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.4 inches (240 mm) Width: 6.6 inches (169.5 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.05 pounds (478 g)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "weight_g",
+      "value": 483,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.07 pounds (483 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "weight_g",
+      "value": 493,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.09 pounds (493 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "weight_g",
+      "value": 490,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Wi-Fi Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.08 pounds (490 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "weight_g",
+      "value": 495,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.09 pounds (495 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "weight_g",
+      "value": 487,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Wi-Fi models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.07 pounds (487 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "weight_g",
+      "value": 498,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular models Height: 9.8 inches (250.6 mm) Width: 6.8 inches (174.1 mm) Depth: 0.29 inch (7.5 mm) Weight: 1.09 pounds (498 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "weight_g",
+      "value": 477,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Wi-Fi models Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm) Weight: 1.05 pounds (477 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "weight_g",
+      "value": 481,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular models Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm) Weight: 1.06 pounds (481 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "weight_g",
+      "value": 477,
+      "note": "Wi-Fi",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Wi-Fi models Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm) Weight: 1.05 pounds (477 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "weight_g",
+      "value": 481,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Wi-Fi + Cellular models Height: 9.79 inches (248.6 mm) Width: 7.07 inches (179.5 mm) Depth: 0.28 inch (7 mm) Weight: 1.06 pounds (481 grams)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "display_in",
+      "value": 10.86,
+      "note": "measured as a rectangle; marketed as 10.9-inch (2022) / 11-inch (2025)",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "When measured diagonally as a rectangle, the screen is 10.86 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "Liquid Retina, LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Liquid Retina display LED backlit Multi‑Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "display_in",
+      "value": 10.86,
+      "note": "measured as a rectangle; marketed as 10.9-inch (2022) / 11-inch (2025)",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "When measured diagonally as a rectangle, the screen is 10.86 inches",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "panel",
+      "value": "IPS LCD",
+      "note": "Liquid Retina, LED-backlit LCD with IPS technology",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Liquid Retina display LED backlit Multi‑Touch display with IPS technology",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "display_in",
+      "value": 10.9,
+      "url": "https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/",
+      "archiveUrl": null,
+      "quote": "Apple today introduced the new iPad with an all-screen design featuring a large 10.9-inch Liquid Retina display",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/",
+      "archiveUrl": null,
+      "quote": "2360x1640-pixel resolution, nearly 4 million pixels, 500 nits of brightness",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "soc",
+      "value": "A4",
+      "url": "https://support.apple.com/en-us/112438",
+      "archiveUrl": null,
+      "quote": "1GHz Apple A4 custom-designed, high-performance, low-power system-on-a-chip",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "soc",
+      "value": "A5",
+      "url": "https://support.apple.com/en-us/111990",
+      "archiveUrl": null,
+      "quote": "1GHz dual-core Apple A5 custom-designed, high-performance, low-power system-on-a-chip",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "soc",
+      "value": "A5X",
+      "url": "https://support.apple.com/en-us/111992",
+      "archiveUrl": null,
+      "quote": "Dual-core Apple A5X custom-designed, high-performance, low-power system-on-a-chip with quad-core graphics",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "soc",
+      "value": "A6X",
+      "url": "https://support.apple.com/en-us/111993",
+      "archiveUrl": null,
+      "quote": "Dual-core A6X with quad-core graphics",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "soc",
+      "value": "A7",
+      "url": "https://support.apple.com/en-us/112020",
+      "archiveUrl": null,
+      "quote": "A7 chip with 64-bit architecture and M7 motion coprocessor",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "soc",
+      "value": "A8X",
+      "url": "https://support.apple.com/en-us/112017",
+      "archiveUrl": null,
+      "quote": "A8X chip with 64‑bit architecture",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "soc",
+      "value": "A9",
+      "url": "https://support.apple.com/en-us/111960",
+      "archiveUrl": null,
+      "quote": "A9 chip with 64-bit architecture",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "soc",
+      "value": "A10 Fusion",
+      "url": "https://support.apple.com/en-us/111957",
+      "archiveUrl": null,
+      "quote": "A10 Fusion chip with 64-bit architecture",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "soc",
+      "value": "A10 Fusion",
+      "url": "https://support.apple.com/en-us/111911",
+      "archiveUrl": null,
+      "quote": "A10 Fusion chip with 64-bit architecture",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "soc",
+      "value": "A12 Bionic",
+      "url": "https://support.apple.com/en-us/118451",
+      "archiveUrl": null,
+      "quote": "A12 Bionic chip with 64-bit architecture",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "soc",
+      "value": "A13 Bionic",
+      "url": "https://support.apple.com/en-us/111898",
+      "archiveUrl": null,
+      "quote": "Chip A13 Bionic chip",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "soc",
+      "value": "A14 Bionic",
+      "url": "https://support.apple.com/en-us/111840",
+      "archiveUrl": null,
+      "quote": "Chip A14 Bionic chip",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "soc",
+      "value": "A16",
+      "url": "https://support.apple.com/en-us/122240",
+      "archiveUrl": null,
+      "quote": "Chip A16 chip",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "release_date",
+      "value": "2010-01-27",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2010/01/27Apple-Launches-iPad/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE January 27, 2010 Apple Launches iPad Magical & Revolutionary Device at",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "release_date",
+      "value": "2011-03-02",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2011/03/02Apple-Launches-iPad-2/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE March 2, 2011 Apple Launches iPad 2 All New Design is",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "release_date",
+      "value": "2012-03-07",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2012/03/07Apple-Launches-New-iPad/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE March 7, 2012 Apple Launches New iPad New iPad Features Retina",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "release_date",
+      "value": "2012-10-23",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2012/10/23Apple-Introduces-iPad-mini/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE October 23, 2012 Apple Introduces iPad mini Unveils New Fourth Generation",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "release_date",
+      "value": "2013-10-22",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2013/10/23Apple-Announces-iPad-Air-Dramatically-Thinner-Lighter-More-Powerful-iPad/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE October 22, 2013 Apple Announces iPad Air—Dramatically Thinner, Lighter & More",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "release_date",
+      "value": "2014-10-16",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2014/10/16Apple-Introduces-iPad-Air-2-The-Thinnest-Most-Powerful-iPad-Ever/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE October 16, 2014 Apple Introduces iPad Air 2—The Thinnest, Most Powerful",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "release_date",
+      "value": "2017-03-21",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2017/03/new-9-7-inch-ipad-features-stunning-retina-display-and-incredible-performance/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE March 21, 2017 New 9.7-inch iPad features stunning Retina display and",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "release_date",
+      "value": "2018-03-27",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2018/03/apple-introduces-new-9-7-inch-ipad-with-apple-pencil-support/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE March 27, 2018 Apple introduces new 9.7-inch iPad with Apple Pencil",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "release_date",
+      "value": "2019-09-10",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2019/09/apple-introduces-new-version-of-the-most-popular-ipad-starting-at-329/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE September 10, 2019 Apple introduces new version of the most popular",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "release_date",
+      "value": "2020-09-15",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2020/09/apple-introduces-eighth-generation-ipad-with-a-huge-jump-in-performance/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE September 15, 2020 Apple introduces eighth-generation iPad with a huge jump",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "release_date",
+      "value": "2021-09-14",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2021/09/apples-most-popular-ipad-delivers-even-more-performance-and-advanced-features/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE September 14, 2021 Apple’s most popular iPad delivers even more performance",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "release_date",
+      "value": "2022-10-18",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE October 18, 2022 Apple unveils completely redesigned iPad in four vibrant",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "release_date",
+      "value": "2025-03-04",
+      "kind": "announced",
+      "url": "https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/",
+      "archiveUrl": null,
+      "quote": "PRESS RELEASE March 4, 2025 Apple introduces iPad Air with powerful M3 chip",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "release_date",
+      "value": "2010-04-03",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2010/03/05iPad-Available-in-US-on-April-3/",
+      "archiveUrl": null,
+      "quote": "iPad will be available in Wi-Fi models on April 3 in the US for a suggested retail price of $499 for 16GB",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "release_date",
+      "value": "2011-03-11",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2011/03/02Apple-Launches-iPad-2/",
+      "archiveUrl": null,
+      "quote": "iPad 2 with Wi-Fi will be available on March 11 for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "release_date",
+      "value": "2012-03-16",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2012/03/07Apple-Launches-New-iPad/",
+      "archiveUrl": null,
+      "quote": "The new iPad Wi-Fi models will be available in black or white on Friday, March 16 for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "release_date",
+      "value": "2012-11-02",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2012/10/23Apple-Introduces-iPad-mini/",
+      "archiveUrl": null,
+      "quote": "The fourth generation iPad with Wi-Fi models will also be available on Friday, November 2, in black or white for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "release_date",
+      "value": "2013-11-01",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2013/10/23Apple-Announces-iPad-Air-Dramatically-Thinner-Lighter-More-Powerful-iPad/",
+      "archiveUrl": null,
+      "quote": "iPad Air with Wi-Fi models will be available in silver or space gray starting on Friday, November 1, for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "release_date",
+      "value": "2019-09-30",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2019/09/apple-introduces-new-version-of-the-most-popular-ipad-starting-at-329/",
+      "archiveUrl": null,
+      "quote": "The new iPad is available to order starting today and in stores starting Monday, September 30",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "release_date",
+      "value": "2020-09-18",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2020/09/apple-introduces-eighth-generation-ipad-with-a-huge-jump-in-performance/",
+      "archiveUrl": null,
+      "quote": "iPad will be available beginning Friday, September 18, with a starting price of $329 (US) for the Wi-Fi model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "release_date",
+      "value": "2021-09-24",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2021/09/apples-most-popular-ipad-delivers-even-more-performance-and-advanced-features/",
+      "archiveUrl": null,
+      "quote": "in stores beginning Friday, September 24",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "release_date",
+      "value": "2022-10-26",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/",
+      "archiveUrl": null,
+      "quote": "The new iPad is available to order starting today, with availability in stores beginning Wednesday, October 26",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "release_date",
+      "value": "2025-03-12",
+      "kind": "released",
+      "url": "https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/",
+      "archiveUrl": null,
+      "quote": "Customers can pre-order the new iPad with A16 starting today, March 4, on apple.com/store , and in the Apple Store app in 29 countries and regions, including the U.S. It will begin arriving to customers, and will be in Apple Store locations and Apple Authorized Resellers, starting March 12",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "launch_price_usd",
+      "value": 499,
+      "note": "16GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2010/03/05iPad-Available-in-US-on-April-3/",
+      "archiveUrl": null,
+      "quote": "iPad will be available in Wi-Fi models on April 3 in the US for a suggested retail price of $499 for 16GB",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "launch_price_usd",
+      "value": 499,
+      "note": "16GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2011/03/02Apple-Launches-iPad-2/",
+      "archiveUrl": null,
+      "quote": "iPad 2 with Wi-Fi will be available on March 11 for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "launch_price_usd",
+      "value": 499,
+      "note": "16GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2012/03/07Apple-Launches-New-iPad/",
+      "archiveUrl": null,
+      "quote": "The new iPad Wi-Fi models will be available in black or white on Friday, March 16 for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "launch_price_usd",
+      "value": 499,
+      "note": "16GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2012/10/23Apple-Introduces-iPad-mini/",
+      "archiveUrl": null,
+      "quote": "The fourth generation iPad with Wi-Fi models will also be available on Friday, November 2, in black or white for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "launch_price_usd",
+      "value": 499,
+      "note": "16GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2013/10/23Apple-Announces-iPad-Air-Dramatically-Thinner-Lighter-More-Powerful-iPad/",
+      "archiveUrl": null,
+      "quote": "iPad Air with Wi-Fi models will be available in silver or space gray starting on Friday, November 1, for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "launch_price_usd",
+      "value": 499,
+      "note": "16GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2014/10/16Apple-Introduces-iPad-Air-2-The-Thinnest-Most-Powerful-iPad-Ever/",
+      "archiveUrl": null,
+      "quote": "iPad Air 2 with Wi-Fi models will be available for a suggested retail price of $499 (US) for the 16GB model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "launch_price_usd",
+      "value": 329,
+      "note": "32GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2017/03/new-9-7-inch-ipad-features-stunning-retina-display-and-incredible-performance/",
+      "archiveUrl": null,
+      "quote": "starts at $329 (US) for the 32GB with Wi-Fi model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "launch_price_usd",
+      "value": 329,
+      "note": "32GB Wi-Fi; education $299",
+      "url": "https://www.apple.com/newsroom/2018/03/apple-introduces-new-9-7-inch-ipad-with-apple-pencil-support/",
+      "archiveUrl": null,
+      "quote": "starts at an Apple retail price of $329 (US) for the 32GB with Wi-Fi model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "launch_price_usd",
+      "value": 329,
+      "note": "Wi-Fi base config",
+      "url": "https://www.apple.com/newsroom/2019/09/apple-introduces-new-version-of-the-most-popular-ipad-starting-at-329/",
+      "archiveUrl": null,
+      "quote": "iPad starts at $329 (US) for the Wi-Fi model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "launch_price_usd",
+      "value": 329,
+      "note": "Wi-Fi, 32GB",
+      "url": "https://www.apple.com/newsroom/2020/09/apple-introduces-eighth-generation-ipad-with-a-huge-jump-in-performance/",
+      "archiveUrl": null,
+      "quote": "iPad will be available beginning Friday, September 18, with a starting price of $329 (US) for the Wi-Fi model",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "launch_price_usd",
+      "value": 329,
+      "note": "Wi-Fi base config",
+      "url": "https://www.apple.com/newsroom/2021/09/apples-most-popular-ipad-delivers-even-more-performance-and-advanced-features/",
+      "archiveUrl": null,
+      "quote": "Wi-Fi models of iPad are available with a starting price of $329 (US)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "launch_price_usd",
+      "value": 449,
+      "note": "Wi-Fi base config",
+      "url": "https://www.apple.com/newsroom/2022/10/apple-unveils-completely-redesigned-ipad-in-four-vibrant-colors/",
+      "archiveUrl": null,
+      "quote": "Wi-Fi models of the new iPad are available with a starting price of $449 (US)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "launch_price_usd",
+      "value": 349,
+      "note": "128GB Wi-Fi",
+      "url": "https://www.apple.com/newsroom/2025/03/apple-introduces-ipad-air-with-powerful-m3-chip-and-new-magic-keyboard/",
+      "archiveUrl": null,
+      "quote": "Wi-Fi models of the new iPad are available with a starting price of $349 (U.S.)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "capacity_wh",
+      "value": 24.8,
+      "url": "https://www.ifixit.com/api/2.0/guides/2183",
+      "archiveUrl": null,
+      "quote": "The 3.75V, 24.8 watt-hour battery provides the juice for an advertised 10 hours of use",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "voltage_v",
+      "value": 3.75,
+      "url": "https://www.ifixit.com/api/2.0/guides/2183",
+      "archiveUrl": null,
+      "quote": "The 3.75V, 24.8 watt-hour battery provides the juice for an advertised 10 hours of use",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "capacity_wh",
+      "value": 25,
+      "url": "https://www.ifixit.com/api/2.0/guides/5071",
+      "archiveUrl": null,
+      "quote": "Lifting off the LCD exposes the iPad 2's battery; A 3.8V, 25 Watt-hour unit",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "voltage_v",
+      "value": 3.8,
+      "url": "https://www.ifixit.com/api/2.0/guides/5071",
+      "archiveUrl": null,
+      "quote": "Lifting off the LCD exposes the iPad 2's battery; A 3.8V, 25 Watt-hour unit",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "capacity_mah",
+      "value": 6930,
+      "kind": "rated",
+      "note": "battery label, per iFixit",
+      "url": "https://www.ifixit.com/api/2.0/guides/5071",
+      "archiveUrl": null,
+      "quote": "Also listed on the battery is a capacity of 6930 mAh",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "capacity_wh",
+      "value": 42.5,
+      "url": "https://www.ifixit.com/api/2.0/guides/8277",
+      "archiveUrl": null,
+      "quote": "While the iPad 2 housed a formidable 25 watt-hour Li-ion battery, the iPad 3 has upped the ante to the tune of 42.5 watt-hours",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "voltage_v",
+      "value": 3.7,
+      "url": "https://www.ifixit.com/api/2.0/guides/8277",
+      "archiveUrl": null,
+      "quote": "Its 3.7 volts and estimated 10 hours of use (9 with cellular data network) are comparable to that of the iPad 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "capacity_wh",
+      "value": 43,
+      "url": "https://www.ifixit.com/api/2.0/guides/11462",
+      "archiveUrl": null,
+      "quote": "The battery is labeled with the same model number (A1389) as in the last round , so it's no surprise that it's another 3.7 V, 43 Whr package",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "voltage_v",
+      "value": 3.7,
+      "url": "https://www.ifixit.com/api/2.0/guides/11462",
+      "archiveUrl": null,
+      "quote": "The battery is labeled with the same model number (A1389) as in the last round , so it's no surprise that it's another 3.7 V, 43 Whr package",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "note": "teardown of the Wi-Fi + Cellular (LTE) model",
+      "url": "https://www.ifixit.com/api/2.0/guides/18907",
+      "archiveUrl": null,
+      "quote": "The Air's 3.73 V, 32.9 WHr, two-cell power plant",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "voltage_v",
+      "value": 3.73,
+      "note": "teardown of the Wi-Fi + Cellular (LTE) model",
+      "url": "https://www.ifixit.com/api/2.0/guides/18907",
+      "archiveUrl": null,
+      "quote": "The Air's 3.73 V, 32.9 WHr, two-cell power plant",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "capacity_wh",
+      "value": 27.62,
+      "url": "https://www.ifixit.com/api/2.0/guides/30592",
+      "archiveUrl": null,
+      "quote": "The 27.62 Wh battery in the iPad Air 2 drops a bit from the previous",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "note": "iPad 5 teardown step comparing the iPad 5 with the first iPad Air",
+      "url": "https://www.ifixit.com/api/2.0/guides/85098",
+      "archiveUrl": null,
+      "quote": "They both pack the same 32.9 Wh battery, beating the 27.6 Wh iPad Air 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "url": "https://www.ifixit.com/api/2.0/guides/105416",
+      "archiveUrl": null,
+      "quote": "We're pleased to see that Apple continues to use the battery from the iPad 5 here\\u2014model number A1484 with a 32.9 Wh capacity",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "url": "https://www.ifixit.com/api/2.0/guides/126291",
+      "archiveUrl": null,
+      "quote": "The battery is labeled A1484 and rated for 32.9 Wh",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "capacity_wh",
+      "value": 24.8,
+      "url": "https://www.gsmarena.com/apple_ipad_wi_fi-3828.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 6600 mAh battery (24.8 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "capacity_mah",
+      "value": 6600,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_wi_fi-3828.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 6600 mAh battery (24.8 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "process_nm",
+      "value": 45,
+      "url": "https://www.gsmarena.com/apple_ipad_wi_fi-3828.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A4 (45 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_wi_fi-3828.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "capacity_wh",
+      "value": 24.8,
+      "note": "(Wi-Fi + 3G page)",
+      "url": "https://www.gsmarena.com/apple_ipad_wi_fi_+_3g-3827.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 6600 mAh battery (24.8 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-1",
+      "field": "capacity_mah",
+      "value": 6600,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical (Wi-Fi + 3G page)",
+      "url": "https://www.gsmarena.com/apple_ipad_wi_fi_+_3g-3827.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 6600 mAh battery (24.8 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "capacity_wh",
+      "value": 25,
+      "url": "https://www.gsmarena.com/apple_ipad_2_wi_fi-3847.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 6930 mAh battery (25 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "capacity_mah",
+      "value": 6930,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_2_wi_fi-3847.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 6930 mAh battery (25 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "process_nm",
+      "value": 45,
+      "url": "https://www.gsmarena.com/apple_ipad_2_wi_fi-3847.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A5 (45 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-2",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_2_wi_fi-3847.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "capacity_wh",
+      "value": 42.5,
+      "url": "https://www.gsmarena.com/apple_ipad_3_wi_fi-4621.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 11560 mAh battery (42.5 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "capacity_mah",
+      "value": 11560,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_3_wi_fi-4621.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Non-removable Li-Po 11560 mAh battery (42.5 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "process_nm",
+      "value": 45,
+      "url": "https://www.gsmarena.com/apple_ipad_3_wi_fi-4621.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A5X (45 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "release_date",
+      "value": "2012-03-16",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_3_wi_fi-4621.php",
+      "archiveUrl": null,
+      "quote": "Released 2012, March 16",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-3",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_3_wi_fi-4621.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "capacity_wh",
+      "value": 42.5,
+      "url": "https://www.gsmarena.com/apple_ipad_4_wi_fi-5072.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 11560 mAh, non-removable (42.5 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "capacity_mah",
+      "value": 11560,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_4_wi_fi-5072.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 11560 mAh, non-removable (42.5 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "process_nm",
+      "value": 32,
+      "url": "https://www.gsmarena.com/apple_ipad_4_wi_fi-5072.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A6X (32 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-4",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_4_wi_fi-5072.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8600 mAh, non-removable (32.4 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "capacity_mah",
+      "value": 8600,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8600 mAh, non-removable (32.4 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "process_nm",
+      "value": 28,
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A7 (28 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "release_date",
+      "value": "2013-10-22",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Announced 2013, October 22",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "release_date",
+      "value": "2013-11-01",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Released 2013, November 01",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "weight_g",
+      "value": 469,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Weight 469 g (Wi-Fi) / 478 g (3G/LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "weight_g",
+      "value": 478,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Weight 469 g (Wi-Fi) / 478 g (3G/LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_air-5797.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "capacity_wh",
+      "value": 27.62,
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 7340 mAh, non-removable (27.62 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "capacity_mah",
+      "value": 7340,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 7340 mAh, non-removable (27.62 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "process_nm",
+      "value": 20,
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A8X (20 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "release_date",
+      "value": "2014-10-16",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Announced 2014, October 16",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "release_date",
+      "value": "2014-10-24",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Released 2014, October 24",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "weight_g",
+      "value": 437,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Weight 437 g (Wi-Fi) / 444 g (3G/LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "weight_g",
+      "value": 444,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Weight 437 g (Wi-Fi) / 444 g (3G/LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_air_2-6742.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2017)-8620.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8827 mAh, non-removable (32.9 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "capacity_mah",
+      "value": 8827,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2017)-8620.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8827 mAh, non-removable (32.9 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "process_nm",
+      "value": 14,
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2017)-8620.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A9 (14 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "weight_g",
+      "value": 469,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2017)-8620.php",
+      "archiveUrl": null,
+      "quote": "Weight 469 g (Wi-Fi) / 478 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "weight_g",
+      "value": 478,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2017)-8620.php",
+      "archiveUrl": null,
+      "quote": "Weight 469 g (Wi-Fi) / 478 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-5",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2017)-8620.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8827 mAh, non-removable (32.9 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "capacity_mah",
+      "value": 8827,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8827 mAh, non-removable (32.9 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "process_nm",
+      "value": 16,
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A10 Fusion (16 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "release_date",
+      "value": "2018-03-27",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Announced 2018, March 27",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "release_date",
+      "value": "2018-03-27",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Released 2018, March 27",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "weight_g",
+      "value": 469,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Weight 469 g (Wi-Fi) / 478 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "weight_g",
+      "value": 478,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Weight 469 g (Wi-Fi) / 478 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-6",
+      "field": "display_in",
+      "value": 9.7,
+      "url": "https://www.gsmarena.com/apple_ipad_9_7_(2018)-9142.php",
+      "archiveUrl": null,
+      "quote": "Size 9.7 inches, 291.4 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "capacity_wh",
+      "value": 32.9,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8827 mAh, non-removable (32.9 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "capacity_mah",
+      "value": 8827,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 8827 mAh, non-removable (32.9 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "process_nm",
+      "value": 16,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A10 Fusion (16 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "release_date",
+      "value": "2019-09-12",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Announced 2019, September 12",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "release_date",
+      "value": "2019-09-21",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Released 2019, September 21",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "weight_g",
+      "value": 483,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Weight 483 g (Wi-Fi) / 493 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "weight_g",
+      "value": 493,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Weight 483 g (Wi-Fi) / 493 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-7",
+      "field": "display_in",
+      "value": 10.2,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2019)-9857.php",
+      "archiveUrl": null,
+      "quote": "Size 10.2 inches, 324.6 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Ion 8827 mAh (32.4 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "capacity_mah",
+      "value": 8827,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Ion 8827 mAh (32.4 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "process_nm",
+      "value": 7,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A12 Bionic (7 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "release_date",
+      "value": "2020-09-15",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Announced 2020, September 15",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "release_date",
+      "value": "2020-09-18",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Released 2020, September 18",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "weight_g",
+      "value": 490,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Weight 490 g (Wi-Fi) / 495 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "weight_g",
+      "value": 495,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Weight 490 g (Wi-Fi) / 495 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Type Retina IPS LCD, 500 nits (typ)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-8",
+      "field": "display_in",
+      "value": 10.2,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2020)-10445.php",
+      "archiveUrl": null,
+      "quote": "Size 10.2 inches, 324.6 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "capacity_wh",
+      "value": 32.4,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Ion 8557 mAh (32.4 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "capacity_mah",
+      "value": 8557,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Ion 8557 mAh (32.4 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "process_nm",
+      "value": 7,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A13 Bionic (7 nm+)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "release_date",
+      "value": "2021-09-14",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Announced 2021, September 14",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "release_date",
+      "value": "2021-09-24",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Released 2021, September 24",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "weight_g",
+      "value": 487,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Weight 487 g (Wi-Fi) / 498 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "weight_g",
+      "value": 498,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Weight 487 g (Wi-Fi) / 498 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Type Retina IPS LCD, 500 nits (typ)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-9",
+      "field": "display_in",
+      "value": 10.2,
+      "url": "https://www.gsmarena.com/apple_ipad_10_2_(2021)-11106.php",
+      "archiveUrl": null,
+      "quote": "Size 10.2 inches, 322.2 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "capacity_wh",
+      "value": 28.6,
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 7606 mAh (28.6 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "capacity_mah",
+      "value": 7606,
+      "kind": "rated",
+      "note": "GSMArena does not say rated or typical",
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po 7606 mAh (28.6 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "process_nm",
+      "value": 5,
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A14 Bionic (5 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "release_date",
+      "value": "2022-10-18",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Announced 2022, October 18",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "release_date",
+      "value": "2022-10-26",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Released 2022, October 26",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "weight_g",
+      "value": 477,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Weight 477 g (Wi-Fi) / 481 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "weight_g",
+      "value": 481,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Weight 477 g (Wi-Fi) / 481 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Type Liquid Retina IPS LCD, 500 nits (typ)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-10",
+      "field": "display_in",
+      "value": 10.9,
+      "url": "https://www.gsmarena.com/apple_ipad_(2022)-11941.php",
+      "archiveUrl": null,
+      "quote": "Size 10.9 inches, 359.2 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "capacity_wh",
+      "value": 28.93,
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Battery Type Li-Po (28.93 Wh)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "process_nm",
+      "value": 4,
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Chipset Apple A16 Bionic (4 nm)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "release_date",
+      "value": "2025-03-04",
+      "kind": "announced",
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Announced 2025, March 04",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "release_date",
+      "value": "2025-03-12",
+      "kind": "released",
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Released 2025, March 12",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "weight_g",
+      "value": 477,
+      "note": "Wi-Fi",
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Weight 477 g (Wi-Fi) / 481 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "weight_g",
+      "value": 481,
+      "note": "Wi-Fi + Cellular",
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Weight 477 g (Wi-Fi) / 481 g (LTE)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "brightness_nits",
+      "value": 500,
+      "kind": "typical",
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Type Liquid Retina IPS LCD, 500 nits (typ)",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "display_in",
+      "value": 11,
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Size 11.0 inches, 357.6 cm 2",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "charging_w",
+      "value": 45,
+      "url": "https://www.gsmarena.com/apple_ipad_(2025)-13702.php",
+      "archiveUrl": null,
+      "quote": "Charging 45W wired, PD",
+      "retrieved": "2026-10-03"
+    }
+  ],
+  "rejections": [
+    {
+      "device": "ipad-1",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-1",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-1",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-2",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-2",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-2",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-3",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-3",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-3",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-4",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-4",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-4",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-air",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-air",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-air",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-5",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-5",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-5",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-5",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-6",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-6",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-6",
+      "field": "brightness_nits",
+      "note": "Apple spec page and GSMArena give no nits figure for this model"
+    },
+    {
+      "device": "ipad-6",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-7",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-7",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-7",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-8",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-8",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-8",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-9",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-9",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-9",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-10",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-10",
+      "field": "charging_w",
+      "note": "Apple lists only the in-box adapter (10W/12W/20W), not the charge rate; GSMArena lists no wired rate"
+    },
+    {
+      "device": "ipad-10",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "refresh_hz",
+      "note": "Apple spec page does not state refresh rate (60 Hz implied, not written); GSMArena lists none"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "voltage_v",
+      "note": "no teardown/label text states the nominal voltage; Apple and GSMArena do not"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "capacity_mah",
+      "note": "no source states mAh"
+    },
+    {
+      "device": "ipad-air-2",
+      "field": "release_date",
+      "note": "Apple newsroom says only \"available starting later next week\" (orders Oct 17); no exact in-store date on the page; GSMArena date recorded instead"
+    },
+    {
+      "device": "ipad-5",
+      "field": "release_date",
+      "note": "Apple newsroom gives order date (Friday, March 24) only, not an in-store date; GSMArena gives month only (March 2017)"
+    },
+    {
+      "device": "ipad-6",
+      "field": "release_date",
+      "note": "Apple newsroom says \"arriving in stores later this week\"; no exact date; GSMArena date recorded instead"
+    },
+    {
+      "device": "ipad-7",
+      "field": "model_number",
+      "note": "APIS lists A2199 as \"iPad 7th Gen\" but Apple's identify page does not list A2199 for any iPad; not assigned"
+    },
+    {
+      "device": "ipad-8",
+      "field": "capacity_wh",
+      "note": "no iFixit teardown found for iPad 8 (API search)"
+    },
+    {
+      "device": "ipad-9",
+      "field": "capacity_wh",
+      "note": "no iFixit teardown found for iPad 9 (API search)"
+    },
+    {
+      "device": "ipad-10",
+      "field": "capacity_wh",
+      "note": "no iFixit teardown found for iPad 10 (API search)"
+    },
+    {
+      "device": "ipad-a16",
+      "field": "capacity_wh",
+      "note": "no iFixit teardown found for iPad (A16) (API search)"
+    }
+  ]
+}

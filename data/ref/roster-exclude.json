@@ -1,0 +1,6 @@
+{
+  "_doc": "Devices an agent researched that the spec's roster leaves out. Rows stay in data/rows; build-payload skips them.",
+  "devices": [
+    { "id": "iphone-duo", "reason": "Foldables are out of v1 (Pixel Fold excluded too); not on sale until 2026-10-23." }
+  ]
+}
