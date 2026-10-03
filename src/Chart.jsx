@@ -43,6 +43,11 @@ function Popover({ d, metric, pos, pinned, onClose }) {
           {metric === 'wh' ? TIER_WORDS[d.whSrc?.tier] ?? d.whSrc?.tier : `${d.runtime.grade} · ${GRADE_WORDS[d.runtime.grade]}`}
         </span>
       </div>
+      {metric === 'h' && d.runtime.pick === 'max' && d.runtime.n > 1 && (
+        <div className="pop-meta">
+          longest of {d.runtime.n} tested configs; others {d.runtime.sources.slice(1).map((s) => hm(s.value)).join(', ')}
+        </div>
+      )}
       {metric === 'h' && d.wh != null && <div className="pop-meta">{d.wh} Wh battery</div>}
       {metric === 'wh' && d.runtime && d.category !== 'watch' && <div className="pop-meta">{hm(d.runtime.value)} of browsing ({d.runtime.grade})</div>}
       {src?.quote && (

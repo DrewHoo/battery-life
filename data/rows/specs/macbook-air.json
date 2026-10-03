@@ -5435,61 +5435,618 @@
    "quote": "the 15-inch MacBook Air with M5 starts at $1,299 (U.S.)",
    "retrieved": "2026-10-03",
    "note": "16GB, 512GB"
+  },
+  {
+   "device": "macbook-air-13-2008",
+   "field": "capacity_wh",
+   "value": 37,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-Subnotebook.7952.0.html",
+   "archiveUrl": null,
+   "quote": "37 Wh Lithium-Polymer, nicht selbst wechselbar",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2008",
+   "field": "brightness_nits",
+   "value": 354,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-Subnotebook.7952.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 354 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2009",
+   "field": "capacity_wh",
+   "value": 40,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-Mid-2009-MC234-A.20957.0.html",
+   "archiveUrl": null,
+   "quote": "40 Wh Lithium-Polymer, nicht wechselbar",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2009",
+   "field": "brightness_nits",
+   "value": 340,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-Mid-2009-MC234-A.20957.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 340 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-11-2010",
+   "field": "capacity_wh",
+   "value": 35,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Zoll-2010-Subnotebook.39984.0.html",
+   "archiveUrl": null,
+   "quote": "35 Wh Lithium-Polymer, fest verbaut, 7.3V",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2010",
+   "field": "voltage_v",
+   "value": 7.3,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Zoll-2010-Subnotebook.39984.0.html",
+   "archiveUrl": null,
+   "quote": "35 Wh Lithium-Polymer, fest verbaut, 7.3V",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2010",
+   "field": "brightness_nits",
+   "value": 340,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Zoll-2010-Subnotebook.39984.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 340 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2010",
+   "field": "capacity_wh",
+   "value": 50,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Zoll-2010-Subnotebook.39985.0.html",
+   "archiveUrl": null,
+   "quote": "50 Wh Lithium-Polymer, fest verbaut",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2010",
+   "field": "brightness_nits",
+   "value": 341,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Zoll-2010-Subnotebook.39985.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 341 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-11-2011",
+   "field": "capacity_wh",
+   "value": 35,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2011-1-6-GHz-128-GB-SSD-Subnotebook.60181.0.html",
+   "archiveUrl": null,
+   "quote": "35 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2011",
+   "field": "brightness_nits",
+   "value": 355,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2011-1-6-GHz-128-GB-SSD-Subnotebook.60181.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 355 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2011",
+   "field": "capacity_wh",
+   "value": 50,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Mid-2011-1-7-GHz-256-GB-SSD-Subnotebook.59563.0.html",
+   "archiveUrl": null,
+   "quote": "50 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2011",
+   "field": "brightness_nits",
+   "value": 322,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Mid-2011-1-7-GHz-256-GB-SSD-Subnotebook.59563.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 322 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-11-2012",
+   "field": "capacity_wh",
+   "value": 35,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2012-Subnotebook.77371.0.html",
+   "archiveUrl": null,
+   "quote": "35 Wh Lithium-Polymer, 14.85 Volt, integriert",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2012",
+   "field": "voltage_v",
+   "value": 14.85,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2012-Subnotebook.77371.0.html",
+   "archiveUrl": null,
+   "quote": "35 Wh Lithium-Polymer, 14.85 Volt, integriert",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2012",
+   "field": "brightness_nits",
+   "value": 353,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2012-Subnotebook.77371.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 353 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2012",
+   "field": "capacity_wh",
+   "value": 50,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Mid-2012-Subnotebook.77213.0.html",
+   "archiveUrl": null,
+   "quote": "50 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2012",
+   "field": "brightness_nits",
+   "value": 295,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Mid-2012-Subnotebook.77213.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 295 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-11-2013",
+   "field": "capacity_wh",
+   "value": 38,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2013-MD711D-A-Subnotebook.94078.0.html",
+   "archiveUrl": null,
+   "quote": "38 Wh Lithium-Polymer, nicht zugänglich",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2013",
+   "field": "brightness_nits",
+   "value": 357,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-Mid-2013-MD711D-A-Subnotebook.94078.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 357 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-11-2013",
+   "field": "capacity_wh",
+   "value": 38,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-inch-Mid-2013-1-7-GHz-256-GB-Subnotebook.96277.0.html",
+   "archiveUrl": null,
+   "quote": "38 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2013",
+   "field": "capacity_wh",
+   "value": 50,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Mid-2013-MD760D-A-Subnotebook.94094.0.html",
+   "archiveUrl": null,
+   "quote": "50 Wh Lithium-Polymer, Akku fest verbaut",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2013",
+   "field": "brightness_nits",
+   "value": 295,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-Mid-2013-MD760D-A-Subnotebook.94094.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 295 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2014",
+   "field": "capacity_wh",
+   "value": 54,
+   "url": "https://www.notebookcheck.com/Test-Update-Apple-MacBook-Air-13-MD761D-B-2014-06-Notebook.119015.0.html",
+   "archiveUrl": null,
+   "quote": "54 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2014",
+   "field": "brightness_nits",
+   "value": 280,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Update-Apple-MacBook-Air-13-MD761D-B-2014-06-Notebook.119015.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 280 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-11-2015",
+   "field": "capacity_wh",
+   "value": 38,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-inch-2015-03-Notebook.141147.0.html",
+   "archiveUrl": null,
+   "quote": "38 Wh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-11-2015",
+   "field": "brightness_nits",
+   "value": 368,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-11-inch-2015-03-Notebook.141147.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 368 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2017",
+   "field": "capacity_wh",
+   "value": 54,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-2017-Laptop-1-8-GHz.226830.0.html",
+   "archiveUrl": null,
+   "quote": "54 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2017",
+   "field": "brightness_nits",
+   "value": 345,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-13-2017-Laptop-1-8-GHz.226830.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 345 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2018",
+   "field": "capacity_wh",
+   "value": 50.3,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2018-i5-256-GB-Laptop.355576.0.html",
+   "archiveUrl": null,
+   "quote": "50.3 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2018",
+   "field": "brightness_nits",
+   "value": 323,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2018-i5-256-GB-Laptop.355576.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 323 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2019",
+   "field": "capacity_wh",
+   "value": 49.9,
+   "url": "https://www.notebookcheck.com/Apple-Macbook-Air-2019-im-Test-Jetzt-mit-True-Tone-aber-weiterhin-nervigem-Luefter.452453.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2019",
+   "field": "brightness_nits",
+   "value": 421,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-Macbook-Air-2019-im-Test-Jetzt-mit-True-Tone-aber-weiterhin-nervigem-Luefter.452453.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 421 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2020-intel",
+   "field": "capacity_wh",
+   "value": 49.9,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-2020-im-Test-Ist-der-Core-i3-die-bessere-Wahl.464916.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2020-intel",
+   "field": "brightness_nits",
+   "value": 416,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-2020-im-Test-Ist-der-Core-i3-die-bessere-Wahl.464916.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 416 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2020-intel",
+   "field": "capacity_wh",
+   "value": 49.9,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2020-Core-i5-Das-beste-MacBook-auf-dem-Markt-Nein.459755.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2020-intel",
+   "field": "brightness_nits",
+   "value": 433,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2020-Core-i5-Das-beste-MacBook-auf-dem-Markt-Nein.459755.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 433 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2020-m1",
+   "field": "capacity_wh",
+   "value": 49.9,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2020-M1-Entry-Apple-M1-CPU-demuetigt-Intel-und-AMD.506560.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh, 4380 mAh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2020-m1",
+   "field": "capacity_mah",
+   "value": 4380,
+   "kind": "rated",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2020-M1-Entry-Apple-M1-CPU-demuetigt-Intel-und-AMD.506560.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh, 4380 mAh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table; rated vs typical not stated"
+  },
+  {
+   "device": "macbook-air-13-2020-m1",
+   "field": "brightness_nits",
+   "value": 417,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-2020-M1-Entry-Apple-M1-CPU-demuetigt-Intel-und-AMD.506560.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 417 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2020-m1",
+   "field": "capacity_wh",
+   "value": 49.9,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-2020-im-Test-Lohnt-sich-die-staerkere-Version-des-neuen-M1-Prozessors.511100.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh, 4380 mAh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2020-m1",
+   "field": "capacity_mah",
+   "value": 4380,
+   "kind": "rated",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-2020-im-Test-Lohnt-sich-die-staerkere-Version-des-neuen-M1-Prozessors.511100.0.html",
+   "archiveUrl": null,
+   "quote": "49.9 Wh, 4380 mAh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table; rated vs typical not stated"
+  },
+  {
+   "device": "macbook-air-13-2022-m2",
+   "field": "capacity_wh",
+   "value": 52.6,
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-M2-Entry-Das-sehr-gute-aber-zu-teure-Alltags-MacBook.634683.0.html",
+   "archiveUrl": null,
+   "quote": "52.6 Wh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2022-m2",
+   "field": "brightness_nits",
+   "value": 526,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Test-Apple-MacBook-Air-M2-Entry-Das-sehr-gute-aber-zu-teure-Alltags-MacBook.634683.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 526 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2022-m2",
+   "field": "capacity_wh",
+   "value": 52.6,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-M2-im-Test-Die-schnellere-10-Kern-GPU-lohnt-sich-nicht.636683.0.html",
+   "archiveUrl": null,
+   "quote": "52.6 Wh Lithium-Ion",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-15-2023-m2",
+   "field": "capacity_wh",
+   "value": 66.5,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-2023-M2-im-Test-Das-Alltags-MacBook-jetzt-in-15-Zoll.725721.0.html",
+   "archiveUrl": null,
+   "quote": "66.5 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-15-2023-m2",
+   "field": "brightness_nits",
+   "value": 517,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-2023-M2-im-Test-Das-Alltags-MacBook-jetzt-in-15-Zoll.725721.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 517 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2024-m3",
+   "field": "capacity_wh",
+   "value": 52.6,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-13-M3-im-Test-Deutlich-schneller-und-mit-Wi-Fi-6E.809897.0.html",
+   "archiveUrl": null,
+   "quote": "52.6 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2024-m3",
+   "field": "brightness_nits",
+   "value": 525,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-13-M3-im-Test-Deutlich-schneller-und-mit-Wi-Fi-6E.809897.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 525 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-15-2024-m3",
+   "field": "capacity_wh",
+   "value": 66.5,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-M3-im-Test-Apples-grosses-Alltags-MacBook-bekommt-mehr-Leistung.809901.0.html",
+   "archiveUrl": null,
+   "quote": "66.5 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-15-2024-m3",
+   "field": "brightness_nits",
+   "value": 527,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-M3-im-Test-Apples-grosses-Alltags-MacBook-bekommt-mehr-Leistung.809901.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 527 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2025-m4",
+   "field": "capacity_wh",
+   "value": 53.8,
+   "url": "https://www.notebookcheck.com/Der-passiv-gekuehlte-M4-SoC-laesst-die-Konkurrenz-alt-aussehen-Apple-MacBook-Air-13-M4-Entry-im-Test.1001975.0.html",
+   "archiveUrl": null,
+   "quote": "53.8 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-15-2025-m4",
+   "field": "capacity_wh",
+   "value": 66.5,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-M4-im-Test-Der-luefterlose-M4-SoC-ist-der-Konkurrenz-um-Jahre-voraus.973111.0.html",
+   "archiveUrl": null,
+   "quote": "66.5 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-15-2025-m4",
+   "field": "brightness_nits",
+   "value": 546,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-M4-im-Test-Der-luefterlose-M4-SoC-ist-der-Konkurrenz-um-Jahre-voraus.973111.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 546 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-13-2026-m5",
+   "field": "capacity_wh",
+   "value": 53.8,
+   "url": "https://www.notebookcheck.com/Unglaubliche-Leistung-und-Effizienz-ohne-Luefter-Apple-MacBook-Air-13-M5-Entry-Test.1244733.0.html",
+   "archiveUrl": null,
+   "quote": "53.8 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-13-2026-m5",
+   "field": "brightness_nits",
+   "value": 546,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Unglaubliche-Leistung-und-Effizienz-ohne-Luefter-Apple-MacBook-Air-13-M5-Entry-Test.1244733.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 546 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
+  },
+  {
+   "device": "macbook-air-15-2026-m5",
+   "field": "capacity_wh",
+   "value": 66.5,
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-M5-Test-Extrem-leistungsstark-luefterlos-und-ohne-Konkurrenz.1245705.0.html",
+   "archiveUrl": null,
+   "quote": "66.5 Wh Lithium-Polymer",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck spec table (German edition)"
+  },
+  {
+   "device": "macbook-air-15-2026-m5",
+   "field": "brightness_nits",
+   "value": 538,
+   "kind": "measured",
+   "url": "https://www.notebookcheck.com/Apple-MacBook-Air-15-M5-Test-Extrem-leistungsstark-luefterlos-und-ohne-Konkurrenz.1245705.0.html",
+   "archiveUrl": null,
+   "quote": "Maximal: 538 cd/m² (Nits)",
+   "retrieved": "2026-10-03",
+   "note": "Notebookcheck measured maximum"
   }
  ],
  "rejections": [
   {
-   "device": "macbook-air-13-2008",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
    "device": "macbook-air-13-2008-late",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2009",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-11-2010",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2010",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-11-2011",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2011",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-11-2012",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2012",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-11-2013",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2013",
    "field": "brightness_nits",
    "note": "Apple spec page gives no nits figure"
   },
@@ -5499,41 +6056,11 @@
    "note": "Apple spec page gives no nits figure"
   },
   {
-   "device": "macbook-air-13-2014",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-11-2015",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
    "device": "macbook-air-13-2015",
    "field": "brightness_nits",
    "note": "Apple spec page gives no nits figure"
   },
   {
-   "device": "macbook-air-13-2017",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2018",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2019",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
-   "device": "macbook-air-13-2020-intel",
-   "field": "brightness_nits",
-   "note": "Apple spec page gives no nits figure"
-  },
-  {
    "device": "macbook-air-13-2008",
    "field": "charging_w",
    "note": "Apple lists only the bundled adapter wattage (and a fast-charge adapter for 2022+), not the actual charge rate"
@@ -5622,11 +6149,6 @@
    "device": "macbook-air-11-2010",
    "field": "process_nm",
    "note": "Apple spec page and press release name the CPU but not its process node"
-  },
-  {
-   "device": "macbook-air-11-2010",
-   "field": "voltage_v",
-   "note": "no teardown or label text with nominal voltage found for this battery (iFixit teardown checked where one exists; Apple and EveryMac give Wh only)"
   },
   {
    "device": "macbook-air-11-2010",
@@ -5722,11 +6244,6 @@
    "device": "macbook-air-11-2012",
    "field": "process_nm",
    "note": "Apple spec page and press release name the CPU but not its process node"
-  },
-  {
-   "device": "macbook-air-11-2012",
-   "field": "voltage_v",
-   "note": "no teardown or label text with nominal voltage found for this battery (iFixit teardown checked where one exists; Apple and EveryMac give Wh only)"
   },
   {
    "device": "macbook-air-11-2012",
@@ -5972,11 +6489,6 @@
    "device": "macbook-air-13-2020-m1",
    "field": "voltage_v",
    "note": "no teardown or label text with nominal voltage found for this battery (iFixit teardown checked where one exists; Apple and EveryMac give Wh only)"
-  },
-  {
-   "device": "macbook-air-13-2020-m1",
-   "field": "capacity_mah",
-   "note": "no source with mAh for this battery found (Apple, EveryMac give Wh only)"
   },
   {
    "device": "macbook-air-13-2022-m2",

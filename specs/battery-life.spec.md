@@ -36,6 +36,8 @@ Runtime evidence grades:
 | C | a third-party browsing test at uncalibrated brightness: AnandTech 2007–2011, Notebookcheck before mid-2012 | AnandTech iPhone 3G, "approximately 50%" |
 | D | a manufacturer "up to" claim with a browsing workload | "Internet use: Up to 6 hours" (original iPhone) |
 
+When a device has several results at its best grade, phones and tablets show the median. Laptops show the longest-running tested config: Notebookcheck often reviewed one model with two or three panels, and the panel moves runtime up to 2x (X1 Carbon Gen 10: 5h 00m OLED, 10h 10m IPS), so a median describes no real machine. The popover lists the other configs. Only Notebookcheck's v1.3 script counts once it existed (2015-03-05); a review that also reports the old script loses that row through `data/ref/corrections.json`.
+
 The runtime chart plots A by default. B through D render as recessive marks and are labeled in the popover. A device gets its best available grade as its point, and every other candidate stays in the data. Where a device has both an A and a D (2012 onward), the coverage report computes measured ÷ claimed per brand, which tells the reader how far to trust the D-only years.
 
 Watches don't fit this definition. No outlet runs a consistent watch runtime test; reviewers wear them for a day or two and report "48 hours". So watches appear on the capacity chart and get their own runtime view built from manufacturer claims (Apple's "18 hours of normal daily use" with its footnoted usage mix), clearly labeled D. Putting a watch's mixed-use hours on the same axis as a phone's screen-on hours would be a lie.

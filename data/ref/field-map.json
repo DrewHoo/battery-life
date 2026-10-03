@@ -1,0 +1,5 @@
+{
+  "_doc": "Per-line field renames applied before the pick, so every line uses the phone convention: depth_mm is thickness, height_mm is the long front-to-back side. The macbook-pro and x1-carbon agents followed the maker's labels (height = thickness); the macbook-air and xps-13 agents already mapped by meaning.",
+  "macbook-pro": { "height_mm": "depth_mm", "depth_mm": "height_mm" },
+  "x1-carbon": { "height_mm": "depth_mm", "depth_mm": "height_mm" }
+}

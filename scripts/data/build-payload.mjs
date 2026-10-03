@@ -79,13 +79,21 @@ for (const r of J('data/rows/bulk/gsmarena-battery.json').rows) {
   if (ids.length === 1) rows.push({ ...r, device: ids[0] })
 }
 
+// Per-line field renames (data/ref/field-map.json), before anything picks.
+const fieldMap = J('data/ref/field-map.json')
+for (const r of rows) {
+  const m = fieldMap[devices.get(r.device)?.line]
+  if (m?.[r.field]) r.field = m[r.field]
+}
+
 // ---- corrections ---------------------------------------------------------
 const matches = (c, r) =>
   (!c.device || c.device === r.device) &&
   (!c.modelNumber || c.modelNumber === r.modelNumber) &&
   (!c.field || c.field === r.field) &&
   (!c.source || c.source === r.source) &&
-  (!c.urlIncludes || (r.url ?? '').includes(c.urlIncludes))
+  (!c.urlIncludes || (r.url ?? '').includes(c.urlIncludes)) &&
+  (!c.raw || c.raw === r.raw)
 const used = new Set()
 const live = rows.filter((r) => {
   const c = corrections.exclude.find((c) => matches(c, r))
@@ -198,8 +206,15 @@ for (const dev of devices.values()) {
   const bestRows = rt.filter((r) => r.grade === best)
   const claims = f('claimed_runtime_h').map((r) => ({ ...r, value: +r.value })).sort(byRank)
   const claimWeb = claims.find((r) => r.kind === 'internet_wifi')
+  const pickRule = grades.pick[dev.category] ?? grades.pick.default
+  const rtSrc = (r) => ({ ...src(r), outlet: r.outlet, raw: r.raw, testDate: r.testDate, brightnessNits: r.brightnessNits, note: r.note })
   const runtime = best
-    ? { value: +median(bestRows.map((r) => r.value)).toFixed(2), grade: best, n: bestRows.length, sources: bestRows.map((r) => ({ ...src(r), outlet: r.outlet, raw: r.raw, testDate: r.testDate, brightnessNits: r.brightnessNits })) }
+    ? pickRule === 'max'
+      ? (() => {
+          const top = bestRows.reduce((a, b) => (b.value > a.value ? b : a))
+          return { value: top.value, grade: best, n: bestRows.length, pick: 'max', sources: [top, ...bestRows.filter((r) => r !== top)].map(rtSrc) }
+        })()
+      : { value: +median(bestRows.map((r) => r.value)).toFixed(2), grade: best, n: bestRows.length, pick: 'median', sources: bestRows.map(rtSrc) }
     : claimWeb
       ? { value: claimWeb.value, grade: 'D', n: 1, sources: [src(claimWeb)] }
       : null

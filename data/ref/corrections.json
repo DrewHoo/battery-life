@@ -10,6 +10,16 @@
         "url": "https://www.ifixit.com/Teardown/Apple+Watch+Teardown/40655",
         "quote": "This wee 3.8 V, 0.78 Wh lithium-ion battery is the power behind the 38 mm Apple Watch."
       }
+    },
+    {
+      "device": "x1-carbon-gen-3",
+      "field": "runtime_h",
+      "raw": "6h 41min",
+      "reason": "Same review ran Notebookcheck's pre-2015 WLAN script alongside the v1.3 script (2015-03-05) that defines the current protocol; keep the v1.3 result (4h 45min).",
+      "receipt": {
+        "url": "https://www.notebookcheck.com/Test-Lenovo-ThinkPad-X1-Carbon-Early-2015-Ultrabook.138982.0.html",
+        "quote": "Unser alter WLAN-Test ergab eine bessere Laufzeit von 6:41 Stunden"
+      }
     }
   ],
   "patch": []
