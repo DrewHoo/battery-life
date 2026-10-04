@@ -449,7 +449,54 @@
       "quote": "WiFi Websurfing (Chrome 140) 21h 06min",
       "retrieved": "2026-10-03",
       "note": "Notebookcheck German edition (notebookcheck.com, same lab); English notebookcheck.net returns 403 live. English edition: https://www.notebookcheck.net/Google-Pixel-10-Pro-Smartphone-Review-Compact-AI-monster-with-top-cameras.1129342.0.html."
+    },
+    {
+      "device": "pixel-10-pro-xl",
+      "field": "runtime_h",
+      "value": 19.18,
+      "outlet": "notebookcheck",
+      "raw": "19h 11min",
+      "testDate": "2025-09-20",
+      "brightnessNits": 150,
+      "network": "wifi",
+      "url": "https://www.notebookcheck.net/Google-Pixel-10-Pro-XL-Smartphone-Review-Gorgeous-flagship-that-offers-a-great-Android-experience-with-one-Achilles-heel.1100253.0.html",
+      "archiveUrl": "https://web.archive.org/web/20260224035308id_/https://www.notebookcheck.net/Google-Pixel-10-Pro-XL-Smartphone-Review-Gorgeous-flagship-that-offers-a-great-Android-experience-with-one-Achilles-heel.1100253.0.html",
+      "quote": "WiFi Websurfing 19h 11min",
+      "retrieved": "2026-10-03",
+      "protocolQuote": "Combined with Tensor G5's efficiency improvements, this translates to a meaningful 16% gain in battery life in our standardized WLAN web browsing test at 150 nits.",
+      "note": "English edition via Wayback (Feb 2026 capture); no German in-house edition found. Review by Vaidyanathan Subramaniam, 'Published 09/20/2025'. Box also lists 'WiFi Websurfing max. Brightness 7h 30min', not used. Tensor G5 (single SoC)."
     }
   ],
-  "rejections": []
+  "rejections": [
+    {
+      "device": "pixel",
+      "field": "runtime_h",
+      "note": "No Notebookcheck in-house review of the 5-inch Pixel (2016): the German Pixel series and Google-Pixel-2016 collection pages (notebookcheck.com/Google-Pixel-Serie.180031, /Google-Pixel-2016.180019) link only the Pixel XL test; English search found only the Pixel XL review and the external-reviews collection. No AnandTech review text result checked/found. GSMArena covered in bulk."
+    },
+    {
+      "device": "pixel-11",
+      "field": "runtime_h",
+      "note": "No Notebookcheck review yet: notebookcheck.com/Google-Pixel-11-Serie-Tests.1373145 and the English collection pages list only external reviews and news (durability, charging, benchmarks); no WiFi Websurfing result on any fetched page. GSMArena covered in bulk."
+    },
+    {
+      "device": "pixel-11-pro",
+      "field": "runtime_h",
+      "note": "No Notebookcheck review yet: notebookcheck.com/Google-Pixel-11-Serie-Tests.1373145 and English 'Google Pixel 11 Pro - Reviews and Specs' collection list only external reviews and news. GSMArena covered in bulk."
+    },
+    {
+      "device": "pixel-11-pro-xl",
+      "field": "runtime_h",
+      "note": "No Notebookcheck review yet: only news (scratch-test, charging test notebookcheck.com/...1381510 has no WLAN runtime) and the external-reviews collection. GSMArena covered in bulk."
+    },
+    {
+      "device": "galaxy-s-s",
+      "field": "runtime_h",
+      "note": "No Notebookcheck review of the GT-I9000 (German and English Galaxy series collection pages list no Galaxy S / I9000 test). AnandTech only reviewed US carrier variants (Epic 4G, Fascinate); the Fascinate battery page (anandtech.com/show/3957/.../8, Wayback 2011-01-09) gives WiFi browsing at 50% brightness only as chart images, no number in text, and it is a different (Verizon CDMA) model anyway. GSMArena table starts 2012."
+    },
+    {
+      "device": "galaxy-s-s2",
+      "field": "runtime_h",
+      "note": "No Notebookcheck review of the GT-I9100 (only the S2 Plus i9105P). AnandTech international review battery page (anandtech.com/show/4686/.../18, Wayback 2011-09-23) states the 200-nit protocol but the 'WiFi Web Browsing Battery Life' result is a chart image (graph4686/41018.png) with no number in page text."
+    }
+  ]
 }

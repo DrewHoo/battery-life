@@ -15,6 +15,8 @@ export const C = {
 }
 
 const SYMBOL = { phone: 'circle', tablet: 'square', watch: 'triangle', laptop: 'diamond' }
+// Object.groupBy is missing from Node 20 (CI) and pre-2024 mobile Safari.
+const groupBy = (xs, key) => xs.reduce((m, x) => ((m[key(x)] ??= []).push(x), m), {})
 const median = (xs) => {
   const s = [...xs].sort((a, b) => a - b)
   return s.length % 2 ? s[(s.length - 1) / 2] : (s[s.length / 2 - 1] + s[s.length / 2]) / 2
@@ -25,8 +27,8 @@ const median = (xs) => {
 // Points sit at the mean release date of that year's devices.
 export function trends(devices, metric) {
   const out = []
-  for (const [series, ds] of Object.entries(Object.groupBy(devices, (d) => d.series))) {
-    const pts = Object.values(Object.groupBy(ds, (d) => d.date.slice(0, 4)))
+  for (const [series, ds] of Object.entries(groupBy(devices, (d) => d.series))) {
+    const pts = Object.values(groupBy(ds, (d) => d.date.slice(0, 4)))
       .map((g) => ({ series, t: g.reduce((a, d) => a + d.t, 0) / g.length, v: median(g.map((d) => valueOf(d, metric))) }))
       .sort((a, b) => a.t - b.t)
     out.push(...pts)
@@ -49,7 +51,7 @@ const niceMax = (v) => (v <= 2 ? Math.ceil(v * 4) / 4 : v <= 30 ? Math.ceil(v / 
 export function buildChart({ devices, metric, width, height, document, labels = true }) {
   const y = (d) => valueOf(d, metric)
   const tr = trends(devices, metric)
-  const last = Object.values(Object.groupBy(tr, (p) => p.series)).map((ps) => ps.at(-1))
+  const last = Object.values(groupBy(tr, (p) => p.series)).map((ps) => ps.at(-1))
   const wh = metric === 'wh'
   const yMax = Math.max(...devices.map(y), 1)
   const cats = new Set(devices.map((d) => d.category))

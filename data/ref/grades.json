@@ -6,6 +6,20 @@
       "outlet": [
         "notebookcheck"
       ],
+      "brightnessRange": [
+        140,
+        170
+      ],
+      "network": [
+        "wifi"
+      ],
+      "_why": "The review states its WLAN test ran at about 150 cd/m2 (2012 MacBook Air reviews state it in July, before the date cutoff)."
+    },
+    {
+      "grade": "A",
+      "outlet": [
+        "notebookcheck"
+      ],
       "testDateFrom": "2012-08-01",
       "network": [
         "wifi"

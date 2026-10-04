@@ -31,9 +31,9 @@ Runtime evidence grades:
 
 | grade | what | example |
 | --- | --- | --- |
-| A | Notebookcheck WLAN at 150 cd/m² | "WiFi Websurfing (Safari Mobile 16) 13h 27min" |
+| A | Notebookcheck WLAN at ~150 cd/m²: the review states 140–170 cd/m², or it's from Aug 2012 on, when the protocol was standard | "WiFi Websurfing (Safari Mobile 16) 13h 27min" |
 | B | another third-party browsing test at a calibrated brightness: AnandTech or GSMArena at 200 nits, Laptop Mag or Tom's Hardware at 150, Tom's Guide at 150 on cellular | AnandTech iPhone 5, 200 nits |
-| C | a third-party browsing test at uncalibrated brightness: AnandTech 2007–2011, Notebookcheck before mid-2012 | AnandTech iPhone 3G, "approximately 50%" |
+| C | a third-party browsing test at another or unstated brightness: AnandTech 2007–2011, Notebookcheck before mid-2012 (often run at maximum brightness) | AnandTech iPhone 3G, "approximately 50%" |
 | D | a manufacturer "up to" claim with a browsing workload | "Internet use: Up to 6 hours" (original iPhone) |
 
 When a device has several results at its best grade, phones and tablets show the median. Laptops show the longest-running tested config: Notebookcheck often reviewed one model with two or three panels, and the panel moves runtime up to 2x (X1 Carbon Gen 10: 5h 00m OLED, 10h 10m IPS), so a median describes no real machine. The popover lists the other configs. Only Notebookcheck's v1.3 script counts once it existed (2015-03-05); a review that also reports the old script loses that row through `data/ref/corrections.json`.
@@ -85,7 +85,7 @@ Facts are rows, not columns on the device. One row per (device, field, source):
 Judgment lives in versioned files, not in agents:
 
 - `data/ref/source-rank.json`: the capacity and runtime source ranks above.
-- `data/ref/grades.json`: outlet + date range + protocol → runtime grade. Notebookcheck before 2012-08 is C, after is A. A rule change re-grades the whole dataset.
+- `data/ref/grades.json`: outlet + stated brightness + date + network → runtime grade, plus the same-grade pick rule (median, or longest config for laptops). A rule change re-grades the whole dataset.
 - `data/ref/corrections.json`: evidence-backed patches and exclusions applied before the pick (the APIS iPhone 4 decimal). Each entry cites its receipt.
 
 `scripts/build-payload.mjs` joins roster + rows + rules into `src/data/payload.json`: one picked value per (device, field) plus the alternates.

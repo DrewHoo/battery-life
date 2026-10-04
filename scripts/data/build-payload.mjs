@@ -148,6 +148,7 @@ function gradeOf(r) {
     if (g.testDateFrom && !(r.testDate >= g.testDateFrom)) continue
     if (g.network && !g.network.includes(r.network)) continue
     if (g.brightnessNits && !g.brightnessNits.includes(r.brightnessNits)) continue
+    if (g.brightnessRange && !(r.brightnessNits >= g.brightnessRange[0] && r.brightnessNits <= g.brightnessRange[1])) continue
     return g.grade
   }
   return grades.default

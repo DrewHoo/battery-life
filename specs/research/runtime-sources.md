@@ -43,3 +43,10 @@ No calibrated-brightness browsing test exists for phones before ~2011–12. Anan
 ## Watches
 
 No comparable third-party test exists. Notebookcheck wears watches 24 h/day with all functions on (Galaxy Watch Ultra: "48 hours"). Wareable records "several cycles". DC Rainmaker is anecdotal. One-off screen-on lab tests exist (Apple Watch Ultra 3, 31h55m at 25% brightness) but nobody runs them consistently. Apple's "18 hours of normal daily use" claims, with footnoted test conditions, are the only consistent series.
+
+## Checked during the runtime pass
+
+- Notebookcheck's German edition (notebookcheck.com) serves every review live with HTTP 200, while notebookcheck.net is Cloudflare-walled and Wayback rate-limits this IP into connection refusals. The German reviews come from the same lab; their result boxes read "WiFi Websurfing (…)" or, before 2015, "Surfen über WLAN". Its "Specs und Testsammlung" series pages link every in-house review.
+- The iPhone 17 Pro's 24h 14min (vs the 16 Pro's 16h 23min, +48%) is not a protocol change: the review's own comparison table lists the 16 Pro at 16.4 h and 2025 Android flagships at 22–25 h (Galaxy S25 Ultra 22.2, Honor Magic7 Pro 24.7) under the same "WLAN (h)" heading.
+- Notebookcheck's pre-mid-2012 WLAN runs were often at maximum brightness (MacBook Air 2008–2011, the 15" MacBook Pro Late 2011) or half brightness (original iPad). They grade C.
+- Some Notebookcheck results were extrapolated from a partial run (iPad Air, iPad 3: "hochgerechnet"). Those aren't runs to shutdown and aren't used.
