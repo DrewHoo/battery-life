@@ -24,6 +24,10 @@ export const CATEGORIES = [
   ['laptop', 'laptops', 'laptops'],
 ]
 export const BRANDS = ['all', 'Apple', 'Samsung', 'Google', 'Dell', 'Lenovo']
+export const SCALES = [
+  ['linear', 'linear'],
+  ['log', 'log'],
+]
 export const METRICS = [
   ['h', 'battery life'],
   ['wh', 'battery capacity'],

@@ -1,10 +1,10 @@
 import { useEffect, useMemo, useState } from 'react'
 import Chart from './Chart.jsx'
 import Sentence from './Sentence.jsx'
-import { BRANDS, CATEGORIES, DEVICES, GENERATED, METRICS, select } from './lib/model.js'
+import { BRANDS, CATEGORIES, DEVICES, GENERATED, METRICS, SCALES, select } from './lib/model.js'
 import { readParam, writeParams } from './urlState.js'
 
-const DEFAULTS = { metric: 'h', cat: 'all', brand: 'all' }
+const DEFAULTS = { metric: 'h', cat: 'all', brand: 'all', scale: 'linear' }
 const SETUP = {
   h: 'Hours of continuous Wi-Fi web browsing, from a full charge to shutdown, screen at about 150 nits. Filled marks are lab tests at a fixed brightness; hollow ones are older tests or the maker’s claim.',
   wh: 'Watt-hours, from each maker’s battery shipping sheets, spec pages and teardowns. Filled marks come from the maker or a teardown; hollow ones from aggregators.',
@@ -14,11 +14,12 @@ export default function App() {
   const [view, setView] = useState(DEFAULTS)
 
   useEffect(() => {
-    const m = readParam('m'), c = readParam('c'), b = readParam('b')
+    const m = readParam('m'), c = readParam('c'), b = readParam('b'), sc = readParam('s')
     const next = { ...DEFAULTS }
     if (METRICS.some(([k]) => k === m)) next.metric = m
     if (CATEGORIES.some(([k]) => k === c)) next.cat = c
     if (BRANDS.includes(b)) next.brand = b
+    if (SCALES.some(([k]) => k === sc)) next.scale = sc
     if (next.metric === 'h' && next.cat === 'watch') next.cat = 'all'
     setView(next)
   }, [])
@@ -27,10 +28,10 @@ export default function App() {
     const next = { ...view, ...patch }
     if (next.metric === 'h' && next.cat === 'watch') next.cat = 'all'
     setView(next)
-    writeParams({ m: next.metric === DEFAULTS.metric ? null : next.metric, c: next.cat === 'all' ? null : next.cat, b: next.brand === 'all' ? null : next.brand })
+    writeParams({ m: next.metric === DEFAULTS.metric ? null : next.metric, c: next.cat === 'all' ? null : next.cat, b: next.brand === 'all' ? null : next.brand, s: next.scale === 'linear' ? null : next.scale })
     window.dhAnalytics?.track('View', next)
   }
-  const on = { metric: (metric) => update({ metric }), cat: (cat) => update({ cat }), brand: (brand) => update({ brand }) }
+  const on = { metric: (metric) => update({ metric }), cat: (cat) => update({ cat }), brand: (brand) => update({ brand }), scale: (scale) => update({ scale }) }
 
   const devices = useMemo(() => select(view), [view])
 
@@ -43,7 +44,7 @@ export default function App() {
       <h1>Battery Life</h1>
       <Sentence {...view} on={on} />
       <p className="setup">{SETUP[view.metric]}</p>
-      <Chart devices={devices} metric={view.metric} labels={view.cat !== 'all'} />
+      <Chart devices={devices} metric={view.metric} labels={view.cat !== 'all'} scale={view.scale} />
       <p className="legend">
         <span>● phone</span> <span>■ tablet</span> <span>▲ watch</span> <span>◆ laptop</span>
         <span className="legend-note">lines follow each product line at one size · tap a mark for its source</span>

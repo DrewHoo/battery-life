@@ -69,7 +69,7 @@ function Popover({ d, metric, pos, pinned, onClose }) {
   )
 }
 
-export default function Chart({ devices, metric, labels }) {
+export default function Chart({ devices, metric, labels, scale }) {
   const wrap = useRef(null)
   const host = useRef(null)
   const [width, setWidth] = useState(null)
@@ -79,7 +79,7 @@ export default function Chart({ devices, metric, labels }) {
   // First client render reuses the prerendered markup already in the page, so
   // hydration matches exactly; after mount the live chart replaces it.
   const [ssr] = useState(() =>
-    typeof document !== 'undefined' && document.getElementById('chart-ssr') ? document.getElementById('chart-ssr').innerHTML : ssrSvg({ devices, metric, labels }),
+    typeof document !== 'undefined' && document.getElementById('chart-ssr') ? document.getElementById('chart-ssr').innerHTML : ssrSvg({ devices, metric, labels, scale }),
   )
 
   useEffect(() => {
@@ -90,12 +90,12 @@ export default function Chart({ devices, metric, labels }) {
 
   useEffect(() => {
     if (!width) return
-    const fig = buildChart({ devices, metric, labels: labels && width > 560, width, height: heightFor(width), document })
+    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, width, height: heightFor(width), document })
     host.current.replaceChildren(fig)
     setPlot(fig)
     setHover(null)
     setPinned(null)
-  }, [devices, metric, labels, width])
+  }, [devices, metric, labels, scale, width])
 
   const pts = useMemo(() => {
     if (!plot) return []
@@ -147,7 +147,7 @@ export default function Chart({ devices, metric, labels }) {
           {linePts.map((p) => (
             <circle key={p.d.id} cx={p.px} cy={p.py} r="2" fill={C.rust} />
           ))}
-          <circle cx={focus.px} cy={focus.py} r="7.5" fill="none" stroke={C.rust} strokeWidth="1.5" />
+          <circle cx={focus.px} cy={focus.py} r={W < 560 ? 5 : 7.5} fill="none" stroke={C.rust} strokeWidth="1.5" />
         </svg>
       )}
       {focus && <Popover d={focus.d} metric={metric} pos={pos} pinned={!!pinned} onClose={() => setPinned(null)} />}

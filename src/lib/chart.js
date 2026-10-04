@@ -48,35 +48,39 @@ function spread(labels, x, y, gap = 12) {
 
 const niceMax = (v) => (v <= 2 ? Math.ceil(v * 4) / 4 : v <= 30 ? Math.ceil(v / 5) * 5 : Math.ceil(v / 20) * 20)
 
-export function buildChart({ devices, metric, width, height, document, labels = true }) {
+const LOG_TICKS = [0.2, 0.3, 0.5, 1, 2, 3, 5, 10, 20, 30, 50, 100]
+
+export function buildChart({ devices, metric, width, height, document, labels = true, scale = 'linear' }) {
+  const small = width < 560
   const y = (d) => valueOf(d, metric)
   const tr = trends(devices, metric)
   const last = Object.values(groupBy(tr, (p) => p.series)).map((ps) => ps.at(-1))
   const wh = metric === 'wh'
   const yMax = Math.max(...devices.map(y), 1)
-  const cats = new Set(devices.map((d) => d.category))
+  const yMin = Math.min(...devices.map(y))
+  const logDomain = [LOG_TICKS.findLast((t) => t <= yMin * 0.9) ?? 0.1, LOG_TICKS.find((t) => t >= yMax * 1.1) ?? 120]
   const fig = Plot.plot({
     document,
     width,
     height,
-    marginLeft: 40,
+    marginLeft: small ? 30 : 40,
     marginRight: labels ? 132 : 24,
     marginTop: 16,
     marginBottom: 28,
     style: { background: 'transparent', color: C.faint, fontFamily: "'IBM Plex Mono', monospace", fontSize: '10.5px', overflow: 'visible' },
     x: { type: 'utc', domain: [Date.UTC(2007, 0, 1), Date.UTC(2027, 0, 1)], ticks: 10, tickSize: 0, label: null },
-    y: wh && cats.size > 1
-      ? { type: 'log', domain: [cats.has('watch') ? 0.2 : cats.has('phone') ? 3 : 15, 120], ticks: [0.3, 1, 3, 10, 30, 100].filter((t) => t >= (cats.has('watch') ? 0.2 : cats.has('phone') ? 3 : 15)), tickFormat: (v) => `${v}`, label: 'Wh', grid: true, tickSize: 0 }
-      : { domain: [0, niceMax(yMax)], label: wh ? 'Wh' : 'hours', grid: true, tickSize: 0 },
+    y: wh && scale === 'log'
+      ? { type: 'log', domain: logDomain, ticks: LOG_TICKS.filter((t) => t >= logDomain[0] && t <= logDomain[1]), tickFormat: (v) => `${v}`, label: 'Wh', tickSize: 0 }
+      : { domain: [0, niceMax(yMax)], label: wh ? 'Wh' : 'hours', tickSize: 0 },
     symbol: { domain: ['phone', 'tablet', 'watch', 'laptop'], range: ['phone', 'tablet', 'watch', 'laptop'].map((c) => SYMBOL[c]) },
     marks: [
-      Plot.gridY({ stroke: C.line, strokeOpacity: 1, strokeDasharray: '1,3' }),
-      Plot.line(tr, { x: 't', y: 'v', z: 'series', stroke: C.faint, strokeWidth: 1, strokeOpacity: 0.8 }),
+      Plot.gridY(wh && scale === 'log' ? LOG_TICKS.filter((t) => t >= logDomain[0] && t <= logDomain[1]) : undefined, { stroke: C.line, strokeOpacity: 1, strokeDasharray: '1,3' }),
+      Plot.line(tr, { x: 't', y: 'v', z: 'series', stroke: C.faint, strokeWidth: small ? 0.7 : 1, strokeOpacity: 0.8 }),
       Plot.dot(devices, {
-        x: 't', y, symbol: 'category', r: 3.4,
+        x: 't', y, symbol: 'category', r: small ? 2.1 : 3.4,
         fill: (d) => (strongOf(d, metric) ? C.cream : C.bg),
         stroke: (d) => (strongOf(d, metric) ? C.cream : C.muted),
-        strokeWidth: 1.1,
+        strokeWidth: small ? 0.8 : 1.1,
         strokeOpacity: (d) => (!wh && d.runtime?.grade === 'D' ? 0.45 : 1),
       }),
       // End labels go through spread() after the scales exist, below.

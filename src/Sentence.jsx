@@ -1,7 +1,7 @@
 // "Show battery life for every device from every brand." Every word that can
 // change is a Radix dropdown, the same pattern as cfb-streak-king.
 import * as DM from '@radix-ui/react-dropdown-menu'
-import { BRANDS, CATEGORIES, METRICS } from './lib/model.js'
+import { BRANDS, CATEGORIES, METRICS, SCALES } from './lib/model.js'
 
 const Caret = () => (
   <svg width="9" height="9" viewBox="0 0 10 10" aria-hidden="true">
@@ -32,7 +32,7 @@ function Word({ label, options, value, onPick }) {
   )
 }
 
-export default function Sentence({ metric, cat, brand, on }) {
+export default function Sentence({ metric, cat, brand, scale, on }) {
   const cats = CATEGORIES.filter(([c]) => !(metric === 'h' && c === 'watch'))
   return (
     <p className="sentence">
@@ -46,6 +46,13 @@ export default function Sentence({ metric, cat, brand, on }) {
         value={brand}
         onPick={on.brand}
       />
+      {metric === 'wh' && (
+        <>
+          <span>on a</span>
+          <Word label={scale} options={SCALES} value={scale} onPick={on.scale} />
+          <span>scale</span>
+        </>
+      )}
     </p>
   )
 }
