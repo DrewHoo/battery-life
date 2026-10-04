@@ -81,7 +81,7 @@ const dots = (devices, metric, small, x, y, { brands = false, dim = false } = {}
   brands
     ? Plot.image(devices, {
         x, y, width: small ? 9 : 12, height: small ? 9 : 12,
-        src: (d) => brandIcon(d.brand, strongOf(d, metric) ? C.cream : C.faint, strongOf(d, metric)),
+        src: (d) => brandIcon(d.brand, strongOf(d, metric) ? C.cream : C.faint),
         opacity: dim ? 0.3 : 1,
       })
     : Plot.dot(devices, {
