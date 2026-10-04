@@ -1,7 +1,7 @@
 // "Show battery life for every device from every brand." Every word that can
 // change is a Radix dropdown, the same pattern as cfb-streak-king.
 import * as DM from '@radix-ui/react-dropdown-menu'
-import { BRANDS, CATEGORIES, METRICS, SCALES } from './lib/model.js'
+import { BRANDS, CATEGORIES, METRICS, SCALES, hasData } from './lib/model.js'
 
 const Caret = () => (
   <svg width="9" height="9" viewBox="0 0 10 10" aria-hidden="true">
@@ -33,16 +33,20 @@ function Word({ label, options, value, onPick }) {
 }
 
 export default function Sentence({ metric, cat, brand, scale, on }) {
-  const cats = CATEGORIES.filter(([c]) => !(metric !== 'wh' && c === 'watch'))
+  const view = { metric, cat, brand }
+  const ok = (patch) => hasData({ ...view, ...patch })
+  const metrics = METRICS.filter(([m]) => m === metric || ok({ metric: m }) || ok({ metric: m, cat: 'all' }))
+  const cats = CATEGORIES.filter(([c]) => c === cat || ok({ cat: c }))
+  const brands = BRANDS.filter((b) => b === brand || ok({ brand: b }))
   return (
     <p className="sentence">
-      <Word label={METRICS.find(([m]) => m === metric)[1]} options={METRICS} value={metric} onPick={on.metric} />
+      <Word label={METRICS.find(([m]) => m === metric)[1]} options={metrics} value={metric} onPick={on.metric} />
       <span>for</span>
       <Word label={CATEGORIES.find(([c]) => c === cat)[1]} options={cats.map(([c, , t]) => [c, t])} value={cat} onPick={on.cat} />
       <span>from</span>
       <Word
         label={brand === 'all' ? 'every brand' : brand}
-        options={BRANDS.map((b) => [b, b === 'all' ? 'every brand' : b])}
+        options={brands.map((b) => [b, b === 'all' ? 'every brand' : b])}
         value={brand}
         onPick={on.brand}
       />

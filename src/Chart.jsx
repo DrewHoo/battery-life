@@ -73,7 +73,7 @@ function Popover({ d, metric, pos, pinned, onClose }) {
   )
 }
 
-export default function Chart({ devices, metric, labels, scale }) {
+export default function Chart({ devices, metric, labels, scale, brands }) {
   const wrap = useRef(null)
   const host = useRef(null)
   const [width, setWidth] = useState(null)
@@ -83,7 +83,7 @@ export default function Chart({ devices, metric, labels, scale }) {
   // First client render reuses the prerendered markup already in the page, so
   // hydration matches exactly; after mount the live chart replaces it.
   const [ssr] = useState(() =>
-    typeof document !== 'undefined' && document.getElementById('chart-ssr') ? document.getElementById('chart-ssr').innerHTML : ssrSvg({ devices, metric, labels, scale }),
+    typeof document !== 'undefined' && document.getElementById('chart-ssr') ? document.getElementById('chart-ssr').innerHTML : ssrSvg({ devices, metric, labels, scale, brands }),
   )
 
   useEffect(() => {
@@ -94,20 +94,20 @@ export default function Chart({ devices, metric, labels, scale }) {
 
   useEffect(() => {
     if (!width) return
-    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, width, height: heightFor(metric, width), document })
+    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, brands, width, height: heightFor(metric, width), document })
     host.current.replaceChildren(fig)
     setPlot(fig)
     setHover(null)
     setPinned(null)
-  }, [devices, metric, labels, scale, width])
+  }, [devices, metric, labels, scale, brands, width])
 
   const pts = useMemo(() => {
-    if (!plot?.devicePos) return []
+    if (!plot?.devicePos || plot.metric !== metric) return []
     return devices.map((d) => {
       const [px, py] = plot.devicePos(d)
       return { d, px, py }
     })
-  }, [plot, devices])
+  }, [plot, devices, metric])
 
   const nearest = (e) => {
     const r = host.current.getBoundingClientRect()
@@ -131,7 +131,7 @@ export default function Chart({ devices, metric, labels, scale }) {
     if (p) window.dhAnalytics?.track('Device open', { id: p.d.id, metric })
   }
 
-  const focus = pinned ?? hover
+  const focus = plot?.metric === metric ? (pinned ?? hover) : null
   const linePts = focus ? pts.filter((p) => p.d.series === focus.d.series).sort((a, b) => a.d.t - b.d.t) : []
   const W = width ?? SSR_WIDTH
   const pos = focus ? { left: Math.min(Math.max(focus.px + 14, 0), W - 280), top: Math.max(focus.py - 20, 0) } : null

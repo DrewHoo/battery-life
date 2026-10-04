@@ -44,9 +44,12 @@ export function categoryTrends(devices) {
         const win = yearly.filter(([yy]) => Math.abs(yy - y) <= 1).map(([, v]) => v)
         return [y, mean(win)]
       })
-      const base = smooth.find(([y]) => y === BASE_YEAR)?.[1]
-      if (!base) continue
-      for (const [y, v] of smooth) out.push({ measure: m, cat, label, year: y, t: Date.UTC(y, 6, 1), value: v, index: v / base })
+      // Index against 2012, or the first year after it with data (Pixel
+      // starts in 2016); the end label names a later base year.
+      const baseRow = smooth.find(([y]) => y === BASE_YEAR) ?? smooth.find(([y]) => y > BASE_YEAR)
+      if (!baseRow) continue
+      const [baseYear, base] = baseRow
+      for (const [y, v] of smooth) out.push({ measure: m, cat, label, year: y, t: Date.UTC(y, 6, 1), value: v, index: v / base, baseYear })
     }
   }
   return out

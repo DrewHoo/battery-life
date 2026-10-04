@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import Chart from './Chart.jsx'
 import Sentence from './Sentence.jsx'
-import { BRANDS, CATEGORIES, DEVICES, GENERATED, METRICS, SCALES, select } from './lib/model.js'
+import { BRANDS, CATEGORIES, DEVICES, GENERATED, METRICS, SCALES, hasData, select } from './lib/model.js'
 import { readParam, writeParams } from './urlState.js'
 
 const DEFAULTS = { metric: 'trend', cat: 'all', brand: 'all', scale: 'linear' }
@@ -14,6 +14,10 @@ const SETUP = {
   wh: 'Watt-hours, from each maker’s battery shipping sheets, spec pages and teardowns. Filled marks come from the maker or a teardown; hollow ones from aggregators.',
 }
 
+// A view switch that leaves nothing to draw falls back to every device,
+// then every brand.
+const fit = (v) => (hasData(v) ? v : hasData({ ...v, cat: 'all' }) ? { ...v, cat: 'all' } : { ...v, cat: 'all', brand: 'all' })
+
 export default function App() {
   const [view, setView] = useState(DEFAULTS)
 
@@ -24,13 +28,13 @@ export default function App() {
     if (CATEGORIES.some(([k]) => k === c)) next.cat = c
     if (BRANDS.includes(b)) next.brand = b
     if (SCALES.some(([k]) => k === sc)) next.scale = sc
-    if (next.metric !== 'wh' && next.cat === 'watch') next.cat = 'all'
-    setView(next)
+    setView(fit(next))
   }, [])
 
   const update = (patch) => {
     const next = { ...view, ...patch }
-    if (next.metric !== 'wh' && next.cat === 'watch') next.cat = 'all'
+    const fitted = fit(next)
+    Object.assign(next, fitted)
     setView(next)
     writeParams({ m: next.metric === DEFAULTS.metric ? null : next.metric, c: next.cat === 'all' ? null : next.cat, b: next.brand === 'all' ? null : next.brand, s: next.scale === 'linear' ? null : next.scale })
     window.dhAnalytics?.track('View', next)
@@ -48,9 +52,9 @@ export default function App() {
       <h1>Battery Life</h1>
       <Sentence {...view} on={on} />
       <p className="setup">{SETUP[view.metric]}</p>
-      <Chart devices={devices} metric={view.metric} labels={view.cat !== 'all'} scale={view.scale} />
+      <Chart devices={devices} metric={view.metric} labels={view.cat !== 'all'} scale={view.scale} brands={view.brand === 'all'} />
       {view.metric !== 'trend' && <p className="legend">
-        <span>● phone</span> <span>■ tablet</span> <span>▲ watch</span> <span>◆ laptop</span>
+        {view.brand !== 'all' && <><span>● phone</span> <span>■ tablet</span> <span>▲ watch</span> <span>◆ laptop</span></>}
         <span className="legend-note">lines follow each product line at one size · tap a mark for its source</span>
       </p>}
     </main>

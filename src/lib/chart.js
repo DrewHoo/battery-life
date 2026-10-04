@@ -5,6 +5,7 @@
 import * as Plot from '@observablehq/plot'
 import { valueOf, strongOf } from './model.js'
 import { BASE_YEAR, MEASURES, categoryTrends } from './trends.js'
+import { brandIcon } from './brands.js'
 
 export const C = {
   bg: '#282127',
@@ -74,17 +75,26 @@ function addText(document, svg, items, attrs = {}) {
 const niceMax = (v) => (v <= 2 ? Math.ceil(v * 4) / 4 : v <= 30 ? Math.ceil(v / 5) * 5 : Math.ceil(v / 20) * 20)
 const LOG_TICKS = [0.2, 0.3, 0.5, 1, 2, 3, 5, 10, 20, 30, 50, 100]
 const SYMBOL_SCALE = { domain: ['phone', 'tablet', 'watch', 'laptop'], range: ['phone', 'tablet', 'watch', 'laptop'].map((c) => SYMBOL[c]) }
-const dots = (devices, metric, small, x, y) =>
-  Plot.dot(devices, {
-    x, y, symbol: 'category', r: small ? 2.1 : 3.4,
-    fill: (d) => (strongOf(d, metric) ? C.cream : C.bg),
-    stroke: (d) => (strongOf(d, metric) ? C.cream : C.muted),
-    strokeWidth: small ? 0.8 : 1.1,
-    strokeOpacity: (d) => (metric === 'h' && d.runtime?.grade === 'D' ? 0.45 : 1),
-  })
+// Device marks: brand icons when brands are mixed, category symbols when
+// one brand is shown. Weak evidence draws hollow (symbols) or dim (icons).
+const dots = (devices, metric, small, x, y, { brands = false, dim = false } = {}) =>
+  brands
+    ? Plot.image(devices, {
+        x, y, width: small ? 9 : 12, height: small ? 9 : 12,
+        src: (d) => brandIcon(d.brand, strongOf(d, metric) ? C.cream : C.faint, strongOf(d, metric)),
+        opacity: dim ? 0.3 : 1,
+      })
+    : Plot.dot(devices, {
+        x, y, symbol: 'category', r: small ? 2.1 : 3.4,
+        fill: (d) => (strongOf(d, metric) ? C.cream : C.bg),
+        stroke: (d) => (strongOf(d, metric) ? C.cream : C.muted),
+        strokeWidth: small ? 0.8 : 1.1,
+        strokeOpacity: (d) => (dim ? 0.35 : metric === 'h' && d.runtime?.grade === 'D' ? 0.45 : 1),
+        fillOpacity: dim ? 0.35 : 1,
+      })
 
 // ---- over time: battery life, capacity or power draw by release date ------
-function buildTimeline({ devices, metric, width, height, document, labels, scale }) {
+function buildTimeline({ devices, metric, width, height, document, labels, scale, brands }) {
   const small = width < 560
   const y = (d) => valueOf(d, metric)
   const tr = trends(devices, metric)
@@ -107,7 +117,7 @@ function buildTimeline({ devices, metric, width, height, document, labels, scale
     marks: [
       Plot.gridY(log ? logTicks : undefined, { stroke: C.line, strokeOpacity: 1, strokeDasharray: '1,3' }),
       Plot.line(tr, { x: 't', y: 'v', z: 'series', stroke: C.faint, strokeWidth: small ? 0.7 : 1, strokeOpacity: 0.8 }),
-      dots(devices, metric, small, 't', y),
+      dots(devices, metric, small, 't', y, { brands }),
     ],
   })
   const xs = fig.scale('x'), ys = fig.scale('y')
@@ -120,7 +130,7 @@ const CAT_STROKE = { phone: C.cream, laptop: C.rust, tablet: C.muted }
 
 // ---- capacity vs battery life, with lines of constant power draw ----------
 const ISO_W = [0.5, 1, 2, 5, 10, 20]
-function buildScatter({ devices, width, height, document }) {
+function buildScatter({ devices, width, height, document, brands }) {
   const small = width < 560
   const xDom = [3, 120], yDom = [2, 32]
   const iso = ISO_W.flatMap((w) => xDom.map((x) => ({ w, x, y: x / w })))
@@ -151,11 +161,12 @@ function buildScatter({ devices, width, height, document }) {
     symbol: SYMBOL_SCALE,
     marks: [
       Plot.line(iso, { x: 'x', y: 'y', z: 'w', stroke: C.faint, strokeOpacity: 0.5, strokeDasharray: '2,4', clip: true }),
-      Plot.line(trail, { x: 'x', y: 'y', z: 'series', stroke: C.faint, strokeWidth: small ? 0.5 : 0.7, strokeOpacity: 0.45, clip: true }),
-      dots(devices, 'vs', small, 'wh', (d) => d.runtime.value),
-      Plot.line(pathPts, { x: 'x', y: 'y', z: 'cat', stroke: C.bg, strokeWidth: small ? 5 : 6 }),
-      Plot.line(pathPts, { x: 'x', y: 'y', z: 'cat', stroke: (a) => CAT_STROKE[a.cat], strokeWidth: small ? 2 : 2.5 }),
-      Plot.dot(finals, { x: 'x', y: 'y', r: small ? 3.5 : 4.5, fill: (a) => CAT_STROKE[a.cat], stroke: C.bg, strokeWidth: 1.5 }),
+      Plot.line(trail, { x: 'x', y: 'y', z: 'series', stroke: C.faint, strokeWidth: small ? 0.5 : 0.7, strokeOpacity: 0.25, clip: true }),
+      dots(devices, 'vs', small, 'wh', (d) => d.runtime.value, { brands, dim: true }),
+      Plot.line(pathPts, { x: 'x', y: 'y', z: 'cat', stroke: C.bg, strokeWidth: small ? 7 : 9, strokeOpacity: 0.85 }),
+      Plot.line(pathPts, { x: 'x', y: 'y', z: 'cat', stroke: (a) => CAT_STROKE[a.cat], strokeWidth: small ? 3 : 3.5 }),
+      Plot.dot(pathPts, { x: 'x', y: 'y', r: small ? 2.5 : 3, fill: (a) => CAT_STROKE[a.cat], stroke: C.bg, strokeWidth: 1 }),
+      Plot.dot(finals, { x: 'x', y: 'y', r: small ? 4.5 : 6, fill: (a) => CAT_STROKE[a.cat], stroke: C.bg, strokeWidth: 2 }),
       ...[[starts, 'end', -8], [finals, 'start', 8]].map(([data, anchor, dx]) =>
         Plot.text(data, { x: 'x', y: 'y', text: 'text', textAnchor: anchor, dx, fill: (a) => CAT_STROKE[a.cat], stroke: C.bg, strokeWidth: 3, paintOrder: 'stroke', fontSize: small ? 9.5 : 10.5 }),
       ),
@@ -196,7 +207,7 @@ function buildTrends({ devices, width, height, document }) {
   }
   const fig = Plot.plot({
     document, width, height,
-    marginLeft: small ? 34 : 40, marginRight: small ? 112 : 104, marginTop: 30, marginBottom: 28,
+    marginLeft: small ? 34 : 40, marginRight: small ? 140 : 150, marginTop: 30, marginBottom: 28,
     style: STYLE(small),
     [facet]: { domain: MEASURES.map(([m]) => m), label: null, padding: small ? 0.3 : 0.42, axis: null },
     x: { type: 'utc', domain: [Date.UTC(2007, 0, 1), Date.UTC(2027, 0, 1)], ticks: [2010, 2015, 2020, 2025].map((y) => new Date(Date.UTC(y, 0, 1))), tickFormat: (t) => String(t.getUTCFullYear()), tickSize: 0, label: null },
@@ -208,7 +219,7 @@ function buildTrends({ devices, width, height, document }) {
       Plot.line(rows, { x: 't', y: 'index', z: 'cat', [facet]: 'measure', stroke: (r) => CAT_STROKE[r.cat], strokeWidth: 2, curve: 'monotone-x' }),
       Plot.text(ends, {
         x: 't', y: 'ly', [facet]: 'measure', dx: 6, textAnchor: 'start', fill: (r) => CAT_STROKE[r.cat],
-        text: (r) => `${r.label} ${fmtV(r.measure, r.value)} ${unit[r.measure]} · ${r.index.toFixed(1)}×`,
+        text: (r) => `${r.label} ${fmtV(r.measure, r.value)} ${unit[r.measure]} · ${r.index.toFixed(1)}×${r.baseYear !== BASE_YEAR ? ` since ${r.baseYear}` : ''}`,
         fontSize: small ? 9.5 : 10,
       }),
     ],
@@ -218,7 +229,9 @@ function buildTrends({ devices, width, height, document }) {
 }
 
 export function buildChart(props) {
-  if (props.metric === 'trend') return buildTrends(props)
-  if (props.metric === 'vs') return buildScatter(props)
-  return buildTimeline(props)
+  const fig = props.metric === 'trend' ? buildTrends(props) : props.metric === 'vs' ? buildScatter(props) : buildTimeline(props)
+  // The hover layer checks this, so it never pairs one view's devices with
+  // another view's positions during the render that switches views.
+  fig.metric = props.metric
+  return fig
 }

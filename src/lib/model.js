@@ -1,6 +1,7 @@
 // What the page knows about lines, categories and evidence. The payload is
 // built by scripts/data/build-payload.mjs; this file only labels it.
 import payload from '../data/payload.json'
+import { categoryTrends } from './trends.js'
 
 export const LINES = {
   iphone: { label: 'iPhone', brand: 'Apple', category: 'phone' },
@@ -87,3 +88,9 @@ export function select({ metric, cat, brand }) {
 
 export const valueOf = (d, metric) => (metric === 'wh' ? d.wh : metric === 'w' ? d.wh / d.runtime.value : d.runtime?.value)
 export const strongOf = (d, metric) => (metric === 'wh' ? STRONG_TIERS.has(d.whSrc?.tier) : d.runtime?.grade === 'A' || d.runtime?.grade === 'B')
+
+// Whether a view has anything to draw; the sentence hides options that don't.
+export const hasData = (view) => {
+  const ds = select(view)
+  return view.metric === 'trend' ? categoryTrends(ds).length > 0 : ds.length > 0
+}
