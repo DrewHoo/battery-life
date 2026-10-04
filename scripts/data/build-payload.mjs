@@ -250,7 +250,7 @@ for (const dev of devices.values()) {
 
 out.sort((a, b) => (a.date ?? '9999').localeCompare(b.date ?? '9999') || a.id.localeCompare(b.id))
 mkdirSync('src/data', { recursive: true })
-writeFileSync('src/data/payload.json', JSON.stringify({ generated: new Date().toISOString().slice(0, 10), devices: out }))
+writeFileSync('src/data/payload.json', JSON.stringify({ generated: new Date().toISOString().slice(0, 10), rows: live.length, devices: out }))
 mkdirSync('data/build', { recursive: true })
 writeFileSync('data/build/report.json', JSON.stringify({ ...report, rejections }, null, 1))
 console.log(

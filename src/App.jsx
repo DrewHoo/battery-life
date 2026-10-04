@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import Chart from './Chart.jsx'
 import Sentence from './Sentence.jsx'
+import Method from './Method.jsx'
 import { BRANDS, CATEGORIES, DEVICES, GENERATED, METRICS, SCALES, hasData, select } from './lib/model.js'
 import { readParam, writeParams } from './urlState.js'
 
@@ -57,6 +58,7 @@ export default function App() {
         {view.brand !== 'all' && <><span>● phone</span> <span>■ tablet</span> <span>▲ watch</span> <span>◆ laptop</span></>}
         <span className="legend-note">lines follow each product line at one size · tap a mark for its source</span>
       </p>}
+      <Method />
     </main>
   )
 }

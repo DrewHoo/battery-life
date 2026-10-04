@@ -63,6 +63,7 @@ export const DEVICES = payload.devices
   .filter((d) => d.date && LINES[d.line])
   .map((d) => ({ ...d, t: Date.parse(d.date + 'T00:00:00Z'), brand: LINES[d.line].brand }))
 export const GENERATED = payload.generated
+export const ROWS = payload.rows
 
 const measured = (d) => d.runtime && 'ABC'.includes(d.runtime.grade)
 const HAS = {
