@@ -95,7 +95,9 @@ export default function Method() {
       </table>
       <p className="fine">
         Archived pages via the <a href="https://web.archive.org/">Internet Archive</a>. Apple, Google and Dell marks from{' '}
-        <a href="https://simpleicons.org/">Simple Icons</a> (CC0); all trademarks belong to their owners and identify the devices only.
+        <a href="https://simpleicons.org/">Simple Icons</a> (CC0); the Samsung mark from the samsung.com favicon as redrawn on{' '}
+        <a href="https://commons.wikimedia.org/wiki/File:Samsung_icon.svg">Wikimedia Commons</a> (CC BY-SA); the Lenovo mark after the
+        lenovo.com favicon. All trademarks belong to their owners and identify the devices only.
       </p>
     </section>
   )

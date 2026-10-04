@@ -1,6 +1,10 @@
 // Brand marks for the chart. Apple, Google and Dell paths are from Simple
-// Icons 16.34.0 (CC0).
+// Icons 16.34.0 (CC0). The Samsung squircle and S are from the samsung.com
+// favicon as redrawn on Wikimedia Commons (Samsung_icon.svg, CC BY-SA); the
+// Lenovo box and L follow the lenovo.com favicon.
 // Trademarks belong to their owners; used here to identify the devices.
+export const SAMSUNG = {"box": "m 396.66982,132.41239 c 3.74878,28.30877 2.82192,47.58671 2.82192,47.58671 0,0 0.92686,19.2745 -2.82192,47.57982 -3.93139,29.62842 -14.41969,56.4935 -32.91894,76.16768 l -0.003,0.003 c -19.66729,18.48891 -46.52203,28.9841 -76.16423,32.91549 -28.30877,3.74878 -47.58326,2.82536 -47.58326,2.82536 0,0 -19.27794,0.92341 -47.58326,-2.82536 -29.63876,-3.93139 -56.49694,-14.42658 -76.16423,-32.91549 l -0.003,-0.003 C 97.7532,284.07242 87.26145,257.22457 83.33351,227.57892 79.58129,199.2736 80.50815,180.00599 80.50815,180.00599 c 0,0 -0.92686,-19.28483 2.82536,-47.5936 C 87.26146,102.77708 97.7532,75.91889 116.249,56.2516 h 0.003 c 19.67074,-18.4958 46.52203,-28.9841 76.16423,-32.91894 28.30877,-3.75222 47.58326,-2.82192 47.58326,-2.82192 0,0 19.2745,-0.9303 47.58326,2.82192 29.63876,3.93139 56.49694,14.41969 76.16423,32.91894 h 0.003 c 18.49924,19.66729 28.98755,46.52203 32.91894,76.16079", "s": "m 257.37852,216.22584 c -8.69923,-21.89187 -68.78506,-31.90317 -76.17223,-66.46646 -1.77937,-8.48354 -1.59963,-15.2596 -0.37745,-22.86245 4.4934,-27.53558 29.08133,-37.47501 59.16916,-37.47501 23.95884,0 57.03033,5.75155 57.03033,42.59747 v 11.88057 h -42.18408 c 0,0 0,-7.33323 0,-10.44267 0,-9.23844 -5.84143,-15.34948 -15.72694,-15.34948 -10.58644,0 -14.28903,5.94926 -15.45732,11.34137 -0.39541,1.92317 -0.62909,5.51789 0.17973,8.91491 4.781,19.80692 68.98274,30.37544 76.11828,65.78345 0.70096,3.61271 2.22875,13.17466 0.17973,27.78722 -4.00812,28.18265 -29.20712,38.6433 -59.79822,38.6433 -31.81332,0 -61.50575,-11.37731 -61.50575,-49.08597 l 0.036,-13.10276 h 45.36542 v 16.37398 c 0,9.29236 6.43455,15.36744 17.039,15.36744 11.25149,0 15.06189,-5.73359 16.48181,-11.35932 0.77286,-3.18134 1.27613,-8.4476 -0.37745,-12.5456 z", "transform": "matrix(0.60984391,0,0,0.61476934,-49.0356,-12.546528)", "viewBox": "0 0 194.65388 196.22363"}
+
 export const BRAND_PATHS = {
   "Apple": "M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701",
   "Google": "M12.48 10.92v3.28h7.84c-.24 1.84-.853 3.187-1.787 4.133-1.147 1.147-2.933 2.4-6.053 2.4-4.827 0-8.6-3.893-8.6-8.72s3.773-8.72 8.6-8.72c2.6 0 4.507 1.027 5.907 2.347l2.307-2.307C18.747 1.44 16.133 0 12.48 0 5.867 0 .307 5.387.307 12s5.56 12 12.173 12c3.573 0 6.267-1.173 8.373-3.36 2.16-2.16 2.84-5.213 2.84-7.667 0-.76-.053-1.467-.173-2.053H12.48z",
@@ -8,24 +12,25 @@ export const BRAND_PATHS = {
 }
 // One data-URI SVG per (brand, color), cached. Every mark is drawn at about
 // the same visual weight: the Apple logo is outlined, not solid, because a
-// filled near-circle outweighs everything around it. Samsung and Lenovo
-// publish only wordmarks, unreadable at mark size, so they get the shapes
-// people know them by: Samsung's tilted oval and ThinkPad's TrackPoint dot.
+// filled near-circle outweighs everything around it. Samsung and Lenovo use
+// their favicons (a rounded square with an S, a square with an L), also
+// outlined, with the letter solid.
 const cache = new Map()
 export function brandIcon(brand, color) {
   const key = `${brand}|${color}`
   if (cache.has(key)) return cache.get(key)
-  const body =
-    brand === 'Apple'
-      ? `<g transform="translate(2.4 2.4) scale(0.8)"><path d="${BRAND_PATHS.Apple}" fill="none" stroke="${color}" stroke-width="2.4" stroke-linejoin="round"/></g>`
-      : brand === 'Samsung'
-        ? `<ellipse cx="12" cy="12" rx="11" ry="6.2" transform="rotate(-14 12 12)" fill="none" stroke="${color}" stroke-width="2.4"/>`
-        : brand === 'Lenovo'
-          ? `<rect x="3" y="3" width="18" height="18" rx="2.5" fill="none" stroke="${color}" stroke-width="2.4"/><circle cx="12" cy="12" r="3.6" fill="${color}"/>`
-          : brand === 'Google'
-            ? `<g transform="translate(3 3) scale(0.75)"><path d="${BRAND_PATHS.Google}" fill="${color}"/></g>`
-            : `<path d="${BRAND_PATHS[brand]}" fill="${color}"/>`
-  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">${body}</svg>`
+  let viewBox = '0 0 24 24', body
+  if (brand === 'Apple')
+    body = `<g transform="translate(2.4 2.4) scale(0.8)"><path d="${BRAND_PATHS.Apple}" fill="none" stroke="${color}" stroke-width="2.4" stroke-linejoin="round"/></g>`
+  else if (brand === 'Google')
+    body = `<g transform="translate(3 3) scale(0.75)"><path d="${BRAND_PATHS.Google}" fill="${color}"/></g>`
+  else if (brand === 'Samsung') {
+    viewBox = SAMSUNG.viewBox
+    body = `<g transform="${SAMSUNG.transform}"><path d="${SAMSUNG.box}" fill="none" stroke="${color}" stroke-width="30"/><path d="${SAMSUNG.s}" fill="${color}"/></g>`
+  } else if (brand === 'Lenovo')
+    body = `<rect x="2.2" y="2.2" width="19.6" height="19.6" fill="none" stroke="${color}" stroke-width="2.4"/><path d="M8 6.2h3v8.9h5.2v2.7H8z" fill="${color}"/>`
+  else body = `<path d="${BRAND_PATHS[brand]}" fill="${color}"/>`
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="${viewBox}">${body}</svg>`
   const uri = `data:image/svg+xml;charset=utf-8,${encodeURIComponent(svg)}`
   cache.set(key, uri)
   return uri
