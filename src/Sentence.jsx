@@ -33,11 +33,11 @@ function Word({ label, options, value, onPick }) {
 }
 
 export default function Sentence({ metric, cat, brand, scale, on }) {
-  const cats = CATEGORIES.filter(([c]) => !(metric === 'h' && c === 'watch'))
+  const cats = CATEGORIES.filter(([c]) => !(metric !== 'wh' && c === 'watch'))
   return (
     <p className="sentence">
       <Word label={METRICS.find(([m]) => m === metric)[1]} options={METRICS} value={metric} onPick={on.metric} />
-      <span>of</span>
+      <span>for</span>
       <Word label={CATEGORIES.find(([c]) => c === cat)[1]} options={cats.map(([c, , t]) => [c, t])} value={cat} onPick={on.cat} />
       <span>from</span>
       <Word

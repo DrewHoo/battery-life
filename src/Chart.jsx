@@ -1,16 +1,15 @@
 import { useEffect, useMemo, useRef, useState } from 'react'
-import { buildChart, C } from './lib/chart.js'
+import { buildChart, heightFor, C } from './lib/chart.js'
 import { LINES, GRADE_WORDS, TIER_WORDS, valueOf } from './lib/model.js'
 
 const SSR_WIDTH = 932
-const heightFor = (w) => Math.round(Math.max(360, Math.min(540, w * 0.58)))
 
 // In the prerender there is no document; scripts/prerender.mjs puts a
 // linkedom one on globalThis.__plotDocument before rendering.
 function ssrSvg(props) {
   const document = globalThis.__plotDocument
   if (!document) return ''
-  return buildChart({ ...props, width: SSR_WIDTH, height: heightFor(SSR_WIDTH), document }).outerHTML
+  return buildChart({ ...props, width: SSR_WIDTH, height: heightFor(props.metric, SSR_WIDTH), document }).outerHTML
 }
 
 const fmtDate = (d) => new Date(d.t).toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' })
@@ -38,17 +37,22 @@ function Popover({ d, metric, pos, pinned, onClose }) {
         {d.series ?? LINES[d.line].label} · {fmtDate(d)}
       </div>
       <div className="pop-val">
-        {metric === 'wh' ? `${d.wh} Wh` : hm(d.runtime.value)}
+        {metric === 'wh' ? `${d.wh} Wh` : metric === 'w' ? `${(d.wh / d.runtime.value).toFixed(2)} W` : hm(d.runtime.value)}
         <span className="pop-grade">
           {metric === 'wh' ? TIER_WORDS[d.whSrc?.tier] ?? d.whSrc?.tier : `${d.runtime.grade} · ${GRADE_WORDS[d.runtime.grade]}`}
         </span>
       </div>
-      {metric === 'h' && d.runtime.pick === 'max' && d.runtime.n > 1 && (
+      {metric !== 'wh' && d.runtime.pick === 'max' && d.runtime.n > 1 && (
         <div className="pop-meta">
           longest of {d.runtime.n} tested configs; others {d.runtime.sources.slice(1).map((s) => hm(s.value)).join(', ')}
         </div>
       )}
-      {metric === 'h' && d.wh != null && <div className="pop-meta">{d.wh} Wh battery</div>}
+      {metric === 'w' && <div className="pop-meta">{d.wh} Wh ÷ {hm(d.runtime.value)} of browsing</div>}
+      {(metric === 'h' || metric === 'vs') && d.wh != null && (
+        <div className="pop-meta">
+          {d.wh} Wh battery{metric === 'vs' && ` · ${(d.wh / d.runtime.value).toFixed(2)} W while browsing`}
+        </div>
+      )}
       {metric === 'wh' && d.runtime && d.category !== 'watch' && <div className="pop-meta">{hm(d.runtime.value)} of browsing ({d.runtime.grade})</div>}
       {src?.quote && (
         <blockquote className="pop-q">
@@ -90,7 +94,7 @@ export default function Chart({ devices, metric, labels, scale }) {
 
   useEffect(() => {
     if (!width) return
-    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, width, height: heightFor(width), document })
+    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, width, height: heightFor(metric, width), document })
     host.current.replaceChildren(fig)
     setPlot(fig)
     setHover(null)
@@ -98,10 +102,12 @@ export default function Chart({ devices, metric, labels, scale }) {
   }, [devices, metric, labels, scale, width])
 
   const pts = useMemo(() => {
-    if (!plot) return []
-    const x = plot.scale('x'), y = plot.scale('y')
-    return devices.map((d) => ({ d, px: x.apply(d.t), py: y.apply(valueOf(d, metric)) }))
-  }, [plot, devices, metric])
+    if (!plot?.devicePos) return []
+    return devices.map((d) => {
+      const [px, py] = plot.devicePos(d)
+      return { d, px, py }
+    })
+  }, [plot, devices])
 
   const nearest = (e) => {
     const r = host.current.getBoundingClientRect()
@@ -126,7 +132,7 @@ export default function Chart({ devices, metric, labels, scale }) {
   }
 
   const focus = pinned ?? hover
-  const linePts = focus ? pts.filter((p) => p.d.series === focus.d.series).sort((a, b) => a.px - b.px) : []
+  const linePts = focus ? pts.filter((p) => p.d.series === focus.d.series).sort((a, b) => a.d.t - b.d.t) : []
   const W = width ?? SSR_WIDTH
   const pos = focus ? { left: Math.min(Math.max(focus.px + 14, 0), W - 280), top: Math.max(focus.py - 20, 0) } : null
   if (pos && focus.px + 14 + 280 > W) pos.left = Math.max(0, focus.px - 294)
@@ -142,7 +148,7 @@ export default function Chart({ devices, metric, labels, scale }) {
         onPointerUp={onUp}
       />
       {focus && (
-        <svg className="overlay" width={W} height={heightFor(W)}>
+        <svg className="overlay" width={W} height={heightFor(metric, W)}>
           <polyline points={linePts.map((p) => `${p.px},${p.py}`).join(' ')} fill="none" stroke={C.rust} strokeOpacity="0.55" strokeWidth="1" />
           {linePts.map((p) => (
             <circle key={p.d.id} cx={p.px} cy={p.py} r="2" fill={C.rust} />

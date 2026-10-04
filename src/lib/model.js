@@ -29,8 +29,11 @@ export const SCALES = [
   ['log', 'log'],
 ]
 export const METRICS = [
+  ['trend', 'how batteries changed'],
+  ['vs', 'battery life vs capacity'],
   ['h', 'battery life'],
   ['wh', 'battery capacity'],
+  ['w', 'power draw'],
 ]
 
 // Capacity evidence: a label, Apple's or Google's transport sheet, the
@@ -60,15 +63,27 @@ export const DEVICES = payload.devices
   .map((d) => ({ ...d, t: Date.parse(d.date + 'T00:00:00Z'), brand: LINES[d.line].brand }))
 export const GENERATED = payload.generated
 
+const measured = (d) => d.runtime && 'ABC'.includes(d.runtime.grade)
+const HAS = {
+  wh: (d) => d.wh != null,
+  h: (d) => d.runtime != null,
+  // Power draw and the scatter need a measured result and a capacity; a
+  // manufacturer's claim divided into Wh is not a measurement of anything.
+  w: (d) => d.wh != null && measured(d),
+  vs: (d) => d.wh != null && measured(d),
+  trend: () => true,
+}
+
 export function select({ metric, cat, brand }) {
   return DEVICES.filter(
     (d) =>
       (cat === 'all' || d.category === cat) &&
       (brand === 'all' || d.brand === brand) &&
-      // Watches have no comparable runtime test; their claims live elsewhere.
-      (metric === 'wh' ? d.wh != null : d.category !== 'watch' && d.runtime != null),
+      // Watches have no comparable runtime test; they appear on capacity only.
+      (metric === 'wh' || d.category !== 'watch') &&
+      HAS[metric](d),
   )
 }
 
-export const valueOf = (d, metric) => (metric === 'wh' ? d.wh : d.runtime?.value)
+export const valueOf = (d, metric) => (metric === 'wh' ? d.wh : metric === 'w' ? d.wh / d.runtime.value : d.runtime?.value)
 export const strongOf = (d, metric) => (metric === 'wh' ? STRONG_TIERS.has(d.whSrc?.tier) : d.runtime?.grade === 'A' || d.runtime?.grade === 'B')

@@ -4,8 +4,12 @@ import Sentence from './Sentence.jsx'
 import { BRANDS, CATEGORIES, DEVICES, GENERATED, METRICS, SCALES, select } from './lib/model.js'
 import { readParam, writeParams } from './urlState.js'
 
-const DEFAULTS = { metric: 'h', cat: 'all', brand: 'all', scale: 'linear' }
+const DEFAULTS = { metric: 'trend', cat: 'all', brand: 'all', scale: 'linear' }
 const SETUP = {
+  trend:
+    'Each category’s average since 2012. Phones got longer battery life by carrying bigger batteries; laptops got there on the same battery by drawing half the power.',
+  vs: 'Each mark is a device; trails follow a product line through its generations. Dashed diagonals are constant power draw: a trail running up and to the right got a bigger battery, one climbing straight up got more efficient.',
+  w: 'Battery capacity divided by hours of Wi-Fi browsing at about 150 nits: the average power the device drew while you used it.',
   h: 'Hours of continuous Wi-Fi web browsing, from a full charge to shutdown, screen at about 150 nits. Filled marks are lab tests at a fixed brightness; hollow ones are older tests or the maker’s claim.',
   wh: 'Watt-hours, from each maker’s battery shipping sheets, spec pages and teardowns. Filled marks come from the maker or a teardown; hollow ones from aggregators.',
 }
@@ -20,13 +24,13 @@ export default function App() {
     if (CATEGORIES.some(([k]) => k === c)) next.cat = c
     if (BRANDS.includes(b)) next.brand = b
     if (SCALES.some(([k]) => k === sc)) next.scale = sc
-    if (next.metric === 'h' && next.cat === 'watch') next.cat = 'all'
+    if (next.metric !== 'wh' && next.cat === 'watch') next.cat = 'all'
     setView(next)
   }, [])
 
   const update = (patch) => {
     const next = { ...view, ...patch }
-    if (next.metric === 'h' && next.cat === 'watch') next.cat = 'all'
+    if (next.metric !== 'wh' && next.cat === 'watch') next.cat = 'all'
     setView(next)
     writeParams({ m: next.metric === DEFAULTS.metric ? null : next.metric, c: next.cat === 'all' ? null : next.cat, b: next.brand === 'all' ? null : next.brand, s: next.scale === 'linear' ? null : next.scale })
     window.dhAnalytics?.track('View', next)
@@ -45,10 +49,10 @@ export default function App() {
       <Sentence {...view} on={on} />
       <p className="setup">{SETUP[view.metric]}</p>
       <Chart devices={devices} metric={view.metric} labels={view.cat !== 'all'} scale={view.scale} />
-      <p className="legend">
+      {view.metric !== 'trend' && <p className="legend">
         <span>● phone</span> <span>■ tablet</span> <span>▲ watch</span> <span>◆ laptop</span>
         <span className="legend-note">lines follow each product line at one size · tap a mark for its source</span>
-      </p>
+      </p>}
     </main>
   )
 }
