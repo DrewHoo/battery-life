@@ -172,7 +172,34 @@
    "brightnessNits": null,
    "network": "wifi",
    "note": "Understanding the iPhone 3GS, \"by Anand Lal Shimpi on July 7, 2009\". This page states no brightness or page interval."
+  },
+  {
+   "device": "iphone-4",
+   "field": "runtime_h",
+   "value": 9.96,
+   "url": "http://www.anandtech.com/show/3794/the-iphone-4-review/13",
+   "archiveUrl": "https://web.archive.org/web/20110103012219id_/http://www.anandtech.com/show/3794/the-iphone-4-review/13",
+   "quote": "Apple claims the iPhone 4 will last for up to 10 hours over WiFi, we measured just under that at 9.96 hours.",
+   "retrieved": "2026-10-03",
+   "outlet": "anandtech",
+   "raw": "9.96 hours",
+   "testDate": "2010-06-30",
+   "brightnessNits": null,
+   "network": "wifi",
+   "protocolQuote": "We've scripted almost two dozen webpages to load, pause for 20 seconds, then forward on to the next page. None of the pages use any Flash. This process repeats until the battery is dead. Screen brightness on the iPhones was set to 50% and the screens remained on the whole time.",
+   "note": "GSM iPhone 4 (June 2010 review, \"by Brian Klug & Anand Lal Shimpi on 6/30/2010\"). Brightness stated as 50%, not in nits."
   }
  ],
- "rejections": []
+ "rejections": [
+  {
+   "device": "iphone-2007",
+   "field": "runtime_h",
+   "note": "AnandTech original iPhone review (anandtech.com/show/2265/26, 7/2/2007, Wayback 20110225040318) has the WiFi web-browsing result only in a chart image (alt \"Battery Life Test - Web Browsing\"); the text says only \"This time on WiFi, the iPhone comes in closer to its estimated 6 hour internet battery life\". The 6h53m in the text is the Edge email test, not browsing. Also checked anandtech.com/show/2566 and /show/2571/18 (iPhone 3G pages; they reference the original iPhone results without a WiFi number) and /show/2274 (3G-vs-Edge analysis on a Blackjack). Notebookcheck has no own review; GSMArena table starts in 2012."
+  },
+  {
+   "device": "iphone-4s",
+   "field": "runtime_h",
+   "note": "No Notebookcheck in-house review found (notebookcheck.net/.com device pages Apple-iPhone-4S.102033/102032 list only external reviews). AnandTech iPhone 4S review battery page (anandtech.com/show/4971/apple-iphone-4s-review-att-verizon/15, 10/31/2011, Wayback 20111224052556) gives the WiFi web-browsing result only as a chart image (alt \"WiFi Web Browsing Battery Life\"); prose has no number. GSMArena bulk table covers the 4S separately."
+  }
+ ]
 }
