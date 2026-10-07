@@ -15,6 +15,8 @@ export const TREND_CATS = [
   ['phone', 'Phones'],
   ['tablet', 'Tablets'],
   ['laptop', 'Laptops'],
+  // Watches have capacity only; categoryTrends skips them for the other two.
+  ['watch', 'Watches'],
 ]
 export const BASE_YEAR = 2012
 

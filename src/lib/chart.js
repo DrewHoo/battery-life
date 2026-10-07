@@ -72,7 +72,7 @@ function addText(document, svg, items, attrs = {}) {
   svg.appendChild(g)
 }
 
-const niceMax = (v) => (v <= 2 ? Math.ceil(v * 4) / 4 : v <= 30 ? Math.ceil(v / 5) * 5 : Math.ceil(v / 20) * 20)
+const niceMax = (v) => (v <= 2 ? Math.ceil(v * 4) / 4 : v <= 30 ? Math.ceil(v / 5) * 5 : Math.ceil(v / 10) * 10)
 const LOG_TICKS = [0.2, 0.3, 0.5, 1, 2, 3, 5, 10, 20, 30, 50, 100]
 const SYMBOL_SCALE = { domain: ['phone', 'tablet', 'watch', 'laptop'], range: ['phone', 'tablet', 'watch', 'laptop'].map((c) => SYMBOL[c]) }
 // Device marks: brand icons when brands are mixed, category symbols when
@@ -81,7 +81,7 @@ const dots = (devices, metric, small, x, y, { brands = false, dim = false } = {}
   brands
     ? Plot.image(devices, {
         x, y, width: small ? 9 : 12, height: small ? 9 : 12,
-        src: (d) => brandIcon(d.brand, strongOf(d, metric) ? C.cream : C.faint),
+        src: (d) => brandIcon(d.brand, strongOf(d, metric) ? 'cream' : 'faint'),
         opacity: dim ? 0.3 : 1,
       })
     : Plot.dot(devices, {
@@ -93,13 +93,19 @@ const dots = (devices, metric, small, x, y, { brands = false, dim = false } = {}
         fillOpacity: dim ? 0.35 : 1,
       })
 
+const CAT_STROKE = { phone: C.cream, laptop: C.rust, tablet: C.muted, watch: '#9db8b0' }
+
 // ---- over time: battery life, capacity or power draw by release date ------
-function buildTimeline({ devices, metric, width, height, document, labels, scale, brands }) {
+// `refs` are horizontal reference lines ({ y, text }); the averages are each
+// category's yearly value from categoryTrends, drawn bold over dim devices.
+function buildTimeline({ devices, metric, width, height, document, labels, scale, brands, refs = [] }) {
   const small = width < 560
+  const avg = categoryTrends(devices).filter((r) => r.measure === metric)
+  const avgEnds = Object.values(groupBy(avg, (r) => r.cat)).map((rs) => rs.at(-1))
   const y = (d) => valueOf(d, metric)
   const tr = trends(devices, metric)
   const last = Object.values(groupBy(tr, (p) => p.series)).map((ps) => ps.at(-1))
-  const yMax = Math.max(...devices.map(y), 1)
+  const yMax = Math.max(...devices.map(y), ...refs.map((r) => r.y * 1.04), 1)
   const yMin = Math.min(...devices.map(y))
   const logDomain = [LOG_TICKS.findLast((t) => t <= yMin * 0.9) ?? 0.1, LOG_TICKS.find((t) => t >= yMax * 1.1) ?? 120]
   const log = metric === 'wh' && scale === 'log'
@@ -107,7 +113,7 @@ function buildTimeline({ devices, metric, width, height, document, labels, scale
   const unit = { wh: 'Wh', h: 'hours', w: 'watts while browsing' }[metric]
   const fig = Plot.plot({
     document, width, height,
-    marginLeft: small ? 30 : 40, marginRight: labels ? 132 : 24, marginTop: 16, marginBottom: 28,
+    marginLeft: small ? 30 : 40, marginRight: labels ? 132 : small ? 64 : 84, marginTop: 16, marginBottom: 28,
     style: STYLE(small),
     x: { type: 'utc', domain: [Date.UTC(2007, 0, 1), Date.UTC(2027, 0, 1)], ticks: small ? 5 : 10, tickSize: 0, label: null },
     y: log
@@ -116,8 +122,13 @@ function buildTimeline({ devices, metric, width, height, document, labels, scale
     symbol: SYMBOL_SCALE,
     marks: [
       Plot.gridY(log ? logTicks : undefined, { stroke: C.line, strokeOpacity: 1, strokeDasharray: '1,3' }),
-      Plot.line(tr, { x: 't', y: 'v', z: 'series', stroke: C.faint, strokeWidth: small ? 0.7 : 1, strokeOpacity: 0.8 }),
-      dots(devices, metric, small, 't', y, { brands }),
+      Plot.ruleY(refs, { y: 'y', stroke: C.faint, strokeDasharray: '5,4' }),
+      Plot.text(refs, { y: 'y', text: 'text', frameAnchor: 'left', dx: 4, dy: -7, textAnchor: 'start', fill: C.muted, fontSize: small ? 9.5 : 10.5 }),
+      Plot.line(tr, { x: 't', y: 'v', z: 'series', stroke: C.faint, strokeWidth: small ? 0.5 : 0.7, strokeOpacity: 0.3 }),
+      dots(devices, metric, small, 't', y, { brands, dim: true }),
+      Plot.line(avg, { x: 't', y: 'value', z: 'cat', stroke: C.bg, strokeWidth: small ? 6 : 8, strokeOpacity: 0.85, curve: 'monotone-x' }),
+      Plot.line(avg, { x: 't', y: 'value', z: 'cat', stroke: (r) => CAT_STROKE[r.cat], strokeWidth: small ? 2.5 : 3, curve: 'monotone-x' }),
+      Plot.text(avgEnds, { x: 't', y: 'value', text: 'label', dx: 7, textAnchor: 'start', fill: (r) => CAT_STROKE[r.cat], stroke: C.bg, strokeWidth: 3, paintOrder: 'stroke', fontSize: small ? 10 : 11 }),
     ],
   })
   const xs = fig.scale('x'), ys = fig.scale('y')
@@ -126,7 +137,6 @@ function buildTimeline({ devices, metric, width, height, document, labels, scale
   return fig
 }
 
-const CAT_STROKE = { phone: C.cream, laptop: C.rust, tablet: C.muted }
 
 // ---- capacity vs battery life, with lines of constant power draw ----------
 const ISO_W = [0.5, 1, 2, 5, 10, 20]
@@ -195,7 +205,7 @@ function buildTrends({ devices, width, height, document }) {
   const unit = Object.fromEntries(MEASURES.map(([m, , u]) => [m, u]))
   const title = Object.fromEntries(MEASURES.map(([m, t]) => [m, t]))
   const facet = small ? 'fy' : 'fx'
-  const fmtV = (m, v) => (m === 'w' && v < 10 ? v.toFixed(1) : String(Math.round(v)))
+  const fmtV = (m, v) => (v < 10 ? v.toFixed(1) : String(Math.round(v)))
   // End labels: one per (measure, category), nudged apart in log space.
   const ends = Object.values(groupBy(rows, (r) => r.measure + r.cat)).map((rs) => ({ ...rs.at(-1) }))
   for (const ms of Object.values(groupBy(ends, (r) => r.measure))) {

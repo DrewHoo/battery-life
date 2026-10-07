@@ -73,7 +73,8 @@ function Popover({ d, metric, pos, pinned, onClose }) {
   )
 }
 
-export default function Chart({ devices, metric, labels, scale, brands }) {
+export default function Chart({ devices, metric, labels = false, scale = 'linear', brands = true, refs, id }) {
+  const ssrId = `chart-ssr-${id ?? metric}`
   const wrap = useRef(null)
   const host = useRef(null)
   const [width, setWidth] = useState(null)
@@ -83,7 +84,7 @@ export default function Chart({ devices, metric, labels, scale, brands }) {
   // First client render reuses the prerendered markup already in the page, so
   // hydration matches exactly; after mount the live chart replaces it.
   const [ssr] = useState(() =>
-    typeof document !== 'undefined' && document.getElementById('chart-ssr') ? document.getElementById('chart-ssr').innerHTML : ssrSvg({ devices, metric, labels, scale, brands }),
+    typeof document !== 'undefined' && document.getElementById(ssrId) ? document.getElementById(ssrId).innerHTML : ssrSvg({ devices, metric, labels, scale, brands, refs }),
   )
 
   useEffect(() => {
@@ -94,12 +95,12 @@ export default function Chart({ devices, metric, labels, scale, brands }) {
 
   useEffect(() => {
     if (!width) return
-    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, brands, width, height: heightFor(metric, width), document })
+    const fig = buildChart({ devices, metric, labels: labels && width > 560, scale, brands, refs, width, height: heightFor(metric, width), document })
     host.current.replaceChildren(fig)
     setPlot(fig)
     setHover(null)
     setPinned(null)
-  }, [devices, metric, labels, scale, brands, width])
+  }, [devices, metric, labels, scale, brands, refs, width])
 
   const pts = useMemo(() => {
     if (!plot?.devicePos || plot.metric !== metric) return []
@@ -139,7 +140,7 @@ export default function Chart({ devices, metric, labels, scale, brands }) {
 
   return (
     <div className="chartwrap" ref={wrap}>
-      {!plot && <div id="chart-ssr" className="chart" dangerouslySetInnerHTML={{ __html: ssr }} />}
+       {!plot && <div id={ssrId} className="chart" dangerouslySetInnerHTML={{ __html: ssr }} />}
       <div
         className="chart"
         ref={host}

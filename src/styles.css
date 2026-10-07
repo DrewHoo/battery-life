@@ -130,3 +130,21 @@ h1 {
 .sources td { text-align: right; padding: 4px 6px; border-bottom: 1px dotted var(--line); color: var(--ink); vertical-align: top; }
 .src-note { color: var(--ink-faint); }
 .method .fine { font-size: 12.5px; color: var(--ink-faint); }
+
+/* category control: the page's one setting */
+.cats { display: flex; flex-wrap: wrap; justify-content: center; gap: 6px; margin: 18px auto 0; }
+.cats button {
+  font-family: 'IBM Plex Mono', monospace; font-size: 12px; letter-spacing: 0.04em;
+  background: transparent; color: var(--ink-muted); border: 1px solid var(--line);
+  border-radius: 999px; padding: 6px 14px; cursor: pointer; min-height: 34px;
+}
+.cats button:hover { color: var(--cream); border-color: var(--ink-faint); }
+.cats button[aria-pressed='true'] { color: var(--bg); background: var(--cream); border-color: var(--cream); }
+
+/* story sections */
+.story { margin-top: 44px; }
+.story h2 { font-family: 'Graduate', serif; font-weight: 400; font-size: 21px; letter-spacing: 0.04em; color: var(--cream); margin: 0 0 6px; }
+.story > p { max-width: 680px; margin: 0; color: var(--ink-muted); font-size: 15px; }
+.story .chartwrap { margin-top: 14px; }
+.story .empty { font-style: italic; color: var(--ink-faint); margin-top: 14px; }
+.design { margin-top: 36px; }

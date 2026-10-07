@@ -82,7 +82,7 @@ export function select({ metric, cat, brand }) {
       (cat === 'all' || d.category === cat) &&
       (brand === 'all' || d.brand === brand) &&
       // Watches have no comparable runtime test; they appear on capacity only.
-      (metric === 'wh' || d.category !== 'watch') &&
+      (metric === 'wh' || metric === 'trend' || d.category !== 'watch') &&
       HAS[metric](d),
   )
 }
